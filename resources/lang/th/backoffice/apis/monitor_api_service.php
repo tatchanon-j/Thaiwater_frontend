@@ -1,0 +1,45 @@
+<?php
+return [
+    'filter_service' => 'เซอร์วิส',
+
+    'page_name'             => 'monitor api_service',
+    'main-menu-mode'        => 'API',
+
+    'filter-datestart' => 'วันที่ขอข้อมูล',
+    'filter-dateend' => 'ถึงวันที่ขอข้อมูล',
+    'filter-agency' => 'ข้อมูลจากหน่วยงาน',
+    'filter-user' => 'ชื่อผู้ร้องขอข้อมูล',
+    'filter-user_agency' => 'หน่วยงานผู้ขอข้อมูล',
+
+    'col-order' => 'รหัสรายการ',
+    'col-user' => 'ชื่อผู้ร้องขอข้อมูล',
+    'col-user_agency' => 'หน่วยงานผู้ร้องขอ',
+    'col-metadataname' => 'ชื่อข้อมูล',
+    'col-count_req' => 'เรียกใช้ (ครั้ง)',
+    'col-count_access' => 'เรียกใช้ครั้งล่าสุด',
+    'col-agency' => 'หน่วยงาน',
+    'col-method' => 'ประเภทการนำออก',
+    'col-duration' => 'ช่วงเวลาของข้อมูล',
+    'col-province-basin' => 'จังหวัด/ลุ่มน้ำ',
+    'col-e_id' => 'Key Access',
+    'col-status' => 'สถานะ',
+
+    'order_code' => 'รหัสคำขอ',
+    'user_name' => 'ชื่อผู้ขอ',
+    'user_agency' => 'หน่วยงานผู้ขอ',
+    'to_date' => 'ถึง',
+    'province' => 'จังหวัด',
+    'basin' => 'ลุ่มน้ำ',
+    'status_true' => '<font color="green">เปิดใช้งาน</font>',
+    'status_false' => '<font color="red">ปิดใช้งาน</font>',
+    'view_log' => 'การดูรายละเอียด download log',
+    'view' => 'การดูลิงค์ดาวน์โหลดข้อมูลหรือเว็บเซอร์วิส',
+    'regen' => 'Regenerate Key Access',
+    'enable' => 'เปิดการใช้งาน',
+    'disable' => 'ปิดการใช้งาน',
+
+    'datetime' => 'วัน-เวลาที่ใช้งาน',
+    'client_ip' => 'ไอพีลูกข่าย',
+    'access_duration' => 'ระยะเวลาการเข้าถึง (วินาที)',
+    'reply_code' => 'สถานะตอบกลับ',
+];

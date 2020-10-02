@@ -1,0 +1,96 @@
+// color
+$color-blue: #0393EC;
+$color-lightblue: #3C8DBC;
+$color-gray: #939598;
+$color-graylight: #e6e7e8;
+$color-white: #ffffff;
+$color-red: #d9534f;
+$color-green: #50B748;
+$color-yellow: #ffcc4e;
+$color-orange: #f0ad4e;
+
+// icon
+$info-white-blue: 'info/info_white_blue_12.png';
+$storm-white-blue: 'storm/storm_white_blue_32.png';
+$clock-white-blue: 'clock/clock_white_blue_32.png';
+$warning-white-blue: 'warning/warning_white_blue_32.png';
+
+// icon rain
+$rain-white-blue: 'rain/default/c_32.png'; //default
+$rain-red: 'rain/red/c_32.png';
+$rain-tawny: 'rain/tawny/c_32.png';
+$rain-orange: 'rain/orange/c_32.png';
+$rain-gold: 'rain/gold/c_32.png';
+$rain-green: 'rain/green/c_32.png';
+$rain-celadon: 'rain/celadon/c_32.png';
+$rain-blue: 'rain/blue/c_32.png';
+// marker rain
+$marker-rain-white-blue: 'rain/default/s_15.png'; //default
+$marker-rain-red: 'rain/red/s_15.png';
+$marker-rain-tawny: 'rain/tawny/s_15.png';
+$marker-rain-orange: 'rain/orange/s_15.png';
+$marker-rain-gold: 'rain/gold/s_15.png';
+$marker-rain-green: 'rain/green/s_15.png';
+$marker-rain-celadon: 'rain/celadon/s_15.png';
+$marker-rain-blue: 'rain/blue/s_15.png';
+
+// icon waterlevel
+$waterlevel-white-blue: 'waterlevel/default/c_32.png'; // default
+$waterlevel-red: 'waterlevel/red/c_32.png';
+$waterlevel-blue: 'waterlevel/blue/c_32.png';
+$waterlevel-green: 'waterlevel/green/c_32.png';
+$waterlevel-yellow: 'waterlevel/yellow/c_32.png';
+$waterlevel-gold: 'waterlevel/gold/c_32.png';
+$waterlevel-gray: 'waterlevel/gray/c_32.png';
+// marker waterlevel
+$marker-waterlevel-white-blue: 'waterlevel/default/s_15.png'; // default
+$marker-waterlevel-red: 'waterlevel/red/s_15.png';
+$marker-waterlevel-blue: 'waterlevel/blue/s_15.png';
+$marker-waterlevel-green: 'waterlevel/green/s_15.png';
+$marker-waterlevel-yellow: 'waterlevel/yellow/s_15.png';
+$marker-waterlevel-gold: 'waterlevel/gold/s_15.png';
+$marker-waterlevel-gray: 'waterlevel/gray/s_15.png';
+
+// marker cctv
+$marker-cctv-img: 'cctv/cctv_img.png';
+$marker-cctv-animation: 'cctv/cctv_animation.png';
+$marker-cctv-dam: 'cctv/cctv_dam.png';
+
+// icon dam
+$dam-white-blue: 'dam/default/c_32.png'; //default
+$dam-yellow: 'dam/yellow/c_32.png';
+$dam-green: 'dam/green/c_32.png';
+$dam-blue: 'dam/blue/c_32.png';
+$dam-red: 'dam/red/c_32.png';
+$dam-min: 'dam/min/c_32.png';
+// marker dam
+$marker-dam-white-blue: 'dam/default/s_15.png'; //default
+$marker-dam-yellow: 'dam/yellow/s_15.png';
+$marker-dam-green: 'dam/green/s_15.png';
+$marker-dam-blue: 'dam/blue/s_15.png';
+$marker-dam-red: 'dam/red/s_15.png';
+$marker-dam-min: 'dam/min/s_15.png';
+
+// icon waterquality
+$waterquality-white-blue: 'waterquality/default/c_32.png'; //default
+$waterquality-white-green: 'waterquality/green/c_32.png';
+$waterquality-white-red: 'waterquality/red/c_32.png';
+$waterquality-white-gray: 'waterquality/gray/c_32.png';
+// marker waterquality
+$marker-waterquality-white-blue: 'waterquality/default/s_15.png'; //default
+$marker-waterquality-white-green: 'waterquality/green/s_15.png';
+$marker-waterquality-white-red: 'waterquality/red/s_15.png';
+$marker-waterquality-white-gray: 'waterquality/gray/s_15.png';
+
+// icon wave
+$wave-white-blue: 'wave/default/c_32.png';
+$wave-white-red: 'wave/red/c_32.png';
+// marker wave
+$marker-wave-white-blue: 'wave/default/s_32.png';
+$marker-wave-white-red: 'wave/red/s_15.png';
+
+// image user path
+$images-user-base-path: '../../../../../images/thailand/marker' !default;
+@function imageUser($file) {
+  @return url($images-user-base-path + '/' + $file + '?v=1.1');
+}

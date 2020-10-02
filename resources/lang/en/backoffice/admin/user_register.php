@@ -1,0 +1,26 @@
+<?php
+return [
+    'page_name' => 'Register',
+    'email' => 'E-mail',
+    'err_email' => 'E-Mail is wrong',
+    'full_name' => 'Name-Surname',
+    'department' => 'Department',
+    'agency' => 'Agency',
+    'ministry' => 'Ministry',
+    'office' => 'Office/Center',
+    'rank' => 'Position',
+    'national_id' => 'National identification number',
+    'err_national_id' => 'National identification number is not valid 13 digits',
+    'mobile_phone' => 'Mobile',
+    'err_mobile_phone' => 'Phone number is not full',
+    'registration_document' => 'Application documents',
+    'captcha' => 'Security code',
+    'status' => 'Usage status',
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+    'register' => 'Register',
+    'unspecified' => '-- Unspecified --',
+
+    'success_message' => 'Register success',
+    'error_message' => 'Unable register!',
+];

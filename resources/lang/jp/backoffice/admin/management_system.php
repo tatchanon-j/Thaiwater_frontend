@@ -1,0 +1,46 @@
+<?php
+return [
+    'active' => '有効',
+    'inactive' => '無効にします',
+    'deleted' => '削除されました',
+
+    'page_name' => 'システム管理',
+    'col_ordinal' => 'いいえ',
+    'col_name' => '名前',
+    'col_desc' => 'ディテール',
+    'col_active' => 'ステータス',
+    'add_group' => 'メニューを追加',
+    'edit_group' => '[編集]メニュー',
+    'delete_group' => 'メニューを削除',
+    'undelete_group' => 'リカバリーメニュー',
+    'delete_prompt' => 'クリアの確認 "%s"',
+    'undelete_prompt' => 'データ復旧の確認 "%s"',
+
+    'fld_name' => 'メニュー',
+    'fld_desc' => 'ディテール',
+    'fld_status' => 'アクティブ状態',
+    'fld_realm' => 'Realm',
+    'fld_services' => 'API Services',
+
+    'err_no_name' => 'メニューを入力します',
+    'err_no_description' => 'メニューを入力してください',
+    'ERR_422' => 'データを保存することはできません \n名前は、既存のかないの複製であることを確認してください',
+
+    'filter_status' => 'ステータスメニュー',
+    'filter_status_all' => '(すべての州 )',
+    'filter_status_none' => '(すべて表示します)',
+    'filter_status_all_selected' => '(すべての州)',
+    'filter_status_none_selected' => '(すべて表示します)',
+    'select_all' => '全て選択',
+    'all_selected' => 'すべて選択',
+    'none_selected' => '何も選択しません',
+
+    'success_add' => 'メニューを追加 "%s" うまく',
+    'success_edit' => '編集します  "%s" うまく',
+    'success_delete' => 'クリア完了',
+    'success_undelete' => 'データ復旧成功',
+    'msg_save_suc' => 'ログイン成功',
+    'btn_confirm' =>  '確かめます',
+    'btn_cancel' => 'キャンセル',
+    'btn_close' => 'クローズド',
+];

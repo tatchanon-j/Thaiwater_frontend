@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3075" inkscape:version="0.48.5 r10040" sodipodi:docname="fc-water.svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 580.1 1052.4"
+	 style="enable-background:new 0 0 580.1 1052.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.9204;}
+	.st1{fill:#043662;stroke:url(#TH-10_1_);stroke-width:0.3;}
+	.st2{fill:#043662;stroke:url(#TH-11_1_);stroke-width:0.3;}
+	.st3{fill:#043662;stroke:url(#TH-12_1_);stroke-width:0.3;}
+	.st4{fill:#043662;stroke:url(#TH-13_1_);stroke-width:0.3;}
+	.st5{fill:#043662;stroke:url(#TH-14_1_);stroke-width:0.3;}
+	.st6{fill:#043662;stroke:url(#TH-15_1_);stroke-width:0.3;}
+	.st7{fill:#043662;stroke:url(#TH-16_1_);stroke-width:0.3;}
+	.st8{fill:#043662;stroke:url(#TH-17_1_);stroke-width:0.3;}
+	.st9{fill:#043662;stroke:url(#TH-18_1_);stroke-width:0.3;}
+	.st10{fill:#043662;stroke:url(#TH-19_1_);stroke-width:0.3;}
+	.st11{fill:#043662;stroke:url(#TH-20_1_);stroke-width:0.3;}
+	.st12{fill:#043662;stroke:url(#TH-21_1_);stroke-width:0.3;}
+	.st13{fill:#043662;stroke:url(#TH-22_1_);stroke-width:0.3;}
+	.st14{fill:#043662;stroke:url(#TH-23_1_);stroke-width:0.3;}
+	.st15{fill:#043662;stroke:url(#TH-24_1_);stroke-width:0.3;}
+	.st16{fill:#043662;stroke:url(#TH-25_1_);stroke-width:0.3;}
+	.st17{fill:#043662;stroke:url(#TH-26_1_);stroke-width:0.3;}
+	.st18{fill:#043662;stroke:url(#TH-27_1_);stroke-width:0.3;}
+	.st19{fill:#043662;stroke:url(#TH-30_1_);stroke-width:0.3;}
+	.st20{fill:#043662;stroke:url(#TH-31_1_);stroke-width:0.3;}
+	.st21{fill:#043662;stroke:url(#TH-32_1_);stroke-width:0.3;}
+	.st22{fill:#043662;stroke:url(#TH-33_1_);stroke-width:0.3;}
+	.st23{fill:#043662;stroke:url(#TH-34_1_);stroke-width:0.3;}
+	.st24{fill:#043662;stroke:url(#TH-35_1_);stroke-width:0.3;}
+	.st25{fill:#043662;stroke:url(#TH-36_1_);stroke-width:0.3;}
+	.st26{fill:#043662;stroke:url(#TH-37_1_);stroke-width:0.3;}
+	.st27{fill:#043662;stroke:url(#TH-38_1_);stroke-width:0.3;}
+	.st28{fill:#043662;stroke:url(#TH-39_1_);stroke-width:0.3;}
+	.st29{fill:#043662;stroke:url(#TH-40_1_);stroke-width:0.3;}
+	.st30{fill:#043662;stroke:url(#TH-41_1_);stroke-width:0.3;}
+	.st31{fill:#043662;stroke:url(#TH-42_1_);stroke-width:0.3;}
+	.st32{fill:#043662;stroke:url(#TH-43_1_);stroke-width:0.3;}
+	.st33{fill:#043662;stroke:url(#TH-44_1_);stroke-width:0.3;}
+	.st34{fill:#043662;stroke:url(#TH-45_1_);stroke-width:0.3;}
+	.st35{fill:#043662;stroke:url(#TH-46_1_);stroke-width:0.3;}
+	.st36{fill:#043662;stroke:url(#TH-47_1_);stroke-width:0.3;}
+	.st37{fill:#043662;stroke:url(#TH-48_1_);stroke-width:0.3;}
+	.st38{fill:#043662;stroke:url(#TH-49_1_);stroke-width:0.3;}
+	.st39{fill:#043662;stroke:url(#TH-50_1_);stroke-width:0.3;}
+	.st40{fill:#043662;stroke:url(#TH-51_1_);stroke-width:0.3;}
+	.st41{fill:#043662;stroke:url(#TH-52_1_);stroke-width:0.3;}
+	.st42{fill:#043662;stroke:url(#TH-53_1_);stroke-width:0.3;}
+	.st43{fill:#043662;stroke:url(#TH-54_1_);stroke-width:0.3;}
+	.st44{fill:#043662;stroke:url(#TH-55_1_);stroke-width:0.3;}
+	.st45{fill:#043662;stroke:url(#TH-56_1_);stroke-width:0.3;}
+	.st46{fill:#043662;stroke:url(#TH-57_1_);stroke-width:0.3;}
+	.st47{fill:#043662;stroke:url(#TH-58_1_);stroke-width:0.3;}
+	.st48{fill:#043662;stroke:url(#TH-60_1_);stroke-width:0.3;}
+	.st49{fill:#043662;stroke:url(#TH-61_1_);stroke-width:0.3;}
+	.st50{fill:#043662;stroke:url(#TH-62_1_);stroke-width:0.3;}
+	.st51{fill:#043662;stroke:url(#TH-63_1_);stroke-width:0.3;}
+	.st52{fill:#043662;stroke:url(#TH-64_1_);stroke-width:0.3;}
+	.st53{fill:#043662;stroke:url(#TH-65_1_);stroke-width:0.3;}
+	.st54{fill:#043662;stroke:url(#TH-66_1_);stroke-width:0.3;}
+	.st55{fill:#043662;stroke:url(#TH-67_1_);stroke-width:0.3;}
+	.st56{fill:#043662;stroke:url(#TH-70_1_);stroke-width:0.3;}
+	.st57{fill:#043662;stroke:url(#TH-71_1_);stroke-width:0.3;}
+	.st58{fill:#043662;stroke:url(#TH-72_1_);stroke-width:0.3;}
+	.st59{fill:#043662;stroke:url(#TH-73_1_);stroke-width:0.3;}
+	.st60{fill:#043662;stroke:url(#TH-74_1_);stroke-width:0.3;}
+	.st61{fill:#043662;stroke:url(#TH-75_1_);stroke-width:0.3;}
+	.st62{fill:#043662;stroke:url(#TH-76_1_);stroke-width:0.3;}
+	.st63{fill:#043662;stroke:url(#TH-77_1_);stroke-width:0.3;}
+	.st64{fill:#043662;stroke:url(#TH-80_1_);stroke-width:0.3;}
+	.st65{fill:#043662;stroke:url(#TH-81_1_);stroke-width:0.3;}
+	.st66{fill:#043662;stroke:url(#TH-82_1_);stroke-width:0.3;}
+	.st67{fill:#043662;stroke:url(#TH-83_1_);stroke-width:0.3;}
+	.st68{fill:#043662;stroke:url(#TH-84_1_);stroke-width:0.3;}
+	.st69{fill:#043662;stroke:url(#TH-85_1_);stroke-width:0.3;}
+	.st70{fill:#043662;stroke:url(#TH-86_1_);stroke-width:0.3;}
+	.st71{fill:#043662;stroke:url(#TH-90_1_);stroke-width:0.3;}
+	.st72{fill:#043662;stroke:url(#TH-91_1_);stroke-width:0.3;}
+	.st73{fill:#043662;stroke:url(#TH-92_1_);stroke-width:0.3;}
+	.st74{fill:#043662;stroke:url(#TH-93_1_);stroke-width:0.3;}
+	.st75{fill:#043662;stroke:url(#TH-94_1_);stroke-width:0.3;}
+	.st76{fill:#043662;stroke:url(#TH-95_1_);stroke-width:0.3;}
+	.st77{fill:#043662;stroke:url(#TH-96_1_);stroke-width:0.3;}
+	.st78{fill:#043662;stroke:url(#TH-LKSG_1_);stroke-width:0.3;}
+	.st79{fill:#FFFF00;stroke:#009600;}
+	.st80{fill:#00FF00;stroke:#009600;}
+	.st81{fill:#FF0000;stroke:#009600;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview3161" inkscape:current-layer="svg3075" inkscape:cx="177.44358" inkscape:cy="766.02016" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="654" inkscape:window-maximized="0" inkscape:window-width="1026" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.8" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<defs>
+	
+	
+		<amcharts:ammap  bottomLatitude="5.614881" leftLongitude="97.344960" projection="mercator" rightLongitude="105.634692" topLatitude="20.463430">
+		</amcharts:ammap>
+</defs>
+<g id="g3081" transform="translate(10,8)" class="st0">
+	
+		<linearGradient id="TH-10_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="569.1902" x2="548.98" y2="569.1902" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-10" inkscape:connector-curvature="0" class="st1" d="M217.1,457.2l2.7,0.3l0.5-0.7l1.9,1.6l5.9,1l12.5-2l0,0l-0.5,5.8
+		l-0.9,0.7l3.1,2.5l-1.9,1.7l-3.3,6.4l0,0l-4.9-1.3l-5.3-0.1l-0.8,4.3l-2.2-1.4l-1.3,1.6l-4.5-1.1l0.5-1.6l-2.1-1l-0.6,2.3l-2-0.1
+		l0.2,4.7l-2.7-0.2l-0.8,1l-1-0.8l-0.7,3.4l0.5,3.7l0,0l-3,0.6l0,0l0.7-4.6l-1.6,0.2l-1.6-5l-2.1-0.8l-0.6-6.4l0,0l-0.8-6.1l0,0
+		l0.7,1.3l9.5,1l2.1-0.8l1-0.9l-0.4-0.8l2.4-1.7L217.1,457.2z"/>
+	
+		<linearGradient id="TH-11_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="560.4888" x2="548.98" y2="560.4888" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-11" inkscape:connector-curvature="0" class="st2" d="M209.5,488l-0.5-3.7l0.7-3.4l1,0.8l0.8-1l2.7,0.2l-0.2-4.7l2,0.1
+		l0.6-2.3l2.1,1l-0.5,1.6l4.5,1.1l1.3-1.6l2.2,1.4l0.8-4.3l5.3,0.1l4.9,1.3l0,0l6.3,2.3l-0.5,0.7l1,0.7l-2.6,3.4l-1.1,0.2l0.5,1.4
+		l-0.7,1.1l-1-0.6l-1.2,5l-1.3-0.3l-0.2,1.1l0,0l-14.7-2.9l-3.6-2.7l0.9-3.4l-2.2-0.5l1.9,0.8l-1.1,2.7l0.7,2.9l-3.5,1.2L209.5,488z
+		"/>
+	
+		<linearGradient id="TH-12_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="585.7427" x2="548.98" y2="585.7427" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-12" inkscape:connector-curvature="0" class="st3" d="M202.2,445.8l-0.8,4.1l2.1,4.3l6.8,1.4l2.5,2.4l2.7-1.3l1.6,0.4
+		l0,0l-1.4,6.9l-2.4,1.7l0.4,0.8l-1,0.9l-2.1,0.8l-9.5-1l-0.7-1.3l0,0l-3.7-6.8l2.3-2.9l-2.2-3.2l1-8l0,0l1.4-1L202.2,445.8z"/>
+	
+		<linearGradient id="TH-13_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="594.8086" x2="548.98" y2="594.8086" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-13" inkscape:connector-curvature="0" class="st4" d="M234.6,436.9l4.5-2.1l0.1,2.1l3.9-2l0,0l-0.4,2.5l-2.1,1.2l0,18
+		l0,0l0,1l0,0l-12.5,2l-5.9-1l-1.9-1.6l-0.5,0.7l-2.7-0.3l0,0l-1.6-0.4l-2.7,1.3l-2.5-2.4l-6.8-1.4l-2.1-4.3l0.8-4.1l0,0l9,0.3
+		l2.6-1.2l2.2,1.1l3.6-1.5l1,0.4l0.3-1L234.6,436.9z"/>
+	
+		<linearGradient id="TH-14_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="615.4773" x2="548.98" y2="615.4773" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-14" inkscape:connector-curvature="0" class="st5" d="M213.4,407.1l0.3,0.9l2.3-0.7l0.3,0.8l3.3,0.4l0,0l-1.8,4
+		l1.9,1.4l0.1,1.6l4.3,0l0.4-1.9l1.1-0.2l6.2,1.1l-0.2,2.5l-2.1,1l1.6,1.7l-0.8,5.5l2.5,1.6l-1.6,4.3l3.4,0l0.1,5.8l0,0l-13.6,6.9
+		l-0.3,1l-1-0.4L216,446l-2.2-1.1l-2.6,1.2l-9-0.3l0,0l-2.9-1.7l-1.4,1l0,0l0.3-3.1l-2.5-0.3l-0.3-2.5l0,0l0-5.2l1.7-2.8l0-4
+		l0.9-1.4l-0.6-1.8l-1.6-0.5l0.3-3.1l0,0l2.2-1.1l2.3,0.6l6-1.5l0.6,4.5l2.9,0.4l2.7-1.5l-0.2-4.5l-1.3-2.8L213.4,407.1z"/>
+	
+		<linearGradient id="TH-15_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="631.0866" x2="548.98" y2="631.0866" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-15" inkscape:connector-curvature="0" class="st6" d="M194.4,399l3.1-0.5l1.4,1.1l2.4-1.4l0.9,2.2l1.9,0.4l0.8,1.5
+		l3-0.6l-0.7,1.6l3.6,0.8l0,0l2.8,2.9l0,0l-2.1,7.5l1.3,2.8l0.2,4.5l-2.7,1.5l-2.9-0.4l-0.6-4.5l-6,1.5l-2.3-0.6l-2.2,1.1l0,0
+		l-3.1-2.8l-0.7-2.6l1-1.3l-1-2l2.4-3l-1.5-2.1l-0.2-4.1l0.2-2.4L194.4,399z"/>
+	
+		<linearGradient id="TH-16_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="665.4977" x2="548.98" y2="665.4977" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-16" inkscape:connector-curvature="0" class="st7" d="M271.4,344.3l1,6.6l-0.7,7.5l0.6,3.1l0,0l0.2,6.2l-2.1-0.7
+		l0.6,4.1l1.9,2.8l1.2,7.4l0,0l-3.4-0.1l-0.9,3.6l-1.6,1.4l-3.1,0.2l-1.3,4l-1.6-1.9l-0.6,1.3l-2.2,0.1l-2.7,1.6l-4-0.6l-1.3,1.9
+		l1.1,2.2l-1.6,0.5l1.6,0.7l-1.3,1.1l-0.4,2.1l-3.8-3.1l-2.7-0.2l-0.8,0.8l0.1,3.2l1,1.2l-1.8,1.1l-2.9-1.9l-2,0.5l-2.3-2.8
+		l-3.2,0.7l-2.6-1l-1.8,3.5l-2.1,0.5l-2.4,2.5l-3.3-0.6l1.3,3.1l-1.6,1.6l0,0l-3.3-0.4l-0.3-0.8l-2.3,0.7l-0.3-0.9l0,0l-2.8-2.9l0,0
+		l1.4-2.2l-1.1-1l-0.3-5.1l-2.2-2.4l-0.7-4.2l1.6-0.8l-0.1-3.4l1.6-2.5l-3.3-2l0,0l2.8-4l2.9-1.2l-0.1-1.8l2.3-2.9l3.5-2.2l0.2-2.1
+		l-1-1.1l3.7-3.3l0.6-6.5l8.7-3.4l-0.1-2.1l-1.6-1.1l0.9-0.8l0,0l2.1-0.1l2.3,3.1l4.7,0.4l3.6,2l2,2.3l-0.1,1.8l3.1,3.3l3.1,0.1
+		l1.5-1l2.9,1.8l4.7,0.4l6.8-4.7l-0.1-9.1l-1-1l1.5-2.7L271.4,344.3z"/>
+	
+		<linearGradient id="TH-17_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="651.3544" x2="548.98" y2="651.3544" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-17" inkscape:connector-curvature="0" class="st8" d="M202.1,376.9l5.4,3.7l0,0l3.3,2l-1.6,2.5l0.1,3.4l-1.6,0.8
+		l0.7,4.2l2.2,2.4l0.3,5.1l1.1,1l-1.4,2.2l0,0l-3.6-0.8l0.7-1.6l-3,0.6l-0.8-1.5l-1.9-0.4l-0.9-2.2l-2.4,1.4l-1.4-1.1l-3.1,0.5l0,0
+		l-1.6-1.3l1.4-5l-1.2-1.1l1-0.5l-2.1,0.1l-0.5-1.3l1.4-2l0,0l4.7,0.1l-0.8-2.6l0.6-1.4l-2.4-1.1l-0.1-1.9l4.2-1l0.2-1.2
+		L202.1,376.9z"/>
+	
+		<linearGradient id="TH-18_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="668.5079" x2="548.98" y2="668.5079" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-18" inkscape:connector-curvature="0" class="st9" d="M185.9,355.5l2.4,1l0.2,1.2l4,1.5l2.4,2.8l1.7,2.5l2.4,7.4
+		l3.3,2.4l0.5,2l-0.7,0.6l0,0l-3.1,1.9l-0.2,1.2l-4.2,1l0.1,1.9l2.4,1.1l-0.6,1.4l0.8,2.6l-4.7-0.1l0,0l-4.5,2.9l-1.5-2.3l-4.9-1
+		l0.1,2.9l-5.2,1.1l-5.5-0.7l-2-1.9l-8.9-1.5l-0.4-1l0,0l0.9-1.7l3.3-1.6l-0.4-2.1l2.2-2.7l-3.9-4.8l0.8-0.8l-2.5-3.3l0.6-1.6
+		l-0.7-2.2l4.5-2.8l4.2,0.5l2.2,1.7l5-1.2l5.6,0.7l1.1,1.4l2.9-4.3l-1.7-2.3l0.4-0.7l1.6,0.4l-1.2-1.9L185.9,355.5z"/>
+	
+		<linearGradient id="TH-19_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="632.6988" x2="548.98" y2="632.6988" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-19" inkscape:connector-curvature="0" class="st10" d="M219.7,408.5l1.6-1.6l-1.3-3.1l3.3,0.6l2.4-2.5l2.1-0.5l1.8-3.5
+		l2.6,1l3.2-0.7l2.3,2.8l2-0.5l2.9,1.9l1.8-1.1l-1-1.2l-0.1-3.2l0.8-0.8l2.7,0.2l3.8,3.1l0.4-2.1l1.3-1.1l-1.6-0.7l1.6-0.5l-1.1-2.2
+		l1.3-1.9l4,0.6l2.7-1.6l2.2-0.1l0.6-1.3l1.6,1.9l1.3-4l3.1-0.2l1.6-1.4l0.9-3.6l3.4,0.1l0,0l2.9,12.5l-7.9,5.4l-0.2,1.5l-1.8,0.5
+		l-0.6,1.5l-1.1-0.5l-0.1,1.3l-3.3-0.5l-1.2-1.9l-1.6,0.8l1.8,11.2l-2.2,3l4,4.4l0,0l-1.1,0.6l0.2,2.8l-1.2,0.1l0.1,3.9l-1.7,0.4
+		l-0.5,1.3l-1,0.4l-0.9-1.9l-1.7-0.8l-2.7-0.1l-2-2.2l0.1,4.8l-4.7,3.9l-2.6-1.4l0.1,2.4l0,0l-3.9,2l-0.1-2.1l-4.5,2.1l0,0l-0.1-5.8
+		l-3.4,0l1.6-4.3l-2.5-1.6l0.8-5.5l-1.6-1.7l2.1-1l0.2-2.5l-6.2-1.1l-1.1,0.2l-0.4,1.9l-4.3,0l-0.1-1.6l-1.9-1.4L219.7,408.5z"/>
+	
+		<linearGradient id="TH-20_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="526.0308" x2="548.98" y2="526.0308" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-20" inkscape:connector-curvature="0" class="st11" d="M244.9,490.2l2.1,0.5l4.2-3.7l-1.8-2.8l3.4,0.3l2.3-1l1.5-2.1
+		l6.8,2.1l7.8,7.6l3.8,0.2l0.1,1.6l1.9,1.6l2.6-1.2l3.4,1.1l1.6,5.3l7,4l3.5,6.4l0,0l-1.5,2l0,0l-3.4-0.8l-2.7,1.9l-1.6-0.1l0.4,1.3
+		l-1.1,2.4l-3.2,0.7l-4.1,2.8l-1.8-1.3l-1,0.9l-2.8,0l-3.8-3.2l-2.1,1.4l0,1l-2.2-1.8l-1.3,0.9l-3.7-1.6l-0.8,2l1.8,0.8l-0.9,0.5
+		l-5.9-0.5l-2.2,2.8l1.6,0.5l0.9,1.8l-1,3.9l-1.9,4l0.2,1.6l-3.4,3.2l0.1,1.9l-2.1,4.5l0.5,2.5l0,0l-1.6,0.8l-0.4,3.4l-2.5-0.7
+		l-0.9-1.2l1.2-1.5l-0.8-0.9l-4.7,0.5l0.8-1.2l-1.4-0.6l1-1.2l-1.3-0.2l-0.2-2.5l1.6-2.2l2.7-0.3l1.1-2.6l-3.9-7.7l1.9-1.4l-0.1-2.1
+		l2.4-1.1l0.5-2.3l-1.2-2l-1.2,0.5l-0.1-0.7l-0.2-1.7l-1-0.5l4.3-8.2l-0.8-4.4l-1.9-2.5l2-2.7l3.4-1.2l0.5-2.4l-1.1-2.9L244.9,490.2
+		L244.9,490.2z"/>
+	
+		<linearGradient id="TH-21_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="510.5716" x2="548.98" y2="510.5716" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-21" inkscape:connector-curvature="0" class="st12" d="M245.9,546.2l-0.5-2.5l2.1-4.5l-0.1-1.9l3.4-3.2l-0.2-1.6l1.9-4
+		l1-3.9l-0.9-1.8l-1.6-0.5l2.2-2.8l5.9,0.5l0.9-0.5l-1.8-0.8l0.8-2l3.7,1.6l1.3-0.9l2.2,1.8l0-1l2.1-1.4l3.8,3.2l2.8,0l1-0.9
+		l1.8,1.3l4.1-2.8l3.2-0.7l1.1-2.4l-0.4-1.3l1.6,0.1l2.7-1.9l3.4,0.8l0,0l-0.8,2.5l1,0.5l-0.5,1.1l1.5,3.8l2.5,0l0.4,0.9l-1.4,4.4
+		l1.2,1.3l1.5-0.8l0.8,0.7l1.2,3.9l0.5-1l0.7,1.8l-0.4,8.3l-1.4,0.5l-1,3.7l0,0l-2.4-1l-4.1,1l-2.8,3.5l-3.3-0.8l-2.1,0.5l-0.6,1.4
+		l-7.2-0.2l-1.6,0.9l-0.5,2.4l-6.9-4.1l-6.6-1.7l-6.3-0.7L245.9,546.2L245.9,546.2z"/>
+	
+		<linearGradient id="TH-22_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="507.1366" x2="548.98" y2="507.1366" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-22" inkscape:connector-curvature="0" class="st13" d="M338.8,564.2l-2.2,1.9l-0.1,2l-2.1,2.1l-1.4-1l0-1.9l-0.9,0
+		l-0.3-1.4l2-0.5l-1-2.4l-0.5,1.7l-1.2-2.1l0.7-1.7l-2.7,1.2l-0.7-1.3l0.2,1.4l-1.1,1.1l2.2-0.9l0.9,0.7l-1,1.8l1.5,0l1.6,3.9
+		l-0.1,1.1l-1.4,0.2l-6.2-6.2l-2.9-0.7l0.4-0.8l-1.2-2l-2.6-2.5l0.2-1.7l0.3-0.3l1.2-0.5l-2.1-0.2l-0.2,3.9l-1.1-0.2l-0.2-2
+		l-1.5-1.6l-2.3-1.2l-2.3,0.1l0.9-2.8l-0.9-1l-1,0.5l0.6,3.9l-3.7-2.6l-0.4-0.8l1.6,0.5l-0.2-1.4l-1.5-0.3l-0.1,0.9l-1.3-3.7
+		l-5.2-3.5l0,0l1-3.7l1.4-0.5l0.4-8.3l-0.7-1.8l-0.5,1l-1.2-3.9l-0.8-0.7l-1.5,0.8l-1.2-1.3l1.4-4.4l-0.4-0.9l-2.5,0l-1.5-3.8
+		l0.5-1.1l-1-0.5l0.8-2.5l0,0l1.5-2l0,0l3.6-0.2l5.2-4.3l1.2-0.2l0.4,1.9l0.7-1l0.5,0.6l1-4.1l2.8-0.4l2.9-2.8l0,0l1.6,3l1.5,0.4
+		l-0.4,3.2l5.4-1.9l1.4-4.9l1.5,2.6l2.4-0.3l1,3l5.6-0.1l0.4-2.7l1.3,0.9l1.5-2l1.4,1.2l0,0l-0.3,1.5l1.2,1l2.1,7.3l2.4,4.6l1.7,0.6
+		l2.3,4.7l2.4,0.8l-3,1.6l1,1.2l-1,0.9l1.6,3.6l-0.8,2.5l2.1,2.8l0.4,2.3l-1.8,2.1l0,0l-1.1-0.4l-1.3,1.5l-2.2-0.1l-3.8,4l1.1,4.3
+		l-0.9,0.8l2.4,2.4l-1.6,0.1l-1.6-2l-1.1,0.1l-3.6,2.8l0.7,3l1.7,2.1l-1.5,2l0.4,1.7L338.8,564.2L338.8,564.2z"/>
+	
+		<linearGradient id="TH-23_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="461.6353" x2="548.98" y2="461.6353" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-23" inkscape:connector-curvature="0" class="st14" d="M352,609.8l-0.1,1.8l1.1-0.7l1.9,1.5l0,2.6l-1.4,2.7l0.9,0.2
+		l-0.6,3.2l-1.6-1L352,619l-2.8-0.8l1.3-1.2l-1.4-2.3l1.6-7.1L352,609.8L352,609.8z M345.6,602.5l2.7,0.6l-1.6,0.9l-0.1,1.6
+		l-1.3-1.5h-1.6L345.6,602.5z M332.5,581.4l3.2,0.5l2,1.5l2.2,4.4h0.8l3.3,5l-0.8,1.7l-3.6-3.3l-0.8,0.5l0.5,2l-2.9-0.8l-1.5,0.6
+		l-1.3-1.2l0.2-4l-3-6.4L332.5,581.4L332.5,581.4z M338.8,564.2l-3-2.3l-0.4-1.7l1.5-2l-1.7-2.1l-0.7-3l3.6-2.8l1.1-0.1l1.6,2
+		l1.6-0.1l-2.4-2.4l0.9-0.8l-1.1-4.3l3.8-4l2.2,0.1l1.3-1.5l1.1,0.4l0,0l-0.8,3.3l0.9,2.4l1.5,1.1l3.2,0.1l2.5,2.6l1.9,0.3l-0.1,1.7
+		l1.2,0.2l1.5,2.3l-0.5,0.7l2.4,2.2l1.1-0.3l-0.6,1.7l1.3,0.2l-0.2,1.2l2,0.7l1.2,2l0.1,1.8l-2.6,0.8l-1.4,1.7l-1.5,13.2l2.1,4.4
+		l2.4,2.5l0.7,5.6l2.3,3.8l1.2,5.3l4.7,6l0.4,8.2l-1.3-7l-8-11.2l0.8-2.2l-1.2-2.4l0-2.8l-9.3-8.5l1.3-1.2l-0.8-1.5l-2.9-1.8l-1.5,1
+		l-0.8-0.8l1.2,2.8l-1.3,0.3l0.2,4.6l1.6,1.8l0,1.8l-2.5-1.1l0.2-1.7l-1.3-2l-3.6-1.7l-0.4-1.8l-5-0.2l-3.5-2.1l-1.4,1.3l-3-1.3
+		l0.4-2.7l-1.9-3.5l1.2,0.4l3.2-1.2l2.7-3l-1.1-1.5L338.8,564.2L338.8,564.2z"/>
+	
+		<linearGradient id="TH-24_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="559.1276" x2="548.98" y2="559.1276" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-24" inkscape:connector-curvature="0" class="st15" d="M240.7,456.5l8.8-1.2l6.2,0.5l0,0l1.6,2.6l-1,2.7l1,0.2
+		l-1.5,0.5l1.4,1.4l-0.7,0.8l4.8-2.3l1.9,1.4l1.9-0.9l4.3,1.3l2.5-0.9l0.1,1.7l5.9,1.7l3.9,3.2l1.7-1.3l2.7,4.1l3.3-0.8l1.9,0.6
+		l2.1-3.7l3.2-1.5l2.8,3l0.7,5.1l1.5-0.7l1,0.6l0,4.1l1.8,0.6l1.8,3.3l1.4-0.3l0,0l-0.9,2.6l-2.5,0.6l2.2,1.3l1.4,2.9l1.3,0.1
+		l0.2,2.2l2.6,2.5l1,5.1l0,0l-2.9,2.8l-2.8,0.4l-1,4.1l-0.5-0.6l-0.7,1l-0.4-1.9l-1.2,0.2l-5.2,4.3l-3.6,0.2l0,0l-3.5-6.4l-7-4
+		l-1.6-5.3l-3.4-1.1l-2.6,1.2l-1.9-1.7l-0.1-1.6l-3.8-0.2l-7.8-7.6l-6.8-2.1l-1.5,2.1l-2.3,1l-3.4-0.3l1.8,2.8l-4.2,3.7l-2.1-0.5
+		l0,0l-0.1-0.8l-2.5,1.4l-6.1-1.1l0,0l0.2-1.1l1.3,0.3l1.2-5l1,0.6l0.7-1.1l-0.5-1.4l1.1-0.2l2.6-3.4l-1-0.7l0.5-0.7l-6.3-2.3l0,0
+		l3.3-6.4l1.9-1.7l-3.1-2.5l0.9-0.7l0.5-5.8l0,0L240.7,456.5z"/>
+	
+		<linearGradient id="TH-25_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="589.7146" x2="548.98" y2="589.7146" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-25" inkscape:connector-curvature="0" class="st16" d="M275.6,426.8l1-2.2l-0.7-1.7l3.5-1.1l3.1,2.6l3.8-1l2.1,0.7
+		l-0.1,0.9l8.2,7.5l0.5-2.8l2.6-0.8l1.7,0.8l1.9-1.2l-0.1,0.9l3.4,2.3l2.3-0.8l1.6,2l0.9-1.2l2.4,0.4l0.3,1.7l-3.2,2.5l2.7,0.9
+		l-1.5,0.9l9.4,5.3l0,0l-0.5,3.3l-3.5,1.9l-0.4,2.5l-6,1.2l-1.1,1l1.1,5.1l-2.6-0.1l-0.5,3.6l1.6,2l-0.2,2.7l1.5,1l-0.4,2.5
+		l-1.6,0.8l1.5,1.1l0,6l0.9,2.1l-0.6-0.3l-0.5,1.6l-1.8-0.4l-0.1,1.4l0,0l-1.4,0.3l-1.8-3.3l-1.8-0.6l0-4.1l-1-0.6l-1.5,0.7
+		l-0.7-5.1l-2.8-3l-3.2,1.5l-2.1,3.7l-1.9-0.6l-3.3,0.8l-2.7-4.1l-1.7,1.3l-3.9-3.2l-5.9-1.7l-0.1-1.7l-2.5,0.9l-4.3-1.3l-1.9,0.9
+		l-1.9-1.4l-4.8,2.3l0.7-0.8l-1.4-1.4l1.5-0.5l-1-0.2l1-2.7l-1.6-2.6l0,0l0.1-2.2l3.8-0.9l1.2-2.9l3.5-0.5l1.2,0.8l1.4-1.5l1,0.2
+		l-2.1-5.4l5.7-3.9l0.6-4.6l2.3,1.4l5.5-1l-0.1-4.7l-1.4-2.1L275.6,426.8z"/>
+	
+		<linearGradient id="TH-26_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="604.5268" x2="548.98" y2="604.5268" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-26" inkscape:connector-curvature="0" class="st17" d="M262.7,420.6l2.4-2.3l0.5,1.5l1.5-0.5l0.4,1.8l3.6,1.6l3.8,4.5
+		l0.7-0.4l0,0l2.9,1.7l1.4,2.1l0.1,4.7l-5.5,1l-2.3-1.4l-0.6,4.6l-5.7,3.9l2.1,5.4l-1-0.2l-1.4,1.5l-1.2-0.8l-3.5,0.5l-1.2,2.9
+		l-3.8,0.9l-0.1,2.2l0,0l-6.2-0.5l-8.8,1.2l0,0l0-18l2.1-1.2l0.4-2.5l0,0l-0.1-2.4l2.6,1.4l4.7-3.9l-0.1-4.8l2,2.2l2.7,0.1l1.7,0.8
+		l0.9,1.9l1-0.4l0.5-1.3l1.7-0.4l-0.1-3.9l1.2-0.1l-0.2-2.8L262.7,420.6z"/>
+	
+		<linearGradient id="TH-27_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="568.6255" x2="548.98" y2="568.6255" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-27" inkscape:connector-curvature="0" class="st18" d="M321.1,443.3l4,0.7l0.1-2.1l1.2-1.6l1.8,1.6l0.3,1.9l3.4-0.1
+		l0.3,1.2l1.1-0.4l1.3,1l3.4-0.8l0.1-2.3l1.8,1.4l3.1-0.5l0,0l0,0l0,0l0,0l0,0l2.8,1.5l0.6-0.7l4.5,0.4l3.9-2.5l1.8,1.5l1.5-1.1
+		l2.6,2.4l4.9-0.9l1.7-2l0.5,0.9l0.8-0.9l3.9,1.5l0.4-1.6l1.6,0.6l2.1-0.9l0,0l0.8,2l-2.7,4.5l0.7,4.6l-3,0.9l-5.6,4.9l-1,5.3
+		l-3,4.3l0.6,1.3l-9.5,4.6l-2.7,2.9l1.7,2.5l3.2,1.4l-3.4,0.4l-0.8,1.7l-2.4,1l-3.1-0.6l-2.8,0.9l-4.9-1.3l-1.8,1.3l-0.4,1.5
+		l1.9,3.2l-1.2,9.8l0.6,3.3l0,0l-1.4-1.2l-1.5,2l-1.3-0.9l-0.4,2.7l-5.6,0.1l-1-3l-2.4,0.3l-1.5-2.6l-1.4,4.9l-5.4,1.9l0.4-3.2
+		l-1.5-0.4l-1.6-3l0,0l-1-5.1l-2.6-2.5l-0.2-2.2l-1.3-0.1l-1.4-2.9l-2.2-1.3l2.5-0.6l0.9-2.6l0,0l0.1-1.4l1.8,0.4l0.5-1.6l0.6,0.3
+		l-0.9-2.1l0-6l-1.5-1.1l1.6-0.8l0.4-2.5l-1.5-1l0.2-2.7l-1.6-2l0.5-3.6l2.6,0.1l-1.1-5.1l1.1-1l6-1.2l0.4-2.5l3.5-1.9L321.1,443.3z
+		"/>
+	
+		<linearGradient id="TH-30_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="654.9907" x2="548.98" y2="654.9907" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-30" inkscape:connector-curvature="0" class="st19" d="M272.4,361.6l1.8,1l1.8-3.8l3.8,1l1.9-1.2l5.1-0.3l1.5,1.2
+		l2.5-2.7l7.6,1.4l2.5-3.2l4.9,2.8l3.5-4.5l4.4-0.8l0.9,0.6l1.6-1.2l0.4-5l2.4-5.4l3.6-2l0-1.4l1.3-1l-0.2-1.5l1.3-1.4l-0.4-1l3,0.2
+		l0.2-1.2l1.8,0.9l1.3-0.5l0.5-2.1l2.4-0.3l1.3-1.6l1,0.3l0,0l2.4,2.5l-0.2,2.5l1.2-0.1l2.6,2.5l2.4-1.5l4.2-0.7l2.4,1.4l3.2-0.4
+		l0.9-1.1l2.7,1l2.1-1l1,0.3l-0.5,1.5l1.8,2.6l2-0.3l2.2,1.7l0,0l-0.6,1.6l1.9,6.5l2.1,1.7l0.1-0.7l2.2,0.5l2.2-0.9l2.3,1l-0.5,0.4
+		l1.5,0.9l-0.3,1l2.5-0.5l2.3,3.7l-1.4,1l-1.4-0.8l-0.6,1.4l0,0l-0.3,0l0,0v1.7l2.1,0.7l0.3,1.5l-2.7,2.3l1,1.5l-0.9,1.5l0.4,3.5
+		l1,1l-0.5,1l-4.8,0.2l-5.3,3.2l-3.7,4.4l1.3,2.6l-1.9,0.8l-0.2,2.5l-2.4,0.6l-1.2,3.5l-6.5-0.1l-2-1.5l-1.5,0.7l1.3,1.5l-1.8,1.9
+		l0.7,2.7l-1.4,3.3l-2.1,0.8l-2.7-2.3l-0.8,0.9l-0.3,2.9l3,3.2l-2,1.9l1.2,3.9l-0.4,2.3l1.7,3.6l-0.9,3.6l8.6,1.3l-0.7,3.2l-2,1.4
+		l-0.5,3.6l2.7,3.7l2.5-0.2l3.1,1.9l-9.9,6.7l-2.7,1l-1.5-0.9l-1.6,0.4l-1.4,2.9l0,0l-3.1,0.5l-1.8-1.4l-0.1,2.3l-3.4,0.8l-1.3-1
+		l-1.1,0.4l-0.3-1.2l-3.4,0.1l-0.3-1.9l-1.8-1.6l-1.2,1.6l-0.1,2.1l-4-0.7l0,0l-9.4-5.3l1.5-0.9l-2.7-0.9l3.2-2.5l-0.3-1.7l-2.4-0.4
+		l-0.9,1.2l-1.6-2l-2.3,0.8l-3.4-2.3l0.1-0.9l-1.9,1.2l-1.7-0.8l-2.6,0.8l-0.5,2.8l-8.2-7.5l0.1-0.9l-2.1-0.7l-3.8,1l-3.1-2.6
+		l-3.5,1.1l0.7,1.7l-1,2.2l0,0l-0.7,0.4l-3.8-4.5l-3.6-1.6l-0.4-1.8l-1.5,0.5l-0.5-1.5l-2.4,2.3l0,0l-4-4.4l2.2-3l-1.8-11.2l1.6-0.8
+		l1.2,1.9l3.3,0.5l0.1-1.3l1.1,0.5l0.6-1.5l1.8-0.5l0.2-1.5l7.9-5.4l-2.9-12.5l0,0l-1.2-7.4l-1.9-2.8l-0.6-4.1l2.1,0.7L272.4,361.6z
+		"/>
+	
+		<linearGradient id="TH-31_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="654.9136" x2="548.98" y2="654.9136" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-31" inkscape:connector-curvature="0" class="st20" d="M376.6,329.3l0.7,2l4.3,2.6l0,3l-2.1,1.7l3.6,4.2l1.8,0.5
+		l-0.4,2l3,2.3l-1.2,2.3l2.7,1.2l0,0l-1.5,4.4l1.8,1.2l1.4-0.7l1.7,3.4l-0.4,0.7l2.6-0.8l0.1,2l1-0.5l1.2,1.8l1.5-0.4l-0.2,1.1
+		l2.4-0.8l0.4,1.3l4-3.4l2.3,1.4l0.8-0.5l-0.7,1l1.2,0.9l1.7,0l1.2-2.5l1.6,0.5l0.9,1.9l1.1-0.2l0.1,1.5l-1.6-0.2l-1.3,0.9l-0.2,1.7
+		l-1.2-0.4l-0.3,3.9l-1.1,0.3l0.5,6.7l0,0l0.8-0.3l0,0.7l0,0l-1,2.4l1.7,1.4l-1.8,1l-0.8,1.9l1.4,1.7l-0.9,1.4l0.6,2l-1.6,0.6
+		l0.2,1.5l-1,0.2l-2.9,4.4l-3.9,1.6l0.2,1.6l-1.8,1.2l0.5,2.1l-1,4.5L397,409l0.3,2l-1.6,1.6l0.7,3.2l-0.6,2.9l2.2,4.4l-1.8,2.8
+		l0.8,0.9l-0.7,0.7l0.4,3.5l0,0l-3.9-0.5l-1,1.4l-0.8-0.9l-1.2,1.7l-4.5,1.2l-2.3,3.7l-4.7,1.6l-1.7,2.1l0,0l-2.1,0.9l-1.6-0.6
+		l-0.4,1.6l-3.9-1.5l-0.8,0.9l-0.5-0.9l-1.7,2l-4.9,0.9l-2.6-2.4l-1.5,1.1l-1.8-1.5l-3.9,2.5l-4.5-0.4l-0.6,0.7l-2.8-1.5l0,0
+		l1.4-2.9l1.6-0.4l1.5,0.9l2.7-1l9.9-6.7l-3.1-1.9l-2.5,0.2l-2.7-3.7l0.5-3.6l2-1.4l0.7-3.2l-8.6-1.3l0.9-3.6l-1.7-3.6l0.4-2.3
+		l-1.2-3.9l2-1.9l-3-3.2l0.3-2.9l0.8-0.9l2.7,2.3l2.1-0.8l1.4-3.3l-0.7-2.7l1.8-1.9l-1.3-1.5l1.5-0.7l2,1.5l6.5,0.1l1.2-3.5l2.4-0.6
+		l0.2-2.5l1.9-0.8l-1.3-2.6l3.7-4.4l5.3-3.2l4.8-0.2l0.5-1l-1-1l-0.4-3.5l0.9-1.5l-1-1.5l2.7-2.3l-0.3-1.5l-2.1-0.7v-1.7l0,0l0.3,0
+		l0,0l0.6-1.4l1.4,0.8l1.4-1l-2.3-3.7l-2.5,0.5l0.3-1l-1.5-0.9l0.5-0.4l-2.3-1l-2.2,0.9l-2.2-0.5l-0.1,0.7l-2.1-1.7l-1.9-6.5
+		l0.6-1.6l0,0l2.4,0.9l3.4-1.2l0.9-3l-0.1-5.3L376.6,329.3z"/>
+	
+		<linearGradient id="TH-32_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="650.6767" x2="548.98" y2="650.6767" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-32" inkscape:connector-curvature="0" class="st21" d="M388.9,351.2l6.9,1.3l2.4,1l1.3,1.7l4.8,1.2l3.8-2l0,0l3.6-1.5
+		l5.4,2l2.2-2.5l3.1-0.4l3.8,1.5l3.8,0.6l1.4-0.7l2.3,0.9l5-2.2l0.5,1.2l1.2-1.4l0.6,1l0.3-1.1l0.6,1.9l3.1,0.2l0.3,1.7l1.6-0.9
+		l-0.1,1.3l1.1,0l0,0l0.4,0.9l0.7-1.1l3,0.9l0.7-0.7l2.2,3.4l-4.7,1.8l0.4,0.9l-1.2,0.1l0.3,1.9l-1.1-0.5l-0.2,1.9L447,365l1.5,2
+		l-0.7,0.3l0.2,1.5l-1.2,0.4l0.9,1.3l-1.2,1.1l0,1.5l2.2,1.1l-0.9,1.3l0.9,0.7l-0.6,2.1l1.9,0.8l-1,1.4l1.1,0.9l-0.7,1.9l-1.1,0.2
+		l0.3,1.7l-2.1,1.2l0.1,1.8l-2.8,3.1l-1.7,3.8l1.1,1.5l5.2,2l0.8,2.7l-0.5,2.3l3.4,4.1l0.6,4.7l-1.9,3.9l0.2,3.2l1.2,0.2l0.4,1.8
+		l-1,7.4l0.9,1.2l0,0l-1.9,0.5l-3.3-1.2l-2.1,0.3l-0.5,1.4l-4.1-0.6l-2.4-2.3l-1.4,1.3l-1.5-0.3l0-0.9l-1.8,0.6l-4.5-1.1l0-3.8
+		l-1.5-0.5l-2.2,0.2l-0.8,1l0.9,0.8l-2.1,0.8l-0.9-1.5l-3.5-0.3l-3.9,1.6l-2.2,2.5l-2.2-1.8l-1.8,2.3l-9.7,0.5l-2.5,1.6l0,0
+		l-0.4-3.5l0.7-0.7l-0.8-0.9l1.8-2.8l-2.2-4.4l0.6-2.9l-0.7-3.2l1.6-1.6l-0.3-2l1.8-1.7l1-4.5l-0.5-2.1l1.8-1.2l-0.2-1.6l3.9-1.6
+		l2.9-4.4l1-0.2l-0.2-1.5l1.6-0.6l-0.6-2l0.9-1.4l-1.4-1.7l0.8-1.9l1.8-1l-1.7-1.4l1-2.4l0,0l-0.8-0.4l0,0l-0.5-6.7l1.1-0.3l0.3-3.9
+		l1.2,0.4l0.2-1.7l1.3-0.9l1.6,0.2l-0.1-1.5L414,363l-0.9-1.9l-1.6-0.5l-1.2,2.5l-1.7,0l-1.2-0.9l0.7-1l-0.8,0.5l-2.3-1.4l-4,3.4
+		l-0.4-1.3l-2.4,0.8l0.2-1.1l-1.5,0.4l-1.2-1.8l-1,0.5l-0.1-2l-2.6,0.8l0.4-0.7l-1.7-3.4l-1.4,0.7l-1.8-1.2L388.9,351.2z"/>
+	
+		<linearGradient id="TH-33_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="654.2815" x2="548.98" y2="654.2815" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-33" inkscape:connector-curvature="0" class="st22" d="M447.9,356.3l0.6-3l2.1-2.6l2.2-0.9l-0.3-1l1.2-0.6l0.5-1.7
+		l1.6,0l-0.4-1.4l1.5,0.3l0,0l0.9,3.8l3.1,2.1l3.3,4.4l1,2.9l4,2.2l3.4-0.1l1.9,3.5l1.5,0.3l0,0l6.6,1.6l0,0l1.6,1l3.5-0.1l0,0
+		l1.9-1.4l0.1,0.9l2.5,0.3l0.1,1.1l1.3,0.6l-0.9-1l0.9-0.8l0.9,2.2l1.2,0.2l-1,0.4l0,1.2l1.5,0l-0.1,1l1.1-0.4l-1.4,2.2l2.5-0.5
+		l-3.8,3l-0.6,1.6h1.2l-0.8,1l1.1,0.1l-0.5,2.7l-1.1,0.7l1,2l0,3.6l8.2,3.9l1.6,4.1l-1.4,0.5l-0.5,1.4l1.5,3.9l3.7,3.7l1,3.3
+		l-2.8-0.4l-1.5,3.6l-0.7,3.8l3,3.8l-0.2,1.7l-2,2.1l1.2,1.1l2.1-0.8l1.9,2.5l0,0l-2.5-1.2l-2.1,1l-2.4-2.3l-5.5,2.3l-1-2.1
+		l-1.7,2.6l-1.7-0.3l-1-1.6l-4.3,3.3l-0.1,1.3l-2.9,0.3l-2.4-1.5l-2.4,2.1l-0.1-1l-1.7,0.1l-1.4-1l-5.7,0.1l-3.7-2.7l-3,2.6
+		l-3.2-0.9l-1,0.6l0.3,1.1l-2,0.4l-0.5-1.3l-2-0.4l-1.3,2l-2.2,0.2l0,0l-0.9-1.2l1-7.4l-0.4-1.8l-1.2-0.2l-0.2-3.2l1.9-3.9l-0.6-4.7
+		l-3.4-4.1l0.5-2.3l-0.8-2.7l-5.2-2l-1.1-1.5l1.7-3.8l2.8-3.1l-0.1-1.8l2.1-1.2l-0.3-1.7l1.1-0.2l0.7-1.9l-1.1-0.9l1-1.4l-1.9-0.8
+		l0.6-2.1l-0.9-0.7l0.9-1.3l-2.2-1.1l0-1.5l1.2-1.1l-0.9-1.3l1.2-0.4l-0.2-1.5l0.7-0.3l-1.5-2l1.3,0.8l0.2-1.9l1.1,0.5l-0.3-1.9
+		l1.2-0.1l-0.4-0.9l4.7-1.8l-2.2-3.4l-0.7,0.7l-3-0.9l-0.7,1.1L447.9,356.3z"/>
+	
+		<linearGradient id="TH-34_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="668.1113" x2="548.98" y2="668.1113" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-34" inkscape:connector-curvature="0" class="st23" d="M520.8,308.6l9.6,3l13.5,2.4l0.9,1.8l-3.1,0.4l-2.4,4.3l3.4,8.3
+		l1.8,1l1,2.4l1.8,0.7l2.6-1.4l3.8,1.2l3.1,1.9l2.1,3.6l-0.3,7.2l-2.2,4l0.6,2.4l-0.8,3.4l-1.8,1.7l-4.8,0.9l-1.8,2.6l2.5,2.3
+		l4.6-0.7l0.5,0.7l0.6,3.2l-3.4,1.2l-4.3,5l-0.8,4.5l3.1,2l0.2,1.6l2.6,0.1l-0.3,1.5l1.6,1.2l0.1,1.6l3.1,1.5l-2.4,2.1l-2.1-0.3
+		l-0.4,1.7l1.9,1.7l0.2,1.4l-2.8,0.9l1.2,2.2l-2.2,0.9l-0.7,1.7l0.1,3.2l1.8,1.5l-1.3,0.3l-0.3,2.2l0.6,4.3l1.2,0.9l-0.9,1.6l0.3,3
+		l-7,9.6l-1.3-1l-1.5,2.3l-3.1,0.8l-1.5-0.9l-1.1,2.2l-1.8,0.9l-1.6-0.7l-1.8,2l-3.5-0.9l-0.6,1.2l0.6,0.9l-1.7,2.1l-0.3,3l-4.3,2.2
+		l-2.2-0.4l-1.8-1.8l-2.1-5.6l0.7-3.2l-2-1.7l-1.3,0.8l-3-1.3l0,0l-1.9-2.5l-2.1,0.8l-1.2-1.1l2-2.1l0.2-1.7l-3-3.8l0.7-3.8l1.5-3.6
+		l2.8,0.4l-1-3.3l-3.7-3.7l-1.5-3.9l0.5-1.4l1.4-0.5l-1.6-4.1l-8.2-3.9l0-3.6l-1-2l1.1-0.7l0.5-2.7l-1.1-0.1l0.8-1h-1.2l0.6-1.6
+		l3.8-3l-2.5,0.5l1.4-2.2l-1.1,0.4l0.1-1l-1.5,0l0-1.2l1-0.4l-1.2-0.2l-0.9-2.2l-0.9,0.8l0.9,1l-1.3-0.6l-0.1-1.1l-2.5-0.3l-0.1-0.9
+		l-1.9,1.4l0,0l-3.5,0.1l-1.6-1l0,0l-6.6-1.6l0,0l1-5.1l-0.7-1.6l-1.7-0.5l0.6-1l-1.3-3.5l1.8-6l5.4,0.5l2.1-1.8l0,0l2.5,1.5
+		l2.6-1.7l-0.5-2.5l4-3.1l-2.5-1.8l1.5-1.1l7.1,2.8l0.9-0.7l0.3,1.1l2.8,1.5l0.6,1.8l1-0.8l0.8,1.5l2.6,0.4l1,1.2l-0.8,0.9l1.1,0.8
+		l1-1.8l-0.7-0.7l3.1-3.2l-0.2-1.7l-2.2-0.6l0.9-7.7l3.4-1.8l0.3-5l1.8-3.5l-1.2-0.4l2.5-3.4l-0.3-4.4l2.4-4.5l1.3-0.3l0,0
+		L520.8,308.6z"/>
+	
+		<linearGradient id="TH-35_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="714.3079" x2="548.98" y2="714.3079" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-35" inkscape:connector-curvature="0" class="st24" d="M472.4,292.4l3-1.7l7.1,0.5l0.6,1.8l2.7,0.4l1.8,4.5l1.5,0.5
+		l1,1.6l2,0.1l1.5-2l2.5,2.5l4.3,0.8l0,0l1.6,2.7l2.2,0.1l-0.5,4l-13-1.8l-4.2,1.8l-3.1,5l1,2l-1.8,1.1l-0.1,2.2l-3.3,3.4l-0.4,2.3
+		l0.8,1.7l-1.7,2.1l-1,8l1.5-0.1l-0.1,5.7l1.7-0.7l-0.4,2.4l3.1,0.5l0.4,1.6l0,0l-2.1,1.8l-5.4-0.5l-1.8,6l1.3,3.5l-0.6,1l1.7,0.5
+		l0.7,1.6l-1,5.1l0,0l-1.5-0.3l-1.9-3.5l-3.4,0.1l-4-2.2l-1-2.9l-3.3-4.4l-3.1-2.1l-0.9-3.8l0,0l0-1l2.6-1.7l3.5-1l-1.8,0.5l0.4-1.5
+		l-1.5-0.2l0.2-1.8l1-0.4l-2.4-1.7l-0.3-1.5l-1.3,1.2l-0.7-0.5l1.6-1.8l-1-2.8l0.4-2.2l-3.9-2.7l0.1,1.4l-2.8,1.5l-2.4,0l0.8-3.3
+		l1-0.5l-0.5-1l1.2-0.1l-1.5-1.3l-0.1-1.7l1.5-2.1l-0.6-1.4l-0.8,0.8l-0.3-0.7l1.1-1.8l5,0l0.7-3.9l-1.2-2.4l0.9-2.3l2-0.3l2.3-2.6
+		l3.6-1.3l1.6-3.7l1.8-0.5l3.7-3.3L472.4,292.4z"/>
+	
+		<linearGradient id="TH-36_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="728.5621" x2="548.98" y2="728.5621" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-36" inkscape:connector-curvature="0" class="st25" d="M271.4,344.3l2.4-10.9l-4.8-1.3l-1.3-2.4l0.9-0.9l0.1-5.4
+		l2.9-2.7l-0.9-0.3l0.9-3l-1.1,0.3l-1.1-1.6l-1.2-3.9l1.2-7.8l1.5-2.2l1.2-0.3l-0.4-3.7l-1.6-0.9l1.5-1.1l0.7-6l1.8-1.6l-0.6-1.4
+		l4.8-5.7l-0.6-1.6l0.6-1.9l3.1-1.4l-1.5-1.6l0.3-2.7l1.8-0.7l-1-4.2l4.1,2.1l0.4-1.6l-1.6-4.1l2.1,0.4l3.2,3.1l3.3-0.5l2.9,2.5
+		l1.5-1.2l0,0l0.4,1.1l1.7,0.4l-0.3,1.3l3.7-2.1l4.1,1l1.1,1.1l3-0.5l1.9,1.6l0.8,3.1l2.3,0.6l0.6,2.7l2.8,1.2l-0.4,0.6l6-0.6l1,0.8
+		l0.7-1l1.4,0.1l4.3,3.4l2.2,0.7l4.4-0.5l0.6,1.2l1.8-0.7l0.1-1.5l0.9,3l3,2.2l-2.6,6.5l-0.4,3.4l-9,12.1l1.5,2.6l2.4,0l1.1,2.3
+		l2.1,0.9l-1.5,2l0.7,1.3l-1.3,1.1l-0.1,2l-2.2,2.4l0.5,4.4l0,0l-1-0.3l-1.3,1.6l-2.4,0.3l-0.5,2.1l-1.3,0.5l-1.8-0.9l-0.2,1.2
+		l-3-0.2l0.4,1l-1.3,1.4l0.2,1.5l-1.3,1l0,1.4l-3.6,2l-2.4,5.4l-0.4,5l-1.6,1.2l-0.9-0.6l-4.4,0.8l-3.5,4.5l-4.9-2.8l-2.5,3.2
+		l-7.6-1.4l-2.5,2.7l-1.5-1.2l-5.1,0.3l-1.9,1.2l-3.8-1l-1.8,3.8l-1.8-1l0,0l-0.6-3.1l0.7-7.5L271.4,344.3z"/>
+	
+		<linearGradient id="TH-37_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="720.6026" x2="548.98" y2="720.6026" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-37" inkscape:connector-curvature="0" class="st26" d="M500.5,301.4l3.1,0.7l1-1.3l3.4-0.5l2.3-3.1l1.2,0.1l1.8-2.1
+		l1.4,0.3l0,0l2.5,2.6l-0.3,3.5l2,5.8l1.3,0.8l0,0l-1.3,0.3l-2.4,4.5l0.3,4.4l-2.5,3.4l1.2,0.4l-1.8,3.5l-0.3,5l-3.4,1.8l-0.9,7.7
+		l2.2,0.6l0.2,1.7l-3.1,3.2l0.7,0.7l-1,1.8l-1.1-0.8l0.8-0.9l-1-1.2l-2.6-0.4l-0.8-1.5l-1,0.8l-0.6-1.8L499,340l-0.3-1.1l-0.9,0.7
+		l-7.1-2.8l-1.5,1.1l2.5,1.8l-4,3.1l0.5,2.5l-2.6,1.7l-2.5-1.5l0,0l-0.4-1.6l-3.1-0.5l0.4-2.4l-1.7,0.7l0.1-5.7l-1.5,0.1l1-8
+		l1.7-2.1l-0.8-1.7l0.4-2.3l3.3-3.4l0.1-2.2l1.8-1.1l-1-2l3.1-5l4.2-1.8l13,1.8l0.5-4l-2.2-0.1L500.5,301.4z"/>
+	
+		<linearGradient id="TH-38_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="874.5316" x2="548.98" y2="874.5316" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-38" inkscape:connector-curvature="0" class="st27" d="M408.3,176.2l-0.4-1.6l-6.5-4.9v-4.1l3.1-2.1l0.3-2.6l-5.2-2.1
+		l-0.1-2.4l1.6-1.3l-0.1-1.2l0,0l-0.4-2.2l-2.7-1.1l0-1.8l4-4.2l6.6-1.2l3.5,1.7l4.8,0l5.6,1.6l5.7,4.2l8.3,0.4l2.6,3.9l4.4-3.2
+		l3.1-0.7l6.1,8.3l3.2,7.5l5.5,6.4l0,0l-1,0.1l-0.1,1.3l-1.5-1.5l-2.6,1.4l1.9,3.6l-4.5,5.1l-1.6-0.8l-0.5-1.3l-3,1.1l-1.1,2.3
+		l1.4,0.7l1,2.8l0,0l-1.1,0.2l-1.4,2.7l-0.4-1l-1,0.7l-1.1-0.6l-1.7-2.6l0.4-2.6l-1.5,0.5l0.3-2.3l-2.7,1.2l0.2-1.1l-0.8-0.3
+		l-1.4,0.9l-2.6-0.5l1,1.4l-1.1,1.1l-2-2.9l1.5-0.6l-0.8-1.1l0.5-1.7l-1.7,0.7l0.6-2.4l-1.3,3.1l-2-2.2l-2.2-1l-1.5,0.4l0.1-1.6
+		l-0.8,0.7l-1-1l-0.8,0.6l-0.3-2.4l1.4-0.8l-2,0l-1.1-2.6l-1.1,0.8l-2.5-1.8l-0.1-1.7l-0.3,1.5l-1.4-0.4l-1.5,0.9l0.2,5.1l-1.8-1.1
+		l-0.4,1.2l-1.1-0.4l-0.7,0.8l0.9,0.4l-0.4,0.8l-2.6-1.9L408.3,176.2z"/>
+	
+		<linearGradient id="TH-39_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="812.3797" x2="548.98" y2="812.3797" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-39" inkscape:connector-curvature="0" class="st28" d="M319.6,200.6l1.3-0.8l1.3,0.9l2.1-2.2l7.2,0.3l3.7-1.3l1,8.9
+		l2.4,3.6l4.7,11.4l0.1,4.1l4.6-0.5l5.8,1.5l-1.4,2.5l-6.8,2l3.3,7.2l3.5,3.9l6.5,3.5l0,0l0.9,2.3l-3.8,8.2l-0.9,5.2l-7.8-2.4
+		l-4.3,1l-5.5-2.9l-0.5,0.9l-1.4-2.1l0.5-0.6l-1,0l0.5-0.9l-1.9-1.7l-2.8-0.2l-0.3,1.2l-2.3,1.4l-1.9,0l-0.5-1l-0.7,0.4l-4.5-2.2
+		l-0.3,1.1l-2-0.6l0,0l-1.6-1.2l-1-3.1l2.8-0.8l1.6-2.7l2.7-0.7l1-1.3l-3.2-2.2l-0.9-3.3l-4.7-1.5l0-2.5l1.6,0.9l2.2-2.4l-5.4-0.9
+		l0.7-0.9l4.2,0.7l-0.7-1.9l0.6-1.5l-1.2,0.2l-3.6-3.4l-0.5-1.5l2-1.4l-0.1-2.2l-2.5-2.8l0.7-3.3l4.1,0.6l2.7-1.1l3-3.1l0-3.3
+		L319.6,200.6z"/>
+	
+		<linearGradient id="TH-40_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="752.172" x2="548.98" y2="752.172" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-40" inkscape:connector-curvature="0" class="st29" d="M359,245.7l0.6-3.6l1.8-3.1l1.2,2.9l4.4,2.3l2.5,3l-1.4,1.2
+		l1.1,1.2l-0.7,1.6l1,3.6l2.4-1.4l3.9,3.4l3.5-0.9l8.7-4.6l0,0l1.7,1.4l-1.2,4.7l1.2,0.5l1-0.9l0.2-2.6l2.4,0.4l0.7,3l-0.2,2.4
+		l-2.4,2.3l0.8,1.5l-0.8,2.2l0.9,1.9l-0.4,2.1l0,0l0,2.3l-2.2,1.3l-0.1,1.8l-2.5,3.8l-2.6,1.4l-0.6-0.7l-1,1.9l-4.4,1.5l1.4,2
+		l-1.1-0.1l-0.4,1.1l0,0l-0.4,1.3l0,0l-3.4,2.9l-0.1,2.4l-3.2,3l-0.2,4.2l1,3.5l-0.9,1.2l1.5,1.4l-1.3,3.8l0.7,2.1l2.4,1.1l-0.7,0.8
+		l1.5,2.9l-1,2.7l2.5,3.8l-0.6,3.9l0.8,2l0,0l-3.6,1.9l0.1,5.3l-0.9,3l-3.4,1.2l-2.4-0.9l0,0l-2.2-1.7l-2,0.3l-1.8-2.6l0.5-1.5
+		l-1-0.3l-2.1,1l-2.7-1l-0.9,1.1l-3.2,0.4l-2.4-1.4l-4.2,0.7l-2.4,1.5l-2.6-2.5l-1.2,0.1l0.2-2.5l-2.4-2.5l0,0l-0.5-4.4l2.2-2.4
+		l0.1-2l1.3-1.1l-0.7-1.3l1.5-2l-2.1-0.9l-1.1-2.3l-2.4,0l-1.5-2.6l9-12.1l0.4-3.4l2.6-6.5l-3-2.2l-0.9-3l-0.1,1.5l-1.8,0.7
+		l-0.6-1.2l-4.4,0.5l-2.2-0.7l-4.3-3.4l-1.4-0.1l-0.7,1l-1-0.8l-6,0.6l0.4-0.6l-2.8-1.2l-0.6-2.7l-2.3-0.6l-0.8-3.1l-1.9-1.6l-3,0.5
+		l-1.1-1.1l-4.1-1l-3.7,2.1l0.3-1.3l-1.7-0.4l-0.4-1.1l0,0l2.7-3.8l-0.1-2.8l0,0l8.1-3.6l3-1.9l-0.3-0.8l3.4,0.9l1.1-2.1l2.1,0.8
+		l1.9-2.2l0,0l2,0.6l0.3-1.1l4.5,2.2l0.7-0.4l0.5,1l1.9,0l2.3-1.4l0.3-1.2l2.8,0.2l1.9,1.7l-0.5,0.9l1,0l-0.5,0.6l1.4,2.1l0.5-0.9
+		l5.5,2.9l4.3-1l7.8,2.4l0.9-5.2l3.8-8.2L359,245.7z"/>
+	
+		<linearGradient id="TH-41_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="827.9221" x2="548.98" y2="827.9221" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-41" inkscape:connector-curvature="0" class="st30" d="M317.7,169l2.3,2l1.2-0.4l0,2.6l2.4-0.6l-0.2,1.9l1,1.3l1.2-2
+		l2.1-0.3l0.1,0.9l3.9,1.7l1.7-0.4l1.5,2.9l5.3,3.6l0.9,3.8l2.8,1.7l-0.9,1.9l0.8,1.8l1.9,1l4.1-0.6l5.8,5.2l-1.3,1l0,3.5l3.4,0.6
+		l0.2,1.5l3.1-1.9l2.5,1.2l0.6-1.1l1.7,0.1l-0.4-1.6l1-0.4l0.7-2.4l3.1-0.8l1.4-2.4l0.3-3.3l-1.9-2.6l0.9,0.1l0.4-1.8l1.7-0.7
+		l0.1-2.9l0.9-0.7l3,0.4l2.8,4.9l4.5-5l1.4,1.1l1.3-0.5l1.5,1.9l0.9-0.3l2.3,4l1.1-0.3l1.5-4.3l3.5-1.6l4.3,4.4l0.6-0.9l-0.7-1.9
+		l2.1-1.2l2.4,0.2l2.1-1.6l0,0l1.2,1.6l-1.5,1.9l1.9,1l-1.4-0.1l-0.1,0.8l-0.2-0.8l-1,0.1l0.5,0.9l-1.5,2.7l2.9,4.3l-0.9,7.9
+		l0.9,1.5l-2.3,0.2l-0.2,0.9L405,204l-1.9,2.4l-0.3,2.1l-2.1,1.8l0.2,2.1l-1.1,1.9l1.9,3.5l-3.4,5.4l1.6,2.9l5.1,1.1l0.7,1.3
+		l3.8,1.6h2.3l1.2-1.2l6.8,5.1l2-0.8l2.5,3.9l2,0.5l-0.8,2.1l0.5,4l0,0l-1-0.3l0.4-1.6l-2.2-3.2l-2.8-0.6l-2,0.9l-2.7,3.1l0.8,3.2
+		l-1.7,2l-0.2,4.6l0,0l-0.8,1.1l0,0l-3.9,5.9l-0.7-0.5l0.9-1l-1.5-2.2l0.8-0.8l-1.9-2.7l-2.9-1.4l-3.7-0.1l-2.4-2.5l-2.1-0.4
+		l-2.5,1.4l-4.4-1l-1.2,3.4l0,0l-8.7,4.6l-3.5,0.9l-3.9-3.4l-2.4,1.4l-1-3.6l0.7-1.6l-1.1-1.2l1.4-1.2l-2.5-3l-4.4-2.3l-1.2-2.9
+		l-1.8,3.1l-0.6,3.6l0,0l-6.5-3.5l-3.5-3.9l-3.3-7.2l6.8-2l1.4-2.5l-5.8-1.5l-4.6,0.5l-0.1-4.1l-4.7-11.4l-2.4-3.6l-1-8.9l-3.7,1.3
+		l-7.2-0.3l-2.1,2.2l-1.3-0.9l-1.3,0.8l0,0l-1.8-1.5l-1.5,0.7l-0.4-0.7l0.6-0.4l-1.5-5.9l0.9-2.7l1.1-0.3l-0.6-1.2l1.1-2.9l-2.2-9.5
+		l1.6-0.5L317.7,169z"/>
+	
+		<linearGradient id="TH-42_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="830.7682" x2="548.98" y2="830.7682" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-42" inkscape:connector-curvature="0" class="st31" d="M320.5,159.7l0.6,0.2l0,0l-0.3,3.6l-2.3,1.4l-0.9,4.1l0,0
+		l-0.9,6.8l-1.6,0.5l2.2,9.5l-1.1,2.9l0.6,1.2l-1.1,0.3l-0.9,2.7l1.5,5.9l-0.6,0.4l0.4,0.7l1.5-0.7l1.8,1.5l0,0l3.5,5.5l0,3.3
+		l-3,3.1l-2.7,1.1l-4.1-0.6l-0.7,3.3l2.5,2.8l0.1,2.2l-2,1.4l0.5,1.5l3.6,3.4l1.2-0.2l-0.6,1.5l0.7,1.9l-4.2-0.7l-0.7,0.9l5.4,0.9
+		l-2.2,2.4l-1.6-0.9l0,2.5l4.7,1.5l0.9,3.3l3.2,2.2l-1,1.3l-2.7,0.7l-1.6,2.7l-2.8,0.8l1,3.1l1.6,1.2l0,0l-1.9,2.2l-2.1-0.8
+		l-1.1,2.1l-3.4-0.9l0.3,0.8l-3,1.9l-8.1,3.6l0,0l-4,0.7l-2.7-3.1l2.4-0.6l-2.9-3.8l0.8-5.3l-1.2-1.2l0.3-1.7l-1.8-4.5l-1.4-0.3
+		l-1.4,3.1l-2.9,1l-2.1-2.5l-0.2-2.2l-3.3-1.2l-1.2-1.6L276,240l-2.3-1.4l-1.1,1l-3-0.5l-0.9,1.1l-1.2-1.5l-3.4,0.2l-2.5-3l-1.5,0.7
+		l0,2.2l-2.1,3.5l-3.7,1.6l-0.6,8.1l-0.9,0.6l-1.7-0.8l0,0l0.1-1.5l-2.5-0.4l-0.5-0.9l1.6-1l-0.7-2.2l1.2-2.7l-0.5-3.5l1.9-4.2
+		l-0.1-2.7l2.2-4l-1.8-3.1l-2.2-0.2l-3-3.6l-6.1-0.6l0-7.7l-1.4-0.9l-2.5,0.9l-1.5-1.2l0.6-2.4l2-1.9l-0.8-1.1l1.3-2.8l1.7-0.5
+		l1.8,1.7l1.8-0.4l0,0l4.4,1.2l5.8,5.3l3.7,0.9l0.4-1.7l1.1-0.3l-0.1-2l3.3-0.7l2.2-4.3l3.1-2.6l0.2-1.2l2.8-0.9l2.2-2.3l1.2,1
+		l2-2.4l-1.9-1.3l2.9,0.1l1.7-0.9l1,0.1l-0.4,1.3l0.8-0.1l1.5-2.9l2.3-1.5l1.8,0.3l-1.8-2l1.7-3.9l1.1,1.4l2-3.1l4.9-1.3l1.1,0.7
+		l1.5-1.3l-0.2-2l3.3-8.3l6.4,2.8l2-0.1l3.5-4.7l4.8-3.7l1.2-3.4L320.5,159.7z"/>
+	
+		<linearGradient id="TH-43_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="863.1617" x2="548.98" y2="863.1617" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-43" inkscape:connector-curvature="0" class="st32" d="M408.3,176.2l-0.8,0.1l0.1,1.6l1.6,1.8l-1.3,0.2l0.4,1.8l0,0
+		l-2.1,1.6l-2.4-0.2l-2.1,1.2l0.7,1.9l-0.6,0.9l-4.3-4.4l-3.5,1.6l-1.5,4.3l-1.1,0.3l-2.3-4l-0.9,0.3l-1.5-1.9l-1.3,0.5l-1.4-1.1
+		l-4.5,5l-2.8-4.9l-3-0.4l-0.9,0.7l-0.1,2.9l-1.7,0.7l-0.4,1.8l-0.9-0.1l1.9,2.6l-0.3,3.3l-1.4,2.4l-3.1,0.8l-0.7,2.4l-1,0.4
+		l0.4,1.6l-1.7-0.1l-0.6,1.1l-2.5-1.2l-3.1,1.9l-0.2-1.5l-3.4-0.6l0-3.5l1.3-1l-5.8-5.2l-4.1,0.6l-1.9-1l-0.8-1.8l0.9-1.9l-2.8-1.7
+		l-0.9-3.8l-5.3-3.6l-1.5-2.9l-1.7,0.4l-3.9-1.7l-0.1-0.9l-2.1,0.3l-1.2,2l-1-1.3l0.2-1.9l-2.4,0.6l0-2.6L320,171l-2.3-2l0,0
+		l0.9-4.1l2.3-1.4l0.3-3.6l0,0l3.9,0.7l1.4,3.8l7,6.6l4.1,0.8l7.5,5l9.5,1l0.8,3.2l-1.8,4.5l6.1,3.1l1.2-1l-1.3-2l0.6-1.6l4.8-1.7
+		l2-2.9l2.3-0.6l2.6-2.1l6.9-2.3l3.7,2.3l1.4-0.4l2.9-3.9l0.2-6.4l4.6-3.8l0-3.8l0.8-1.4l8.8-3.5l0,0l0.1,1.2l-1.6,1.3l0.1,2.4
+		l5.2,2.1l-0.3,2.6l-3.1,2.1v4.1l6.5,4.9L408.3,176.2z"/>
+	
+		<linearGradient id="TH-44_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="728.6445" x2="548.98" y2="728.6445" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-44" inkscape:connector-curvature="0" class="st33" d="M391.6,270.1l2.5,0.1l0.4,0.9l-1.9,1.6l1.3,3.8l-1.9,4.2
+		l1.7,3.1l-1.4,4l0.8,2l6-1l1.8-1.2l0.7,1.8l2.6,0.5l0.6,1.3l0,0l0.2,2.5l1.1,0.6l0,0l2.9,1.1l-0.5,1.9l2.3,2.6l0.6-0.6l-0.5,1.5
+		l0.8,1.6l1.8-1.8l1.7,0l0,0.6l0,0L412,307l-0.1,2.4l1.2,2.5l-0.5,5.2l1.2,3.1l-1.5,1.3l-0.9,2.8l-1.7,10.3l-2,0.8l-2.7-1.2
+		l-3.1,1.6l-2.3,2.7l2.2,0.2l-2.1,4.1l1.4,0.6l0.6,2.1l3.1,1.2l0.8,1.3l3.5-0.9l0.6,2.2l-1.6,5.1l0,0l-3.8,2l-4.8-1.2l-1.3-1.7
+		l-2.4-1l-6.9-1.3l0,0l-2.7-1.2l1.2-2.3l-3-2.3l0.4-2l-1.8-0.5l-3.6-4.2l2.1-1.7l0-3l-4.3-2.6l-0.7-2l0,0l-0.8-2l0.6-3.9l-2.5-3.8
+		l1-2.7l-1.5-2.9l0.7-0.8l-2.4-1.1l-0.7-2.1l1.3-3.8l-1.5-1.4l0.9-1.2l-1-3.5l0.2-4.2l3.2-3l0.1-2.4l3.4-2.9l0,0l0.4-1.3l0,0
+		l0.4-1.1l1.1,0.1l-1.4-2l4.4-1.5l1-1.9l0.6,0.7l2.6-1.4l2.5-3.8l0.1-1.8l2.2-1.3L391.6,270.1z"/>
+	
+		<linearGradient id="TH-45_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="722.729" x2="548.98" y2="722.729" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-45" inkscape:connector-curvature="0" class="st34" d="M464.8,285.1l3.1-1.4l0.5-1.6l0.9,0.6l1.8,8.5l-0.5,0.8l1.9,0.4
+		l0,0l-1.2,3.6l-3.7,3.3l-1.8,0.5l-1.6,3.7l-3.6,1.3l-2.3,2.6l-2,0.3l-0.9,2.3l1.2,2.4l-0.7,3.9l-5,0l-1.1,1.8l0.3,0.7l0.8-0.8
+		l0.6,1.4l-1.5,2.1l0.1,1.7l1.5,1.3l-1.2,0.1l0.5,1l-1,0.5l-0.8,3.3l2.4,0l2.8-1.5l-0.1-1.4l3.9,2.7l-0.4,2.2l1,2.8l-1.6,1.8
+		l0.7,0.5l1.3-1.2l0.3,1.5l2.4,1.7l-1,0.4l-0.2,1.8l1.5,0.2l-0.4,1.5l1.8-0.5l-3.5,1l-2.6,1.7l0,1l0,0l-1.5-0.3l0.4,1.4l-1.6,0
+		l-0.5,1.7l-1.2,0.6l0.3,1l-2.2,0.9l-2.1,2.6l-0.6,3l0,0l-1.1,0l0.1-1.3l-1.6,0.9l-0.3-1.7l-3.1-0.2l-0.6-1.9L441,353l-0.6-1
+		l-1.2,1.4l-0.5-1.2l-5,2.2l-2.3-0.9l-1.4,0.7l-3.8-0.6l-3.8-1.5l-3.1,0.4l-2.2,2.5l-5.4-2l-3.6,1.5l0,0l1.6-5.1l-0.6-2.2l-3.5,0.9
+		l-0.8-1.3l-3.1-1.2l-0.6-2.1l-1.4-0.6l2.1-4.1l-2.2-0.2l2.3-2.7l3.1-1.6l2.7,1.2l2-0.8l1.7-10.3l0.9-2.8l1.5-1.3l-1.2-3.1l0.5-5.2
+		l-1.2-2.5l0.1-2.4l3.3-5.8l0,0l1.2,0.3l1.3-1.9l-0.2,0.8l1.6-0.5l-0.6,1l3.1,0.1l0.2,0.7l1.3-0.7l-1.2-0.7l0.8-0.3l1.7,2.2l1-1.2
+		l0.6,0.8l1-0.6l-0.8-1.4l1.4,0.7l0.4-1l2.8,0.2l1.5-5.5l-3.9-5.3l7.9-6.4l3.3-0.1l4.3,2.5l6.9-0.6l1,3.8l1.8-1.5l4.4-1l2.3-1.5
+		l1.3,1.1L464.8,285.1z"/>
+	
+		<linearGradient id="TH-46_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="771.6163" x2="548.98" y2="771.6163" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-46" inkscape:connector-curvature="0" class="st35" d="M388,251.3l1.2-3.4l4.4,1l2.5-1.4l2.1,0.4l2.4,2.5l3.7,0.1
+		l2.9,1.4l1.9,2.7l-0.8,0.8l1.5,2.2l-0.9,1l0.7,0.5l3.9-5.9l0,0l0.8-1.1l0,0l0.2-4.6l1.7-2l-0.8-3.2l2.7-3.1l2-0.9l2.8,0.6l2.2,3.2
+		l-0.4,1.6l1,0.3l0,0l2.1-1l2,1.2l0.1,2.4l0.8-0.6l0.5,1.2l2.7,0.9l0.4,1.3l-1.3,1.1l1.4,2.6l3.1,1.4l0.5,1.9l6.4,4.8l1-0.4l0.5-3.1
+		l0.6,0.9l0.7-1.8l3.2-1.5l2.9,2.5l0,0l1.5,0.8l1.8,3.7l1.2,0.1l-0.3,1.5l1.4,2.4l1.1,0.3l-0.4,1.4l1.6,0.6l-0.9,4.1l2.1,1.8
+		l1.3,2.2l-0.2,1.6l1.2,0.8l-0.9,3.1l0.7,3.1l0,0l-3.2-0.1l-1.3-1.1l-2.3,1.5l-4.4,1l-1.8,1.5l-1-3.8l-6.9,0.6l-4.3-2.5l-3.3,0.1
+		l-7.9,6.4l3.9,5.3l-1.5,5.5l-2.8-0.2l-0.4,1l-1.4-0.7l0.8,1.4l-1,0.6l-0.6-0.8l-1,1.2l-1.7-2.2l-0.8,0.3l1.2,0.7l-1.3,0.7l-0.2-0.7
+		l-3.1-0.1l0.6-1l-1.6,0.5l0.2-0.8l-1.3,1.9l-1.2-0.3l0,0l0-0.6l-1.7,0l-1.8,1.8l-0.8-1.6l0.5-1.5l-0.6,0.6l-2.3-2.6l0.5-1.9
+		l-2.9-1.1l0,0l-1.1-0.6l-0.2-2.5l0,0l-0.6-1.3l-2.6-0.5l-0.7-1.8l-1.8,1.2l-6,1l-0.8-2l1.4-4l-1.7-3.1l1.9-4.2l-1.3-3.8l1.9-1.6
+		l-0.4-0.9l-2.5-0.1l0,0l0.4-2.1l-0.9-1.9l0.8-2.2l-0.8-1.5l2.4-2.3l0.2-2.4l-0.7-3l-2.4-0.4l-0.2,2.6l-1,0.9l-1.2-0.5l1.2-4.7
+		L388,251.3z"/>
+	
+		<linearGradient id="TH-47_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="826.9653" x2="548.98" y2="826.9653" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-47" inkscape:connector-curvature="0" class="st36" d="M408.3,176.2l0.5-0.8l2.6,1.9l0.4-0.8l-0.9-0.4l0.7-0.8l1.1,0.4
+		l0.4-1.2l1.8,1.1l-0.2-5.1l1.5-0.9l1.4,0.4l0.3-1.5l0.1,1.7l2.5,1.8l1.1-0.8l1.1,2.6l2,0l-1.4,0.8l0.3,2.4l0.8-0.6l1,1l0.8-0.7
+		l-0.1,1.6l1.5-0.4l2.2,1l2,2.2l1.3-3.1l-0.6,2.4l1.7-0.7l-0.5,1.7l0.8,1.1l-1.5,0.6l2,2.9l1.1-1.1l-1-1.4l2.6,0.5l1.4-0.9l0.8,0.3
+		l-0.2,1.1l2.7-1.2l-0.3,2.3l1.5-0.5l-0.4,2.6l1.7,2.6l1.1,0.6l1-0.7l0.4,1l1.4-2.7l1.1-0.2l0,0l0.5,3.5l1-0.7l1.2,0.8l-0.5,1.4
+		l1-0.6l-0.3,1.5l1.2,1.4l-0.5,1.8l0.9-0.2l-1.1,2.6l-2.6,0.5l1.7,3.8l-1.3,1.6l-0.1,3.4l-1.6,1.9l3.3,6.8l1.1,0.9l0.4-1.2l1,1.3
+		l-0.2-1.9l1.1-0.1l0.2,0.9l1-0.5l0.4,1.3l1.4-1l-0.6-1l2.1-0.3l-0.2-1.1l3.7,1l4-1.3l8.8,0.6l-0.7,3.1l1.1,3.1l-1.4,2.5l2.2,4.1
+		l-2.9,4.3l-0.2,2.3l0.8,0.8l-2.4,2.3l-0.8,2.4l2.9,2.4l0,1l-2.7,1.1l-0.4,1.5l-2.3,0.6l-1.1,3.4l-3.3,1.4l0,0l-3.2,2.3l-5.4-0.9
+		l-1.1,3.3l-2.6,1.2l0,0l-2.9-2.5l-3.2,1.5l-0.7,1.8l-0.6-0.9l-0.5,3.1l-1,0.4l-6.4-4.8l-0.5-1.9l-3.1-1.4l-1.4-2.6l1.3-1.1
+		l-0.4-1.3l-2.7-0.9l-0.5-1.2l-0.8,0.6l-0.1-2.4l-2-1.2l-2.1,1l0,0l-0.5-4l0.8-2.1l-2-0.5l-2.5-3.9l-2,0.8l-6.8-5.1l-1.2,1.2h-2.3
+		l-3.8-1.6l-0.7-1.3l-5.1-1.1l-1.6-2.9l3.4-5.4l-1.9-3.5l1.1-1.9l-0.2-2.1l2.1-1.8l0.3-2.1l1.9-2.4l1.6,0.5l0.2-0.9l2.3-0.2
+		l-0.9-1.5l0.9-7.9l-2.9-4.3l1.5-2.7l-0.5-0.9l1-0.1l0.2,0.8l0.1-0.8l1.4,0.1l-1.9-1l1.5-1.9l-1.2-1.6l0,0l-0.4-1.8l1.3-0.2
+		l-1.6-1.8l-0.1-1.6L408.3,176.2z"/>
+	
+		<linearGradient id="TH-48_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="825.1205" x2="548.98" y2="825.1205" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-48" inkscape:connector-curvature="0" class="st37" d="M461.6,173.5l1.9,2.1l3.9,9.4l5.6,3.1l6.5,10.7l16.2,9.3l6.5,9
+		l0.8,12.1l-1.6,7.4l-3.5,8.1l0.2,6.7l1.7,4.2l-1.7,3.1l0,0l-2.1-1.6l-2.3,2.9l-2.1-2.7l-0.6-2.7l-5.3-0.4l-4,1.2l-1.4-1.1l-1.7,0.1
+		l-1.9-1.8l-1.2,0.9l-2.9-1.5l-1.9-0.1l-2.8,3.2l-2.1-3.5l0,0l3.3-1.4l1.1-3.4l2.3-0.6l0.4-1.5l2.7-1.1l0-1l-2.9-2.4l0.8-2.4
+		l2.4-2.3l-0.8-0.8l0.2-2.3l2.9-4.3l-2.2-4.1l1.4-2.5l-1.1-3.1l0.7-3.1l-8.8-0.6l-4,1.3l-3.7-1l0.2,1.1l-2.1,0.3l0.6,1l-1.4,1
+		l-0.4-1.3l-1,0.5l-0.2-0.9l-1.1,0.1l0.2,1.9l-1-1.3l-0.4,1.2l-1.1-0.9l-3.3-6.8l1.6-1.9l0.1-3.4l1.3-1.6l-1.7-3.8l2.6-0.5l1.1-2.6
+		l-0.9,0.2l0.5-1.8l-1.2-1.4l0.3-1.5l-1,0.6l0.5-1.4l-1.2-0.8l-1,0.7l-0.5-3.5l0,0l-1-2.8l-1.4-0.7l1.1-2.3l3-1.1l0.5,1.3l1.6,0.8
+		l4.5-5.1l-1.9-3.6l2.6-1.4l1.5,1.5l0.1-1.3l1-0.1l0,0L461.6,173.5z"/>
+	
+		<linearGradient id="TH-49_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="764.9593" x2="548.98" y2="764.9593" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-49" inkscape:connector-curvature="0" class="st38" d="M465.8,251.7l2.1,3.5l2.8-3.2l1.9,0.1l2.9,1.5l1.2-0.9l1.9,1.8
+		l1.7-0.1l1.4,1.1l4-1.2l5.3,0.4l0.6,2.7l2.1,2.7l2.3-2.9l2.1,1.6l0,0l2.1,7.4l-1.4,4.6l-0.4,6.3l2.2,3.1l5.2,3.4l3,7.4l2.6,1.3
+		l3.1,3.4l0,0l-1.4-0.3l-1.8,2.1l-1.2-0.1l-2.3,3.1l-3.4,0.5l-1,1.3l-3.1-0.7l0,0l-4.3-0.8l-2.5-2.5l-1.5,2l-2-0.1l-1-1.6l-1.5-0.5
+		l-1.8-4.5l-2.7-0.4l-0.6-1.8l-7.1-0.5l-3,1.7l0,0l-1.9-0.4l0.5-0.8l-1.8-8.5l-0.9-0.6l-0.5,1.6l-3.1,1.4l0,0l-0.7-3.1l0.9-3.1
+		l-1.2-0.8l0.2-1.6l-1.3-2.2l-2.1-1.8l0.9-4.1l-1.6-0.6l0.4-1.4l-1.1-0.3l-1.4-2.4l0.3-1.5l-1.2-0.1l-1.8-3.7l-1.5-0.8l0,0l2.6-1.2
+		l1.1-3.3l5.4,0.9L465.8,251.7z"/>
+	
+		<linearGradient id="TH-50_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="917.5328" x2="548.98" y2="917.5328" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-50" inkscape:connector-curvature="0" class="st39" d="M146.3,22.8l3.5,1.6l0.2,1.1l-5.2,2l0.1,1.1l0.8,0.8l-2.3,1.4
+		l0.4,1.5l-3.9,3.6L140,39l-2.5,1.9l2.4,5.5l-1.9,0.1l-2,2.6l-0.2,3.5l-1,1.1l-2.1,0.3l-3.7,4.3l0.6,2.6l1.2,0.5l0.9,2.9l1.8,1.7
+		l-2.1,3.1L133,72l-0.5,1.9l1.5,4.8l-1,0.8l1.7,5.8l-2.1,3.1l-0.3,3.4l2.6,6.4l2.6,1.7l1.2,4.4l0,0l-1.8,1.2l0.8,8.2l-2.4,2.2
+		l1.4,5.8l-2.9,4.9l1.4,2.1l-1.4,1l0,1.7l2.1,0.9l-2.9,5.1l0,0l-6.6-4.2l1.1-1.8l-0.1-2.3l-3.1-2.1l-0.1-2l-2.2-0.2l-2.9,2.2
+		l-6.8,0.4l-0.5,2.1l-1.8,0.6l-0.8,1.4l-2.1,5.1l-5.3,3l-0.6-0.5l-2.3,3.1l-3.2,2l-3.9-0.4l-0.9,1.7l1,0.4l-1.8,3l1.5,2.4l-2.1,0.6
+		l-0.5,1.8l7.4,3.7l0.5,5l1.4,1.7l-0.4,4.8l1,0.6l-2.4,5.4l2-0.4l1.7,1.4l2.5,9.7l-1.2,0.1l0.1,2.4l-2.3,1.2h-1.5l-1-2.5l-1.4,2.2
+		l-5.2,0.8l0.4,1l0,0l-3.6,2.8l-0.7-2.5l-2-2.1l-1.7-0.5l-0.9,1l-2.7-2l-1.7,0.8l0,1.2l1.1,0.6l-0.4,2.1l1.4,3.7l0.4,6l2.1,0.4
+		l1.6,2.5l-2.8,1.4l-1.7,3.4l0.5,3.7l2.2,1.8l-1.4,4.8l1.6,0.8l-0.3,4.1l1.4-0.3l-0.2,0.9l-2.8,0.7l-2.4,0l-0.2-1.8l-0.4,0l-2-0.9
+		l-6.4,1.8l-2.1-0.9l-0.9-1.3l1.1-2l-2.8-4.1l2-0.6l0.5-3.8l-2.2-7.4l-2-0.2l-3.9,2.7l-4.9-0.1l-3.2-6.8l0,0l3.6-3.2l0.5-3.4l-1.2-2
+		l0.8-1.3l-0.9-1.3l-3-0.9l-1.4-3.2l-3.8-2.9v-2.1l5.3-2.7l3.7,1.9l1.8-2.7l5-1.1l-0.7-2.6l2.7-1.2l1-2.2l-1.5-0.8l-1.3,0.7
+		l-1.1-1.6l-1.7,0.7l-1-1.8l-1.6-0.3l-0.7-3.1l1.3-1.9l-0.2-1.9l-1.7-0.7l-0.8-2.8L54,155l3.8-0.5l-2-0.6l0-2.8l-3.3-4.7l-3.5-1.6
+		l2.2-2.1l1.1-3.1l3.2-1.6l0.3-1.5l2.3,0.7l1.9-2.3l-1.8-2.7l-7.1-2.9l-0.6-6.4l1.7-2.5l-2.2-0.7l-0.7-2.6l0.7-2.8l2.4-3.3l2.2-0.8
+		l1-2.2l-0.2-3.5l5.4-7.7l-0.7-2.3l0.8-1.4l6,0.7l0.7,4.1l4.5,4.7l1.3-1.4l7.2,1.5l1.5-1.4l4.4-1.2l1.3-2.1l-1.3-4.6l-4.4-3.8
+		l2.1-1.4l-0.6-2.2l1-1.3l-0.6-5.3l-1.5-2.5l1.4-1l-0.6-2.9l0.7-3.3l-1.8-1.3l-0.2-2.7l-1.5-0.9l-0.3-3.7l-4.7-3.6l-0.1-2.1l0,0
+		l2.9-1.9l3.7,3.3l1.5-3l2.4,0l0.1-0.9l5.8-2.7l4.4,0.8l4.2-4.4l4.7,3.6l0.6,1.5l0.9-2.3l3.4,2.8l0.8-3.5l1.6-0.8l1-2.8l-0.5-6.7
+		l1.3-0.2l0.1-1.3l-0.9-1.6l1.6-2.2l-0.7-2.4l2.2-4.6l3.7-0.3l-0.2-1l2.2-0.9L126,24l7.6,4.4l3.9-1.4l3.9,0l4-1.8L146.3,22.8z"/>
+	
+		<linearGradient id="TH-51_1_" gradientUnits="userSpaceOnUse" x1="-10.2028" y1="871.6578" x2="549.0072" y2="871.6578" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-51" inkscape:connector-curvature="0" class="st40" d="M90.8,190.6l-0.4-1l5.2-0.8l1.4-2.2l1,2.5h1.5l2.3-1.2l-0.1-2.4
+		l1.2-0.1l-2.5-9.7l-1.7-1.4l-2,0.4l2.4-5.4l-1-0.6l0.4-4.8l-1.4-1.7l-0.5-5l-7.4-3.7l0.5-1.8l2.1-0.6l-1.5-2.4l1.8-3l-1-0.4
+		l0.9-1.7l3.9,0.4l3.2-2l2.3-3.1l0.6,0.5l5.3-3l2.1-5.1l0.8-1.4l1.8-0.6l0.5-2.1l6.8-0.4l2.9-2.2l2.2,0.2l0.1,2l3.1,2l0.1,2.3
+		l-1.1,1.8l6.6,4.2l0,0l0.3,2.2l-1.5,0.8L129,140l-1,1.1l-0.3,2.2l-2.6,2l-0.7,2.3l-1.5,0.9l-1,4.2l-2,0.3l-0.5,3l-2.1-0.8l-4.4,1.9
+		l2.6,5.5l0.9,7.9l2.1,4.4l-0.4,3.1l1.4,0.8l-0.6,2.3l2.7,0.1l2.5,4.1l-1.6,0.4l0.9,2.5l-2.6-0.7l-2.1,0.6l1.5,2.8l-1.4,2.2
+		l-1.3,0.2l0.1,2.4l-1.6,0.8l-0.9,5.6l-6.9-2.4l-2.8-0.2l-1.6,1.6l0.4,2.6l1.6,0.6l0,3.2l0,0l-2.1,3.1l-1.5-1.4l-1.9-0.2l-5.4,3.3
+		l-2.2,0.3l-1.8,2.8l-0.5-2.6l1.6-2.8l-0.2-3.8l-1.3-2.9l0.1-4.8l4.2-1.9L90.8,190.6z"/>
+	
+		<linearGradient id="TH-52_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="889.2265" x2="548.98" y2="889.2265" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-52" inkscape:connector-curvature="0" class="st41" d="M138.7,104.3l2.4-0.6l3.9-4.9l2.4,0.1l1.9-3.9l-1.5-2.2l0.8-6.4
+		l2.2-4.1l-1.1-7.5l4.5,2.3l3.1-0.6l1.2,0.7l0,0l1,3l-0.3,6.8l1.5,5.3l2.2,2.6l1,4.9l1.4,0.8l1.6-0.6l1.3,4.3l4.9,0.9l4.3,4.9
+		l2.8,1.6l1.2-0.4l2.5,2.6l-0.2,3.4l1.4-0.7l1.8,1.3l0,0l0.8,1.7l-1.9,3.9l1,4.1l-0.8,3l1.4,1.9l-0.8,2.8l-1.2-0.8l-2.4,1.1l0,2.9
+		l-2.3,4.8l-1.2,0.2l0.7,0.5l-0.6,1.9l-1.2,1.3l-1.4-0.1l-4,7.9l-3.3-0.2l-0.5,2l-3.3,2.9l-3.2,5.2l0.5,1.3l-2.7,3.6l-2.1,0.4
+		l-1.4,1.6l-2.5-1.4l-3.2,1.9l0.6,1.9l-7.4,6.2l-0.5,1.8l-3.6,3.1l-3.7,5.4l3.4,4.8l2.2-0.2l1.5-2l0,0l0.3,4.3l-1.9,2.3l0.4,3.3
+		l-0.9-0.8l-1.4,0.7l-0.4,1.8l1.5,0.7l0.3,2.4l-1.2,0.7l-1,3.3l1,2l1.5,0.6l-0.9,2.9l2.9,2l0.4,2.4l-1.5,1.4l0.1,3.9l-1,0.2
+		l-0.1,1.5l-3.4,1.6l-1.1-0.4l-2.2-3.8l-1.7-0.1l0,0l-2.6-4.4l-0.4-4.9l-2.9-0.4l-3.6,4.8l-1.4,0l-0.8-1.6l-1.9-0.7l-0.3,0.9
+		l-4.1-1.9l-1-1.7l-1.4-0.3l-2.2-3.7l-3.2-0.5l-0.4-3.4l-1.1-0.9l0,0l0-3.2l-1.6-0.6l-0.4-2.6l1.6-1.6l2.8,0.2l6.9,2.4l0.9-5.6
+		l1.6-0.8l-0.1-2.4l1.3-0.2l1.4-2.2l-1.5-2.8l2.1-0.6l2.6,0.7l-0.9-2.5l1.6-0.4l-2.5-4.1l-2.7-0.1l0.6-2.3L118,178l0.4-3.1l-2.1-4.4
+		l-0.9-7.9l-2.6-5.5l4.4-1.9l2.1,0.8l0.5-3l2-0.3l1-4.2l1.5-0.9l0.7-2.3l2.6-2l0.3-2.2l1-1.1l2.8,0.4l1.5-0.8l-0.3-2.2l0,0l2.9-5.1
+		l-2.1-0.9l0-1.7l1.4-1l-1.4-2.1l2.9-4.9l-1.4-5.8l2.4-2.2l-0.8-8.2L138.7,104.3z"/>
+	
+		<linearGradient id="TH-53_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="850.9415" x2="548.98" y2="850.9415" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-53" inkscape:connector-curvature="0" class="st42" d="M253,148.1l5.7,2.9l-2.2,3l0.7,1.6l-1,1l1.4,3l1.8,0.5l-2,6.1
+		l1.6,4.1l-4.2,4.6l-0.3,3.4l-6.6,4.2l0.8,4l-2.1,1l-0.4,1.1l0.9,1.4l-1.9,1.6l0.7,1.3l0,0l-2.3,3l-5.4-0.8l-2.1,4l-2.8,1.2
+		l-4.3,6.8l-6.5,3.3l0.2,1.4l-2.1,0.6l-1.1,3l-4.6,0.4l-1.1,0.9l-0.9-1.7l-1.1,0.7l-3.9-0.2l-4,2.3l-2.6,0.1l-0.3,1.2l-1.4-0.7
+		l-1.7,0.5l-2.7,1.9l0.9,7l-4.4,3.6l-0.9,0.2l-1.2-1.5l-8.1,2.2l-0.4,1.1l-2-1.6l-1.4,0.9l0,0l0.2-2.9l-1.6-1.1l-0.2-0.8l0.8-2.8
+		l2.1-0.8l1.2-2.5l-0.9-1.9l0.6-2l-1.3-1.4l1-1.2l0-2.7l-1.5-2.1l-3.7-2.4l1-1.6l-1.2-3l3.4-2.5l-0.6-0.8l0.8-1.8l-0.9-3.7l-3-2.7
+		l0.2-2.6l-1.7-1.5l0,0l4.1,1.9l0.4-1.3l2-1l-0.4-1.6l3.9-0.9l0.8,1l4.8-1.6l5.8-4.5l2.2-2.9l2.2,0.3l3.8,4.7l1.6-2.5l-0.6-4
+		l2.8-2.7l1.5,0l0,0l8.6,0.4l0.5-1.2l4.1-1.2l3.9,0.5l1.6,1.2l5.2-0.1l2.8-3.7l2.6-0.3l2.2-4.8l2-0.6l0.4-6l4.3-4.6l1,0.3l4-3.7
+		l1.2-0.1l0.8-1.6l0,0L253,148.1z"/>
+	
+		<linearGradient id="TH-54_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="886.0486" x2="548.98" y2="886.0486" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-54" inkscape:connector-curvature="0" class="st43" d="M186.8,117.8l3-1.8l1.8,0.2l0.7,1.2l2.1-0.8l7.6,1.4l0,0
+		l-0.2,1.3l1.7,0.8l-0.3,1.8l2.3,0.8l-2.7,4.2l0.7,2.6l2.3,1.2l-1,0.4l-0.7,4l1.1,0.6l0.8,5.1l1.1,0.3l1.3-1.3l0.6,0.7l2.1-0.4
+		l2.1,1.6l2.3-1.2l0.6,2.8l-0.9,4.2l-1.3-0.1l-0.8,2.1l-1.6,0.8l0.8,0.8l-0.9,1.4l0.9,2.7l-2.7,4.6l-0.5,3.9l-2,0.3l-1.3,1.4l1.2,8
+		l0,0l-1.5,0l-2.8,2.7l0.6,4l-1.6,2.5l-3.8-4.7l-2.2-0.3l-2.2,2.9l-5.8,4.5l-4.8,1.6l-0.8-1l-3.9,0.9l0.4,1.6l-2,1l-0.4,1.3
+		l-4.1-1.9l0,0l-7.7,1.1l-2,3.7l-1.8,1.2l-3.8-5.6l-1.4,0.3l-3.4-1.8l-5.4,1.7l-3.2,4.1l0,0l-1.5,2l-2.2,0.2l-3.4-4.8l3.7-5.4
+		l3.6-3.1l0.5-1.8l7.4-6.2l-0.6-1.9l3.2-1.9l2.5,1.4l1.4-1.6l2.1-0.4l2.7-3.6l-0.5-1.3l3.2-5.2l3.3-2.9l0.5-2l3.3,0.2l4-7.9l1.4,0.1
+		l1.2-1.3l0.6-1.9l-0.7-0.5l1.2-0.2l2.3-4.8l0-2.9l2.4-1.1l1.2,0.8l0.8-2.8l-1.4-1.9l0.8-3l-1-4.1l1.9-3.9L186.8,117.8z"/>
+	
+		<linearGradient id="TH-55_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="931.886" x2="548.98" y2="931.886" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-55" inkscape:connector-curvature="0" class="st44" d="M226.5,46.2l-0.1,2.4l-2.2,4.8l-0.3,11.8l6.2,2.7l0.6,1.7
+		l6.2-6.1l2.3-4.3l1.5,0.8l8-0.5l5.9,4l3.2-1l1.9,0.6l0.6-2l2.5,0.1l3,2.5l-0.9,1.3l0.8,1.7l-1.2,1.7l-0.1,2.4l-3.8-0.2l0.3,2.9
+		l-1.9,2.4l1.2,3.4l1.5,0.2l0.6,1.2l-0.7,1.8l1.8,4.7l-0.6,4.2l0.8,4l5.7,3.9l1,1.7l-1.3,2.9l-1.8,0.2l-1.2,1.5l0.2,2.9l-3.4,3.6
+		l0.2,7.8l-1.7,3.2l3.2,3l-3,4.4l-3.1,1.2l0.1,3.6l-2.3,0.5l-0.8,1.8l-2.3,0.5l-0.7,2.7l-2.7,2.9l-0.1,1.2l2.3,3.2l0,0l-0.8,1.6
+		l-1.2,0.1l-4,3.7l-1-0.3l-4.3,4.6l-0.4,6l-2,0.6l-2.2,4.8l-2.6,0.3l-2.8,3.7l-5.2,0.1l-1.6-1.2l-3.9-0.5l-4.1,1.2l-0.5,1.2
+		l-8.6-0.4l0,0l-1.2-8l1.3-1.4l2-0.3l0.5-3.9l2.7-4.6l-0.9-2.7l0.9-1.4l-0.8-0.8l1.6-0.8l0.8-2.1l1.3,0.1l0.9-4.2l-0.6-2.8l-2.3,1.2
+		l-2.1-1.6l-2.1,0.4l-0.6-0.7l-1.3,1.3l-1.1-0.3l-0.8-5.1L204,135l0.7-4l1-0.4l-2.3-1.2l-0.7-2.6l2.7-4.2l-2.3-0.8l0.3-1.8l-1.7-0.8
+		l0.2-1.3l0,0l0-1.4l3.3-4.8l0.2-2.3l2.5-2l-0.6-1.9l2.7-5.1l2.3,0.1l-0.1,1l1.6,1l-0.7,2.4l2.7-0.5l-0.5-3.5l4.5,1.8l1-0.9
+		l-3.7-2.9l0.6-2.2l3.7,0.3l1.3-1.3l-3.1-9.4l0.8-4.3l-3.2,0.2l-0.2-2.1l-1.8-1.1L214,76l3.2-2.6l0.1-1.3l1.5-1.4l-4-1.5l-3.3,0.4
+		l-0.6-2.9l1-4.8l-2.9-2.6l-0.1-2.1l-0.9-0.6l0.9-2.7l-2.3-1.8l0,0l0.5-3.1l1.4-1.4l0,0l3.9,1.3l4.6-0.8l1.2-1.6L226.5,46.2z"/>
+	
+		<linearGradient id="TH-56_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="956.8398" x2="548.98" y2="956.8398" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-56" inkscape:connector-curvature="0" class="st45" d="M206.5,52l2.3,1.8l-0.9,2.7l0.9,0.6l0.1,2.1l2.9,2.6l-1,4.8
+		l0.6,2.9l3.3-0.4l4,1.5l-1.5,1.4l-0.1,1.3L214,76l1.1,3.2l1.8,1.1l0.2,2.1l3.2-0.2l-0.8,4.3l3.1,9.4l-1.3,1.3l-3.7-0.3l-0.6,2.2
+		l3.7,2.9l-1,0.9l-4.5-1.8l0.5,3.5l-2.7,0.5l0.7-2.4l-1.6-1l0.1-1l-2.3-0.1l-2.7,5.1l0.6,1.9l-2.5,2l-0.2,2.3l-3.3,4.8l0,1.4l0,0
+		l-7.6-1.4l-2.1,0.8l-0.7-1.2l-1.8-0.2l-3,1.8l0,0l-1.8-1.3l-1.4,0.7l0.2-3.4l-2.5-2.6l-1.2,0.4l-2.8-1.6l-4.3-4.9l-4.9-0.9
+		l-1.3-4.3l-1.6,0.6l-1.4-0.8l-1-4.9l-2.2-2.6l-1.5-5.3l0.3-6.8l-1-3l0,0l-0.7-2.8l2.1,0.2l4.9-2.2l5.2,0.3l0.9-0.7l1.5,2.1l1-0.5
+		l0.5,1.8l1.9-1.6l3.3-0.5l0.8,0.7l0-0.9l2.4-0.2l1.5-1.5v-5.5l6.2-1.6l0.4-1.7l4.7-1.5l1.6-2.9l3.8,0l1.1-2.5l1.7-0.4L206.5,52z"/>
+	
+		<linearGradient id="TH-57_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="989.7095" x2="548.98" y2="989.7095" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-57" inkscape:connector-curvature="0" class="st46" d="M176.4,0l2.6,3.3l5.4,2.8l1.2,4.8l-0.4,3l1.2,1.3l4.2,0.4
+		l0.6-1.4l-0.8-2.4l3.4-1.1l0.4-2.6l2.8-3.4l3.2-0.2l2.8,1.7l4,8.8l2.5,1.6l0.2,2.3l3.6,3.5l1.3,0.4l1.6-2.2l1.7,0.4l-3.9,18.2
+		l-1.5,2.7l-3.2,2l-1,3.5l0,0l-1.4,1.4l-0.5,3.1l0,0l-3.2,3.3l-1.7,0.4l-1.1,2.5l-3.8,0l-1.6,2.9l-4.7,1.5l-0.4,1.7l-6.2,1.6v5.5
+		l-1.5,1.5l-2.4,0.2l0,0.9l-0.8-0.7l-3.3,0.5l-1.9,1.6l-0.5-1.8l-1,0.5l-1.5-2.1l-0.9,0.7l-5.2-0.3l-4.9,2.2l-2.1-0.2l0.7,2.8l0,0
+		l-1.2-0.7l-3.1,0.6l-4.5-2.3l1.1,7.5l-2.2,4.1l-0.8,6.4l1.5,2.2l-1.9,3.9l-2.4-0.1l-3.9,4.9l-2.4,0.6l0,0l-1.2-4.4l-2.6-1.7
+		l-2.6-6.4l0.3-3.4l2.1-3.1l-1.7-5.8l1-0.8l-1.5-4.8L133,72l-1.5-2.9l2.1-3.1l-1.8-1.7l-0.9-2.9l-1.2-0.5l-0.6-2.6l3.7-4.3l2.1-0.3
+		l1-1.1l0.2-3.5l2-2.6l1.9-0.1l-2.4-5.5L140,39l0.1-3.2l3.9-3.6l-0.4-1.5l2.3-1.4l-0.8-0.8l-0.1-1.1l5.2-2l-0.2-1.1l-3.5-1.6l0,0
+		l1.8-0.1l1.6-4.2l-2.8-2l-1-6.5l-3.4-2.6l0-2.2l9.5,3.9l3.1-0.4l2.5,1.9l2.6-0.9l0.8-1.5l5.4,1l2-2.6l0-2.1l2-3.1l3.5-0.1L176.4,0z
+		"/>
+	
+		<linearGradient id="TH-58_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="918.2283" x2="548.98" y2="918.2283" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-58" inkscape:connector-curvature="0" class="st47" d="M11.8,139.9l1.3,0.5l0.8-2.7l1,0.5l0.6-0.9l3.1-0.3l-0.3-1.5
+		l1.5,0.1l1.3-1.3l7.6,0l0.4-7.9l-1.4-2.5l0.6-2.4l-1.6-4.7l0.1-3.9l-2.4-1.3l-2.5-3.4l4.7-2.3l-0.2-4.4l2.3-0.3l0-1.9l4.4-1.6
+		l0.8-8.5l-4.2-3.8l1.2-1.5l1.4,0.4l1.4-1.1l-2.9-3.8l0.3-2.6L30,75.9l1.9-1l4.8-6.1l-2.2-2.3l0.5-3l7.8-1.9l0.5-2.7l3.7-0.1
+		l-0.8-5.3l0.6-6.4l3.2-0.3l1.2,2.7l2.3-1.1l2.2,1.2l1.5,2.2l2.4,0.8l1.4,3.6l5.3-1.5l3,0.6l1.5-1l5,0.9l0,0l0.1,2.1l4.7,3.6
+		l0.3,3.7l1.5,0.9l0.2,2.7l1.8,1.3l-0.7,3.3l0.6,2.9l-1.4,1l1.5,2.5l0.6,5.3l-1,1.3l0.6,2.2l-2.1,1.4l4.4,3.8l1.3,4.6l-1.3,2.1
+		l-4.4,1.2l-1.5,1.4l-7.2-1.5l-1.3,1.4L68,97.7l-0.8-4.1l-6-0.7l-0.8,1.4l0.7,2.3l-5.4,7.7l0.2,3.5l-1,2.2l-2.2,0.8l-2.4,3.3
+		l-0.7,2.8l0.7,2.6l2.2,0.7l-1.7,2.5l0.6,6.4l7.1,2.9l1.8,2.7l-1.9,2.3l-2.3-0.7l-0.3,1.5l-3.2,1.7l-1.1,3.1l-2.2,2.1l3.5,1.6
+		l3.2,4.7l0,2.8l2,0.6L54,155l-0.6,1.2l0.8,2.8l1.7,0.7l0.3,1.9l-1.3,1.9l0.7,3.1l1.6,0.3l1,1.8l1.7-0.7l1.1,1.6l1.3-0.7l1.5,0.8
+		l-1,2.2l-2.7,1.2l0.7,2.6l-5,1.1l-1.8,2.7l-3.7-1.9l-5.3,2.7v2.1l3.8,2.9l1.4,3.2l3,0.9l0.9,1.3l-0.8,1.3l1.2,2l-0.5,3.4l-3.6,3.2
+		l0,0l-3.4-2.7l-2.1-6.6l-2.3-3.8l-0.5-3.2l-3.8,1l-0.5,3l-3.8,2.3l-6.9-0.2l0,0l-1.8-2.5l-1.4-0.1l-1.6-3.6l1.2-3.9l2.9-1.9
+		l0.2-1.5l-4.1-9.8l-0.2-3.4l-4.5-5.4l2-3.5l-1.3-2.2l-4-1.5l-1.6,3.7l-2.4,1.2l-3.7-4.5l0.4-4l-1.7-1.3l-2.8-7l-2.5-2.6L0,134.3
+		l1-1.3l0.2,2.5l2.5-0.3l1.1,0.9l2.1,4l2.4-1l1.6,1.3L11.8,139.9L11.8,139.9z"/>
+	
+		<linearGradient id="TH-60_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="700.9067" x2="548.98" y2="700.9067" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-60" inkscape:connector-curvature="0" class="st48" d="M181.3,301.4l4,2.7l-1,2.1l2.4,3.2l0.2,2.3l3,4.7l1.2,3.9
+		l1.6-0.7l1.6,1l1-2.8l1.2,0.1l0.5,1.4l3.8-2l-0.1-1.2l1.5,0.9l-1.1,2.4l9.4,1l4.1-1.1l-0.5,2l3.9-3.4l3-1.2l9.7-1.5l0,0l0.9,1.1
+		l-1.4,5l3.2,2.1l-0.9,3.8l1.5,7.8l2,1.2l-1.4,1.4l-1,7.4l-1.4,2.2l-2.1,1l0,0l-0.9,0.8l1.6,1.1l0.1,2.1l-8.7,3.4l-0.6,6.5l-3.7,3.3
+		l1,1.1l-0.2,2.1l-3.5,2.2l-2.3,2.9l0.1,1.8l-2.9,1.2l-2.8,4l0,0l-5.4-3.7l0,0l0.7-0.6l-0.5-2l-3.3-2.4l-2.4-7.4L195,362l-2.4-2.8
+		l-4-1.5l-0.2-1.2l-2.4-1l0,0l-3.2-0.5l0.8-2.2l-2.4-1.1l-0.6-2.4l-1.1,0.2l-0.6,1.5l-2.7-1.6l-0.8,0.5l-1-12.2L170,339l-0.3,2.6
+		l-4.5-1.8l-4.1-3.1l-2,0.1l-7.4,4l-2.1,2.6l-3.4,2l-2.8-0.1l-0.3-1.5l-0.9,0.2l-2.2-2.2l-2.9-0.8l-1.6-3.9l-4-0.9l-1.3-1.6
+		l-1.9-0.4l-2.1-3.1l-5.4-1.9l0,0l-2.7-2.6l-0.6-3.8l0,0l2.7-1.8l1.3,0.2l1.7-2l2.1,0l0.3-0.9l5.5,3.9l2-2.5l0.6,1.1l1.9-1l3.5,1.1
+		l1.2-0.5l2.7,1.3l0.8-1.5l1.5-0.4l7.1,2.1l3.5,2.9l3.4-1.5l2.2,1.5l2-3l-0.1-1.4l2.4,0l0.2-1.4l2.6-2.7l-0.1-2.6l2.9-2.3l3.1-0.2
+		l5.6-6.9l1.4-0.4l-1-1.7L181.3,301.4z"/>
+	
+		<linearGradient id="TH-61_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="682.8112" x2="548.98" y2="682.8112" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-61" inkscape:connector-curvature="0" class="st49" d="M120.8,329.4l5.4,1.9l2.1,3.1l1.9,0.4l1.3,1.6l4,0.9l1.6,3.9
+		l2.9,0.8l2.2,2.2l0.9-0.2l0.3,1.5l2.8,0.1l3.4-2l2.1-2.6l7.4-4l2-0.1l4.1,3.1l4.5,1.8l0.3-2.6l4.4-1.4l1,12.2l0.8-0.5l2.7,1.6
+		l0.6-1.5l1.1-0.2l0.6,2.4l2.4,1.1l-0.8,2.2l3.2,0.5l0,0l-1,1l1.2,1.9l-1.6-0.4l-0.4,0.7l1.7,2.3l-2.9,4.3l-1.1-1.4l-5.6-0.7l-5,1.2
+		l-2.2-1.7l-4.2-0.5l-4.5,2.8l0.7,2.2l-0.6,1.6l2.5,3.3l-0.8,0.8l3.9,4.8l-2.2,2.7l0.4,2.1l-3.3,1.6l-0.9,1.7l0,0l-5.5-0.9l-0.2,3.5
+		l-8.4-3.2l-4.2,0.1l-1.7-4.5l-3.6,0l-2.1-2.3l-2.2,1.8l0.4,2.1l-1.5,2.1l0,0l-1.9,0.5l-1.6-1.7l-2.8-1l-2,0.8l-1.8-1.5l0.5-1
+		l-4.4,0.9l-3.9-1.1l-1.2-1.3l0.4-5l-1.5-2.5l0,0l1.3-0.2l0.2-3.8l2.2-3.5l-0.5-3.2l2.6-4.1l-0.9-3.3l1.6-3.7l-2.1-4.1l3.1-1.8
+		l1.3-3.3l-0.1-2.7l1.8-4.6l-0.7-2.2L120.8,329.4z"/>
+	
+		<linearGradient id="TH-62_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="753.656" x2="548.98" y2="753.656" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-62" inkscape:connector-curvature="0" class="st50" d="M140.4,253.5l2.2,0.2l2-2.1l1.7,2.9l4.3,0.9l-0.1,2l3,4.7
+		l3.6,2.1l1.3-0.2l0.1,1l2.7-1.4l-0.3,1.9l2.6,1.9l2.2-0.6l0.9-2l2,0.4l0.8-1.5l0,0l2.9,1l0.8,8.2l3.3,2.3l3.1-0.9l0.4,0.8l0,0
+		l1.4,5.1l-2.6,4.3l-0.8,4.3l1.5,2.9l1.5,0.3l-1.9,3l0.6,1l1.4-0.2l-0.6,1.9l2.2,1.5l-1.5,2.3l0,0l-0.7,0.9l1,1.7l-1.4,0.4l-5.6,6.9
+		l-3.1,0.2l-2.9,2.3l0.1,2.6l-2.6,2.7l-0.2,1.4l-2.4,0l0.1,1.4l-2,3l-2.2-1.5l-3.4,1.5l-3.5-2.9l-7.1-2.1l-1.5,0.4l-0.8,1.5
+		l-2.7-1.3l-1.2,0.5l-3.5-1.1l-1.9,1l-0.6-1.1l-2,2.5l-5.5-3.9l-0.3,0.9l-2.1,0l-1.7,2l-1.3-0.2l-2.7,1.8l0,0l0.6-3.1l-1.5-2.1
+		l1-1.4l-0.4-3.2l2.2-3.3l-0.6-1.9l-3.9-2.5v-1.6l1.2-0.4l1-3.3l-2.2-3.1l-0.5-8.2l-1.7-0.8l0.4-2.9l-1.9-1.8l-0.6-2.5l1.1-0.7
+		l1.8,1.8l6.3-0.1l1.2-1.8l2.3-0.7l1.1-2l1.9,0.9l1.4-0.5l1.1-2.4l-0.7-6.7l1.7-0.5l2.1-4.8l-0.8-3.2l2.1-2l4.1,0.3l-0.4-3.7
+		L140.4,253.5z"/>
+	
+		<linearGradient id="TH-63_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="763.8404" x2="548.98" y2="763.8404" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-63" inkscape:connector-curvature="0" class="st51" d="M27.1,190.3l6.9,0.2l3.8-2.3l0.5-3l3.8-1l0.4,3.2l2.3,3.8
+		l2.1,6.6l3.4,2.7l0,0l3.2,6.8l4.9,0.1l3.9-2.7l2,0.2l2.2,7.4l-0.5,3.8l-2,0.6l2.8,4.1l-1.1,2l0.9,1.3l2.1,0.9l6.4-1.8l2,0.9l0.4,0
+		l0.2,1.8l2.4,0l2.8-0.7l0.2-0.9l-1.4,0.3l0.3-4.1l-1.6-0.8l1.4-4.8l-2.2-1.8l-0.5-3.7l1.7-3.4l2.8-1.4l-1.6-2.5l-2.1-0.4l-0.4-6
+		l-1.4-3.7l0.4-2.1l-1.1-0.6l0-1.2l1.7-0.8l2.7,2l0.9-1l1.7,0.5l2,2.1l0.7,2.5l3.6-2.8l0,0l3.7,5.9l-4.2,1.9l-0.1,4.8l1.3,2.9
+		l0.2,3.8l-1.6,2.8l0.5,2.6l1.8-2.8l2.2-0.3l5.4-3.3l1.9,0.2l1.5,1.4l2.1-3.1l0,0l1.1,0.9l0.4,3.4l3.2,0.5l2.2,3.7l1.4,0.3l1,1.7
+		l4.1,1.9l0.3-0.9l1.9,0.7l0.8,1.6l1.4,0l3.6-4.8l2.9,0.4l0.4,4.9l2.6,4.4l0,0l-0.1,8.8l1.1,0.5l-0.6,1.7l1.2,1.4l1.9-0.3l1.7,0.9
+		l0.1,4l2.6,1l-1.4,2.2l0.3,3l2,2l-1.3,2l0,0l-3.2,1.3l0.4,3.7l-4.1-0.3l-2.1,2l0.8,3.2l-2.1,4.8l-1.7,0.5l0.7,6.7l-1.1,2.4
+		l-1.4,0.5l-1.9-0.9l-1.1,2l-2.3,0.7l-1.2,1.8l-6.3,0.1l-1.8-1.8l-1.1,0.7l0.6,2.5l1.9,1.8l-0.4,2.9l1.7,0.8l0.5,8.2l2.2,3.1l-1,3.3
+		l-1.2,0.4v1.6l3.9,2.5l0.6,1.9l-2.2,3.3l0.4,3.2l-1,1.4l1.5,2.1l-0.6,3.1l0,0l0.6,3.8l2.7,2.6l0,0l-0.5,1.9l0.7,2.2l-1.8,4.6
+		l0.1,2.7l-1.3,3.3l-3.1,1.8l2.1,4.1l-1.6,3.7l0.9,3.3l-2.6,4.1l0.5,3.2L112,368l-0.2,3.8l-1.3,0.2l0,0l-1.9-4.5l-2.2,0l-0.7-1.5
+		l-1.8-0.6l0.3-1.1l-1.3-2.3l-2.5-1.5l-5.3-6.7l0.2-2.2l-3.6-1.8l1.3-1.3l-5.1-8l-1.6,0.5l-2.8-2.3l-0.9,0.4l0,0l-0.8,0.2l-0.8-2.2
+		l4.3-13.5l-1,0.1l-0.8-3l1.6-4.2l-1.1-2.4l-2-1.3l0.3-1.7l0.9-0.5l3,1.4l2.4-2.1l1.3-3.8l1.3-0.5l3,1.1l2.4-0.5l1.6,1.5l3-1.6l1-3
+		l-0.6-3.4l3.4-2.4l0.6-3.2l1.1-0.5l0.2-1.5l-1.5-1.3l0.7-2.7l-2.6-2.7l-3.3,0.1l-0.9,2.6l-2.8,2.6l-3.2,1.2l-1.8,4.3l-1.7-0.1
+		l-2.5-10.8l1.3-1.9l-0.4-1.2l-5-6.1l0.6-2l-1-3.1l-4-1l0.3-3.3l-3.6-2.6l0-1.5l1,0.4l0.8-1.8l-0.2-1.3l1.2,0.2l0.8-1.4l2.1-0.7
+		l-3.7-1.9l1.1-2.6l1.8-1.4l-3-1.7l-0.2-3.4l-1-1.7l-1.6-0.1l0.4-1.7l-1.6,0.1l0.5-1l-3.3-1.7l-3,0.8l-1.8-1.5l-0.6-2.2l-1.9-1
+		l0.9-2.8l-1.5,0.1l-1.8-4l-1.2,0.4l-1.5-3.1l-2.1-0.8l-4.2-4.3l0-4.5l-2-0.4l-2.3-2.7l0.6-0.9l-4.2-4.8l-1.4,0.1l-0.7-1.4l-2.5-0.8
+		l-1.2-3.1l-7.6-6.8l-2.1-3.1l0.7-2l-2-1.2L27.1,190.3z"/>
+	
+		<linearGradient id="TH-64_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="814.4388" x2="548.98" y2="814.4388" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-64" inkscape:connector-curvature="0" class="st52" d="M143.5,193.4l3.2-4.1l5.4-1.7l3.4,1.8l1.4-0.3l3.8,5.6l1.8-1.2
+		l2-3.7l7.7-1.1l0,0l1.7,1.5l-0.2,2.6l3,2.7l0.9,3.7l-0.8,1.8l0.6,0.8l-3.4,2.5l1.2,3l-1,1.6l3.7,2.4l1.5,2.1l0,2.7l-1,1.2l1.3,1.4
+		l-0.6,2l0.9,1.9l-1.2,2.5l-2.1,0.8l-0.8,2.8l0.2,0.8l1.6,1.1l-0.2,2.9l0,0l-1.8,0.5l0.7,2.8l-0.9,0.8l0,2.4l1.1,0.7l1.9-0.6
+		l1.5,3.3l5.3,2.6l0.9,1.4l-0.7,0.1l0.8,3.9l-1.6,1.8l-5.3,0.1l0.6,2.6l-1.8-1l-2.6,0.6l-0.7,2.3l-2.1,1.6l0.8,2.7l-3.2-0.1
+		l-1.3,2.2l0,0l-0.8,1.5l-2-0.4l-0.9,2l-2.2,0.6l-2.6-1.9l0.3-1.9l-2.7,1.4l-0.1-1l-1.3,0.2l-3.6-2.1l-3-4.7l0.1-2l-4.3-0.9
+		l-1.7-2.9l-2,2.1l-2.2-0.2l0,0l1.3-2l-2-2l-0.3-3l1.4-2.2l-2.6-1l-0.1-4l-1.7-0.9l-1.9,0.3l-1.2-1.4l0.6-1.7l-1.1-0.5l0.1-8.8l0,0
+		l1.7,0.1l2.2,3.8l1.1,0.4l3.4-1.6l0.1-1.5l1-0.2l-0.1-3.9l1.5-1.4l-0.4-2.4l-2.9-2l0.9-2.9l-1.5-0.6l-1-2l1-3.3l1.2-0.7l-0.3-2.4
+		l-1.5-0.7l0.4-1.8l1.4-0.7l0.9,0.8l-0.4-3.3l1.9-2.3L143.5,193.4z"/>
+	
+		<linearGradient id="TH-65_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="798.665" x2="548.98" y2="798.665" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-65" inkscape:connector-curvature="0" class="st53" d="M246.2,193.6l0.9,2.5l-1.2,1.8l0,3.9l-2.2,3.2l0,0l-1.8,0.4
+		l-1.8-1.7l-1.7,0.5l-1.3,2.8l0.8,1.1l-2,1.9l-0.6,2.4l1.5,1.2l2.5-0.9l1.4,0.9l0,7.7l6.1,0.5l3,3.6l2.2,0.2l1.8,3.1l-2.2,4l0.1,2.7
+		l-1.9,4.2l0.5,3.5l-1.2,2.7l0.7,2.2l-1.6,1l0.5,0.9l2.5,0.4l-0.1,1.5l0,0l-1.7,0.1l-1.4,2.5l-4.5,3l0.1,2l-3.6-0.3l-0.5,1.9l1.6,1
+		l-0.4,1.8l1.9,3.6l-1.3,1l-2.2-0.2l-1.7,1.8l-1.2,3.6l0.7,3.2l-2.8,4.5l-1.5,0.7l0.8,1.6l-1.2,0l-1.1,1.6l-4.3,0.4l-0.3,3.2
+		l-3.6,3.3l0,0l-2.6,1.2l0.9-3.8l-1.5-1.4l-0.4-5.8l-0.8-0.4l-0.1-3.3l1.1-2.8l-0.7-2.5l-5.3,1.4l-2.8,3.7l-3,0.8l-1.3-1.3l-0.7,0.5
+		l-1.2-1.9l-3.8,1.5l-3.8-1l-2,0.6l-0.2-6.5l-1.1-1.7l-1.7,1l0.9,0.6l-0.9,1.5l-2.3,0.7l-2.6-1l-2.1,0.7l-0.3,1.3l-4.6,0.3l0,0
+		l-0.4-0.8l-3.2,0.9l-3.3-2.3l-0.8-8.2l-2.9-1l0,0l1.3-2.2l3.2,0.1l-0.8-2.7l2.1-1.6l0.7-2.3l2.6-0.6l1.8,1l-0.6-2.6l5.3-0.1
+		l1.6-1.8l-0.8-3.9l0.7-0.1l-0.9-1.4l-5.3-2.6l-1.5-3.3l-1.9,0.6l-1.1-0.7l0-2.4l0.9-0.8l-0.7-2.8l1.8-0.5l0,0l1.4-0.9l2,1.6
+		l0.4-1.1l8.1-2.2l1.2,1.5l0.9-0.2l4.4-3.6l-0.9-7l2.7-1.9l1.7-0.5l1.4,0.7l0.3-1.2l2.6-0.1l4-2.3l3.9,0.2l1.1-0.7l0.9,1.7l1.1-0.9
+		l4.6-0.4l1.1-3l2.1-0.6l-0.2-1.4l6.5-3.3l4.3-6.8l2.8-1.2l2.1-4l5.4,0.8l2.3-3l0,0L246.2,193.6L246.2,193.6z"/>
+	
+		<linearGradient id="TH-66_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="746.273" x2="548.98" y2="746.273" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-66" inkscape:connector-curvature="0" class="st54" d="M179.9,274.9l4.6-0.3l0.3-1.3l2.1-0.7l2.6,1l2.3-0.7l0.9-1.5
+		l-0.9-0.6l1.7-1l1.1,1.7l0.2,6.5l2-0.6l3.8,1l3.8-1.5l1.2,1.9l0.7-0.5l1.3,1.3l3-0.8l2.8-3.8l5.3-1.4l0.7,2.5l-1.1,2.7l0.1,3.3
+		l0.8,0.4l0.4,5.8l1.5,1.4l-0.9,3.8l2.6-1.2l0,0l0.1,2.2l2,3.1l2.2-1.1l0.5,0.8l-5.2,8l0.7,2.3l-1.2,4.2l6.1,1.3l2.9,1.9l0,0
+		l-9.7,1.5l-3,1.2l-3.9,3.4l0.5-2l-4.1,1.1l-9.4-1l1.1-2.4l-1.5-0.9l0.1,1.2l-3.8,2l-0.5-1.4l-1.2-0.1l-1,2.8l-1.6-1l-1.6,0.7
+		l-1.2-3.9l-3-4.7l-0.2-2.3l-2.4-3.2l1-2.1l-4-2.7l0,0l1.5-2.3l-2.2-1.5l0.6-1.9l-1.4,0.2l-0.6-1l1.9-3l-1.5-0.3l-1.5-2.9l0.8-4.3
+		l2.6-4.3L179.9,274.9z"/>
+	
+		<linearGradient id="TH-67_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="742.7852" x2="548.98" y2="742.7852" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-67" inkscape:connector-curvature="0" class="st55" d="M251.1,251.9l1.7,0.8l0.9-0.6l0.6-8.1l3.7-1.6l2.1-3.5l0-2.2
+		l1.5-0.7l2.5,3l3.4-0.2l1.2,1.5l0.9-1.1l3,0.5l1.1-1l2.3,1.4l1.7-1.5l1.2,1.6l3.3,1.2l0.2,2.2l2.1,2.5l2.9-1l1.4-3.1l1.4,0.3
+		l1.8,4.5l-0.3,1.7l1.2,1.2l-0.8,5.3l2.9,3.8l-2.4,0.6l2.7,3.1l4-0.7l0,0l0.1,2.8l-2.7,3.8l0,0l-1.5,1.2l-2.9-2.5l-3.3,0.5l-3.2-3.1
+		l-2.1-0.4l1.6,4.1l-0.4,1.6l-4.1-2.1l1,4.2l-1.8,0.7l-0.3,2.7l1.5,1.6l-3.1,1.4l-0.6,1.9l0.6,1.6l-4.8,5.7l0.6,1.4l-1.8,1.6l-0.7,6
+		l-1.5,1.1l1.6,0.9l0.4,3.7l-1.2,0.3l-1.5,2.2l-1.2,7.8l1.2,3.9l1.1,1.6l1.1-0.3l-0.9,3l0.9,0.3l-2.9,2.7l-0.1,5.4l-0.9,0.9l1.3,2.4
+		l4.8,1.3l-2.4,10.9l0,0l0,0l0,0l-4,0.4l-1.5,2.7l1,1l0.1,9.1l-6.8,4.7l-4.7-0.4l-2.9-1.8l-1.5,1L248,361l-3.1-3.3l0.1-1.8l-2-2.3
+		l-3.6-2l-4.7-0.4l-2.3-3.1l-2.1,0.1l0,0l2.1-1l1.4-2.2l1-7.4l1.4-1.4l-2-1.2l-1.5-7.8l0.9-3.8l-3.2-2.1l1.4-5l-0.9-1.1l0,0
+		l-2.9-1.9l-6.1-1.3l1.2-4.2l-0.7-2.3l5.2-8l-0.5-0.8l-2.2,1.1l-2-3.1l-0.1-2.2l0,0l3.6-3.3l0.3-3.2l4.3-0.4l1.1-1.6l1.2,0l-0.8-1.6
+		l1.5-0.7l2.8-4.5l-0.7-3.1l1.2-3.6l1.7-1.8l2.2,0.2l1.3-1l-1.9-3.6l0.4-1.8l-1.6-1l0.5-1.9l3.6,0.3l-0.1-2l4.5-3l1.4-2.5
+		L251.1,251.9z"/>
+	
+		<linearGradient id="TH-70_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="557.081" x2="548.98" y2="557.081" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-70" inkscape:connector-curvature="0" class="st56" d="M170.7,457.2l3.3,0.8l-0.8,2.1l-1.2,0.2l1,2.1l-0.7,2.1l3.8,0.4
+		l0.8,1.8l-1.8,4.6l0.7,0.8l3.2-0.3l1.8-1.2l-0.1,3.5l0.6,0.7l2.2-0.3l0,3.1l0,0l-0.8,2.2l-1.5,0.5l0.8,4.5l-1,2.7l0,0l-1.3-0.5
+		l-1,1.4l-2,0.6l-3.5-1.7l0.4,0.7l-1.9,2.1l-2.4,9.7l0,0l-6.6-1l-3.6,1.6l-2.7,2.4l-0.1,4.9l-1.9,0.9l-3.9,0.3l-3.7-0.9l-1,2l-2-1.4
+		l-1.2,1.2l-1.3-0.1l-6.1-4l-1.8,1.5l0.1,3l-3.6,2l-2.8-3.7l-1.3-0.4l0,0l-0.9-3.3l1-0.4l-1.6-2.1l1.4-3.1l0.1-8.3l-1.3-2.6l0.3-3.2
+		l-1.9-2.1l1-0.8l-0.8-1.6l-0.1-8.3l0,0l0.4-0.9l1.8,0.8l1.6-1.5l2.9,0.5l1.2-1.3l0.9,1.4l3.7-0.4l6.7-2.3l1.2-1.8l2.3,2.7l3,0.6
+		l7.9-6l9.8,2.6l0.7-3.9l1.1,0L170.7,457.2z"/>
+	
+		<linearGradient id="TH-71_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="636.1873" x2="548.98" y2="636.1873" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-71" inkscape:connector-curvature="0" class="st57" d="M82.7,339.1l0.9-0.4l2.8,2.3l1.6-0.5l5.1,8l-1.3,1.3l3.6,1.8
+		l-0.2,2.2l5.3,6.7l2.5,1.5l1.3,2.3l-0.3,1.1l1.8,0.6l0.7,1.5l2.2,0l1.9,4.5l0,0l1.5,2.5l-0.4,5l1.2,1.3l3.9,1.1l4.4-0.9l-0.5,1
+		l1.8,1.5l2-0.8l2.8,1l1.6,1.7l1.9-0.5l0,0l2.5,3.2l-0.3,4l-2.3,2.1l0.8,1.9l4.4,4.3l5.3-0.3l1.9,5.5l3.4-0.4l2.4-1.4l-0.1-5.5
+		l1.4,1.2l3.1,0.1l2.3-1.5l5.3,3.8l4.6,0.8l-1.4,2.2l1.4,0.7l2.5,5.4l-1.7,0.4l-0.6,1.6l1.6,1.1l-0.7,2l0.6,22.1l-2.4,2.4l-1.1-0.6
+		l-0.6,1.2l-0.8-0.2l-1.1,5.5l1.7,1.1l2.5-0.6l1.4,2.4l2.2,0.4l0,0l0.7,1.2l-1.6,3l1,0.1l2.2,3.4l0,0L168,463l-1.1,0l-0.7,3.9
+		l-9.8-2.6l-7.9,6l-3-0.6l-2.3-2.7l-1.2,1.8l-6.7,2.3l-3.7,0.4l-0.9-1.4l-1.2,1.3l-2.9-0.5l-1.6,1.5l-1.8-0.8l-0.4,0.9l0,0l-0.8-1.8
+		l-2.2-1.2l0-2.8l-1.4-1.8l0.7-3.5l-2-0.2l-1.3-2.5l-2.7-1.4l-1.5-4.9l-1.8-0.9l-0.8-4.4l-4.1-0.9l-2-2.5l-10.3-6.9l-1.2-2l-6.5-3.3
+		l-0.3-3.1l-2.1-1.1l-5.1-10.8l-2,0.7l-0.2-3.3l-1.6-2.4l-4.5-3.6l-0.9-2.2l-2-0.8l-5.1-8.2l0.9-1.9l-2-2.4l1.3-1.7l-1.4-3.6
+		l-1.5-1.1l0.3-2.7l1.4-1.4l-3.4-5l2-4.4l-1-3.7l3.7,0.4l3.5-3.8l0-2.3l7,4.1l0.9-1.2l-1.6-2.3l1.6-1.2l0.1-2.6l4.3-1.9l3.6,1.4
+		l1.3,2.5l1.4-2.3l0.6-5.2l-0.4-5.9l-1.7-5.3L82.7,339.1z"/>
+	
+		<linearGradient id="TH-72_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="627.6785" x2="548.98" y2="627.6785" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-72" inkscape:connector-curvature="0" class="st58" d="M130.8,384.9l1.5-2.1l-0.4-2.1l2.2-1.8l2.1,2.3l3.6,0l1.7,4.5
+		l4.2-0.1l8.4,3.2l0.2-3.5l5.5,0.9l0,0l0.4,1l8.9,1.5l2,1.9l5.5,0.7l5.2-1.1l-0.1-2.9l4.9,1l1.5,2.3l4.5-2.9l0,0l-1.4,2l0.5,1.3
+		l2.1-0.1l-1,0.5l1.2,1.1l-1.4,5l1.6,1.3l0,0l-1.3,1.1l-0.2,2.4l0.2,4.1l1.5,2.1l-2.4,3l1,2l-1,1.3l0.7,2.6l3.1,2.8l0,0l-0.3,3.1
+		l1.6,0.5l0.6,1.8l-0.9,1.4l0,4l-1.7,2.8l0,5.2l0,0l-1.9,1.9l-4,1.1l-1.6,1.4l-12.8,0.8l-6.6,5.2l0,0l-2.2-0.4l-1.4-2.4l-2.5,0.6
+		l-1.7-1.1l1.1-5.5l0.8,0.2l0.6-1.2l1.1,0.6l2.4-2.4l-0.6-22.1l0.7-2l-1.6-1.1l0.6-1.6l1.7-0.4l-2.5-5.4l-1.4-0.7l1.4-2.2l-4.6-0.8
+		l-5.3-3.8l-2.3,1.5l-3.1-0.1l-1.4-1.2l0.1,5.5l-2.4,1.4l-3.4,0.4l-1.9-5.5l-5.3,0.3l-4.4-4.3l-0.8-1.9l2.3-2.1l0.3-4L130.8,384.9z"
+		/>
+	
+		<linearGradient id="TH-73_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="583.4057" x2="548.98" y2="583.4057" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-73" inkscape:connector-curvature="0" class="st59" d="M195.4,439.2l0.3,2.5l2.5,0.3l-0.3,3.1l0,0l-1,8l2.2,3.2
+		l-2.3,2.9l3.7,6.8l0,0l0.8,6.1l0,0l-3,1.6l-1.4,2l-2.7,0.8l-0.7-1.2l-3.4-0.1l-2.1,0.5l-2,2.2l-2.5-0.1l0,0l0-3.1l-2.2,0.3
+		l-0.6-0.7l0.1-3.5l-1.8,1.2l-3.2,0.3l-0.7-0.8l1.8-4.6l-0.8-1.8l-3.8-0.4l0.7-2.1l-1-2.1l1.2-0.2l0.8-2.1l-3.3-0.8l0,0l-2.2-3.4
+		l-1-0.1l1.6-3l-0.7-1.2l0,0l6.6-5.2l12.8-0.8l1.6-1.4l4-1.1L195.4,439.2z"/>
+	
+		<linearGradient id="TH-74_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="559.2165" x2="548.98" y2="559.2165" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-74" inkscape:connector-curvature="0" class="st60" d="M201.3,472.1l0.6,6.4l2.1,0.8l1.6,5l1.6-0.2l-0.7,4.6l0,0
+		l-5.5,0.5l-3-1.3l-0.6-0.1l-0.9,1.8l-12.2,3.8l0,0l-0.4-2.2l-2.9-3.5l0,0l1-2.7l-0.8-4.5l1.5-0.5l0.8-2.2l0,0l2.5,0.1l2-2.2
+		l2.1-0.5l3.4,0.1l0.7,1.2l2.7-0.8l1.4-2L201.3,472.1z"/>
+	
+		<linearGradient id="TH-75_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="545.4796" x2="548.98" y2="545.4796" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-75" inkscape:connector-curvature="0" class="st61" d="M169.3,500l2.4-9.7l1.9-2.1l-0.4-0.7l3.5,1.7l2-0.6l1-1.4
+		l1.3,0.5l0,0l2.9,3.5l0.4,2.2l0,0l-2.1,1.1l-1.8,3.3l-1.6-0.4l0,2.4l-3.1,2.6l0,0l-1.8,1.1l-2-0.4l-0.8,2.8l-1.7,0L169.3,500z"/>
+	
+		<linearGradient id="TH-76_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="515.3346" x2="548.98" y2="515.3346" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-76" inkscape:connector-curvature="0" class="st62" d="M125.8,508.4l1.3,0.4l2.8,3.7l3.6-2l-0.1-3l1.8-1.5l6.1,4
+		l1.3,0.1l1.2-1.2l2,1.4l1-2l3.7,0.9l3.9-0.3l1.9-0.9l0.1-4.9l2.7-2.4l3.6-1.6l6.6,1l0,0l0.2,5.7l1.7,0l0.8-2.8l2,0.4l1.8-1.1l0,0
+		l-0.7,2l3,2.1l2.3,3.4l3.2,1.9v5.3l2.2,1.7l-4.1,6.3l-4.9,15.3l-0.7,7.4l0,0l-2.2,0.7l-1.2-0.9l-1.5,1l-3.9-0.6l-4.5,3.2l-0.6-3.1
+		l-0.8,0.3l-1.4-1.8l-4.8,1l-1.8-1l-0.4,2.5l1,1.5l-0.7,3.7l-1.6-0.5l-1.1-2.1l-2.6,0.1l-1.3,1.1l-2.2-2l-3.3,0.5l0,0l-1.8-2.2h-2.2
+		l-2.3-1.7l-0.4-1.4l-2.9-1.1l0.3-0.8l-2.1-2.8l-2,0.4l-1.2-6.8l-2.4-1.8l-0.2-4.2l-1.4-1.1l2.2-2l0-2.4L120,520l-1.7-2.4l2.3-3.1
+		l0-3.2l-1.2-0.8l0.5-1.3l2.3-1l2.8,1L125.8,508.4z"/>
+	
+		<linearGradient id="TH-77_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="437.3984" x2="548.98" y2="437.3984" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-77" inkscape:connector-curvature="0" class="st63" d="M141.2,551.2l3.3-0.5l2.2,2l1.3-1.1l2.6-0.1l1,2.1l1.6,0.5
+		l0.7-3.7l-1-1.5l0.4-2.5l1.8,1l4.8-1l1.3,1.8l0.8-0.3l0.6,3.1l4.5-3.2l3.9,0.6l1.5-1l1.2,0.9l2.2-0.7l0,0l0.1,3.7l1.9,4.4l-0.7,1.1
+		l0.4,4.5l1.6,6.6l-1.9,4.9l3,5.2l-3.4,3.7l-0.5,3.4l-1.3,0.3l-4.9,5.4l-2.6,4.2l-1.3,3.9l1.5,3.3l-1.2-0.2l-1.2,1.4l1.3,2.2l-1.5,1
+		l1.1,2.2l-1.3-0.5l-4,3.7l-6.4,11.9l-5.9,14.6l0.3,3.9l1.8,2.4l-0.2,1.2l-0.9,0.8l-1.4-1.7l-1.4,0.6l-2.4,3.7l0.5,10.7l0,0
+		l-1.8-0.3l-4.1,2.5l-4.2-1.4l-4.4,1.2l-7.5-3l-1.4-0.9l0.2-1.2l0,0l0.9-0.4l1-3l3.1-1.8v-2.3l2.6-4l1.6,0.7l1.4-1.8l-0.8-2.2
+		l2.1-2.6l-1-2l1.1-1.3l1,0.2l1.5-2.6l2.5-1.2l-0.5-5l1.8-1.3l1.5,0.1l0.4-2l1.7-1.7l-1.1-3.4l0.7-2.2l2.7-1.5l1.5,1l2.5-0.3
+		l1.6-4.5l3.1-2.4l0.3-4.2l1.6-2.4l-2.9-0.7l-0.8-2.4l-1.4-0.3l-0.6-4.8l0.9-0.8l-0.1-2.6l-3.7-1.5l-0.2-3.5l2.5-5.4l-3.7-0.2
+		l-1.6,1.3l-1.2-0.2l1.5-3.9l-1.6-3.2l0.9-2.6l-1.6-0.9l-1.8-3.8l0.9-4.4l-1.4-1.3l-0.1-1.6l-1.6-0.7l0.3-1.5l1.3-0.7l-0.3-4.1
+		L141.2,551.2L141.2,551.2z"/>
+	
+		<linearGradient id="TH-80_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="217.949" x2="548.98" y2="217.949" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-80" inkscape:connector-curvature="0" class="st64" d="M164.4,774l1.1-0.1l0.5,1.3l1.8-0.4l0.9,3.5l2.3,3l-0.4,4.7
+		l2.3,2.9l0.4,12.8l3,20.2l0.9,1.4l2.4,0.6l5.4,11.4l3.3,1.7l2.4,0.1l-1.6-3.4l1.1-2.7l-0.4-1.5l-3-1.3l3.6,1.1l2.6,3.2l4.8,14.1
+		l3.9,21.4l0,0l-1.7-0.3l-0.3,1.5l-4.1-0.2l-1.1,1.3l-5.9,1.8l0,0l-6.5,2.2l-4.1-1.6l-1.9-1.9l-2.6,0.5l-2.3-0.8l-5.5,0.2l-1.6,2.3
+		l-3.1,0.1l0,0l0.5-3.5L161,867l1.6-1.1l-1.9-2.5l-1.7,0.5l-3.1-1.6l-1.8,0.2l-1.9,1.7l-0.4,1.8l-3.4,2.7l-0.5,2.4l-1.6,0.5
+		l-2.3-0.4l-0.6-1.6l-3.1,1.9l-0.3-5.3l-1.6-0.2l0,0l0.1-1.9l1.2-1.2l-2.1-7.3l-2.6-1.8l-3.4,0.2L131,853l2.1-3.4l-0.5-2.2l1.6-2.4
+		l-0.4-1.5l-2.6-1.5l0,0l-1.1-2.6l-2.3-1l-0.4-1.3l1.7-4.2l2.4-1.7l-0.4-0.9l0.9,0.5l1.9-1.3l0.5-1.5l1.5,1.3l3.3-2l-0.3-1.7
+		l3.3-3.2l-0.5-2l1-1.2l1.1,0.2l0.9-3.3l2.1-1.6l0.5-2.7l-0.9-5.1l2.8-1l-0.2-1.7l1.3-2.4l2-1.1l1.6,1.1l1.3-1.2l3.3-0.4l-0.1-2.6
+		l2.1-0.4l1.4-5.6l-0.1-5.3l-1.4-1l1.9-4.3l-0.4-4.9l1.4-2l0,0L164.4,774L164.4,774z"/>
+	
+		<linearGradient id="TH-81_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="183.4547" x2="548.98" y2="183.4547" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-81" inkscape:connector-curvature="0" class="st65" d="M114.1,886.8l2.9,3.8l-0.3,2.4l2.3,4.7l-0.9,1.6l-4.3-6.8
+		l-0.6-5.2L114.1,886.8L114.1,886.8z M116.1,884.3l2.8,0.1l0.8,0.9l0.7,1.7l-0.8,4.1l-0.7-1l-1.4,0.5l-1.2-1l-2-3l0-2.1L116.1,884.3
+		L116.1,884.3z M114.8,873.2l3.2,0.9l0.3,1.5l1.6,0.1l0.4,2.2l-2.4,6.3l-3.5-0.8l-1.2-3.3l0.5-3.2l-0.9-2.1l1.7-0.4
+		C114.5,874.5,114.8,873.2,114.8,873.2z M108.5,872.9l1.4,0.6l0.8,4.5l-3.5-3.8L108.5,872.9z M112.3,871l2,1.6l-1.5,1.7l-1.1-2
+		L112.3,871z M116.4,869l0.6,0.8l-1.4,1.8L116.4,869z M110.5,868.1l1.1,2l-0.6,3.3l-1.6-4.9L110.5,868.1L110.5,868.1z M91.5,820.4
+		l1.3,0.2l1.7-3l3.2,2.3l0.3-1l2.9,0l6.2,6.3l0.8,9.3l6.5,4.2l5.3-0.3l9.5,4.4l1.9-0.8l0,0l2.6,1.5l0.4,1.5l-1.6,2.4l0.5,2.2
+		L131,853l0.5,1.3l3.4-0.2l2.6,1.8l2.1,7.3l-1.2,1.2l-0.1,1.9l0,0l-0.5,0.5l0,0l-0.9,0.4l0,0l-4.3,2l-0.6,1.3l0.9,0.7l-2.6,2.2
+		l1.1,1.9l-0.4,1l1,0.1l-1,2.4l1.2,1.2l0.2,3l-3.4,3.3l0,0l-5.4-2.9l-0.6-1.7l-2.1-1.5l-0.6-4.5l-1.8-0.1l0-1.6l-2.6-0.8l2.1-5.5
+		l-1.7,0.9l2.1-1.9l-0.1-1.1l-4.9,5.3l-2-3.5l-1.8,0.6l-2-3.7l1-0.8l-2.6-2.5l0.1-1l-2.6-0.4l1.5,1.2l-1.5,1.3l-1.4-0.5l-1.1,1.8
+		l-2.8-3l-2,0.3l-0.5,1.2l-1.8-3.5l1.4-3.7l-0.4-1.4l-1.1,1l1.3-4.5l-1.7-2.8l0.3-1.8l-0.6-0.6l-0.6,4l-0.6-6.4l-3.9,2.9l-0.5-1.3
+		l-1.1,0.4l0.6-5.7l2.2-0.9l-1.4-1.8l1.1-1.1l0,0l0-2.2l-1.1-1.5l3.9-7.8L91.5,820.4L91.5,820.4z"/>
+	
+		<linearGradient id="TH-82_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="220.514" x2="548.98" y2="220.514" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-82" inkscape:connector-curvature="0" class="st66" d="M80.7,856.4l2.2,1.6l1.6-0.3l-0.4,1.2l1.2,1.3l-0.7,1.7l1,3.7
+		l-1.2,5.1l-0.9-1.9l-0.2,1.7l-1.1-4.6l0.1-2.1l1,0.3l0.5-1.8l-2.5-1.6l-1.4-2.3l-0.4-1.2L80.7,856.4z M87,850.6l-1.6,7.2l-0.4-1.3
+		l-1.3,0.1l-1.6-1.5l1.7,0.1l0.9-2.5L87,850.6z M62.3,794.6l3.7,2.1l-3.8,8l-1.3-3.3l1-2.7l-1.1-3.6L62.3,794.6L62.3,794.6z
+		 M63.7,784.1l3,6.2l-2,2.5l-3.5,0.7l-0.2-6.6l0.8-2.6L63.7,784.1L63.7,784.1z M66.3,784.8l0.2,2.2l-1.4-1.8l0.1-1.8L66.3,784.8z
+		 M65.3,778l-1.7,3.3l0.5,0.9l-2.1,1.7l0-2.4l2.8-3.9L65.3,778z M70.6,772l1.6,0.5l2.1-0.8l1.5,1.5l-0.9,0.9l3.4,0.5l0,0l1.4,0.8
+		l0.2,2.8l-2.3,3.6l0.4,3.2l-1.4,0.4l-0.1,1.6l0.9,2.9l-1.4,1.2l1,3.2l1.5,1.4l-4,2l-0.4,4.8l4.1,1l0.6,1.4l1.5,0.2l1.3,3l2.9,1.2
+		l-0.3,5.8l-3.8,3.5l4.5,2.3l3-2.2l1.7-0.1l2,2l0,0l0.2,2.4l-3.9,7.8l1.1,1.5l0,2.2l0,0l-1.4,0.9l0.9,2l-2.3,0.2l-0.8-1.8l-1.2,3.2
+		l-5,2.4l-0.7-1.1l-0.8,1.6l-4.3,0.5l1.9,1.3l0.5,5l-1.6,1.9l-0.8,3.6l-1.4-1.7l-1.7,2.4l-1.8-4.2l-1.6,0.5l-0.6-1.6l-3,0l-1.8-11.2
+		L58,825.8l0.6-0.8l1.7,1.5l1.2,2.6l0.1-2.5l-2.4-2l1.1-1.5l-0.7-2l1.1-2.1l-0.8-4.6l-1.3-1l1.5,0l1.6-1.8l-0.6-3.2l0.8-3.4l3.9-7.6
+		l0.7-0.5l1.8,1.3l1.5,2.2l-1.7-3.8l1.5-0.7l-1.4-0.5l2.6-2.3l-3.4,2.2l-2-2.1l1.9-2.4l2.6,1l-0.6-1.2l0.8-0.7l-1.3,0.2l0.2-1.5
+		l-1.4,0.4l-0.6-3.7l-1.8-3l0.9-1.9l0.9,2.8l0.2-2.7l2.2,1.9l-0.9-2.3l-1.5-1L69,777l-0.5-0.7l1.2-0.6L70.6,772L70.6,772z"/>
+	
+		<linearGradient id="TH-83_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="177.2093" x2="548.98" y2="177.2093" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-83" inkscape:connector-curvature="0" class="st67" d="M63.9,849.7l3,1.9l1.1,4.1l1.3-0.5l0.9,2.2l1.3,0.4l1.9-1.3
+		l0.7,1.9l-2.2,3l1.1,2.6l-2.2,0.6l1.7,5.5l1.5-1.1l0.2,2.1l-0.9,0.4l0.4,0.8L71,872l-0.4,1.4l1.2,0.9l0.1,2.4l-1.1-0.9l-0.4,0.6
+		l-0.7-2.2l-0.8-0.1l-1.4,1.1l-0.4,2.9l-1.9,1.5l-1.8-2.1l1-1.2l-0.6-3.4l-2-2l1.9,0l0.5-1.5l-2.5-1.8l1.7-1.5l-0.8-2.1l1,0.2
+		l0.5-0.9l-1.4-4.9l2.1-2.5l-1.2-6L63.9,849.7L63.9,849.7z"/>
+	
+		<linearGradient id="TH-84_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="261.0266" x2="548.98" y2="261.0266" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-84" inkscape:connector-curvature="0" class="st68" d="M183.7,755.5l1.4,1.3l-2.3,3.8l1.2,2.9l-1.6,0.1l-2.7,3.3
+		l-3.1,0.7l-0.9-0.9l-1.5,0.3l0.4-2.7l-1.1-2.4l1-0.4l0.1-2.7l-1.5-2.3l4.7-1.1l4.8,2.1L183.7,755.5z M93.9,754.7l1.8-1.8l0.2-4
+		l5.2-1.2l1.8-1.8l2.2-0.3l6.2,2.2l0.6-0.5l4.7,4l1.4-0.8l-1.6-1.7l0.4-1.1l2.6,0.7l2.8-0.7l0,0l0.8,3.3l2.6,3.6l2.2,8l4.4,6
+		l-1.1-0.4l-1.9,2.8l-3,1.7l0.3,5.4l1.2,1.5l1.8,1.1l2.9-1.6l2,2.3l1.6-0.5l0.5,1.7l2.9-1.1l3.6,0.5l1.7-1l2.5-4.8l5.1,1.2l2.7-2.5
+		l2.4-0.6l-0.1-1.6l2.9,1.7l3.1-0.7l0,0l-1.4,2l0.4,4.9l-1.9,4.3l1.4,1l0.1,5.3l-1.4,5.6l-2.1,0.4l0.1,2.6l-3.3,0.4l-1.3,1.2
+		l-1.6-1.1l-2,1.1l-1.3,2.4l0.2,1.7l-2.8,1l0.9,5.1l-0.5,2.7l-2.1,1.6l-0.9,3.3l-1.1-0.2l-1,1.2l0.5,2l-3.3,3.2l0.3,1.7l-3.3,2
+		l-1.5-1.3l-0.5,1.5l-1.9,1.3l-0.9-0.5l0.4,0.9l-2.4,1.7l-1.7,4.2l0.4,1.3l2.3,1l1.1,2.6l0,0l-1.9,0.8l-9.5-4.4l-5.3,0.3l-6.5-4.2
+		l-0.8-9.3l-6.2-6.3l-2.9,0l-0.3,1l-3.2-2.3l-1.7,3l-1.3-0.2l0,0l-2-2l-1.7,0.1l-3,2.2l-4.5-2.3l3.8-3.5l0.3-5.8l-2.9-1.2l-1.3-3
+		l-1.5-0.2l-0.6-1.4l-4.1-1l0.4-4.8l4-2l-1.5-1.4l-1-3.2l1.4-1.2l-0.9-2.9l0.1-1.6L78,785l-0.4-3.2l2.3-3.6l-0.2-2.8l-1.4-0.8l0,0
+		l2.7-3.5l2.7-0.5l1.7,1.8l3.7-0.9l0.4-2.3l-1.6,0l-0.1-2.7l1.6,0.1L90,766l-0.8-2.1l1.7-0.2l5-5.1l-0.6-2l-1.4-0.6L93.9,754.7
+		L93.9,754.7z M183.9,748.1l-0.9,1.4l-6-3.3l-1.2-3.9l0.6-1.5l5.9,0.8l1.6,1.8L183.9,748.1z M168,719l1.2,2.5l-1.9,2.2l-0.8-0.9
+		l0.8-1.5l-0.5-1.5L168,719L168,719z"/>
+	
+		<linearGradient id="TH-85_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="317.5662" x2="548.98" y2="317.5662" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-85" inkscape:connector-curvature="0" class="st69" d="M72.1,743.2l0.9,2.5l-2.6,2.1l0.4-1l-1.1-0.9L72.1,743.2z
+		 M74.9,736.9l1,0.4l-1.3,4.5l-1.4-2.1l0.8-1l-0.4-1.5l0.9-1.1L74.9,736.9L74.9,736.9z M103.5,674.1l0.6,0.8l0,0l1.7,1.8l-1.3,4.5
+		l0.8-0.6l1.6,1.2l-0.1,1.6l1.5,0.8l-0.4,1.7l0.9-0.3l0.4,0.8l-1.6,2.4l1.4,2l-3,2.2l-2.3,3.4l1.1,4l1.9,0.3l1,3l-2.9,4.3l0.6,1.6
+		l-2.6,5.3l1.2,1.8l-1.3,0.4l-0.4,4l-1.9,2.1l3.9,0.1l0.8,2.5l-2.6,2.3l-1.5,0l-2,3.9l-2.3-1l-1.7,1.1l-2.3,2.7l-0.1,2l-5.9,5.2
+		l-0.4,1.7l1.3,4.9l0.9,0.5l-0.8,1.5l5,2.3l1.1,1.8l0,0l0,1.3l1.4,0.6l0.6,2l-5,5.1l-1.7,0.2L90,766l-0.6,0.7l-1.6-0.1l0.1,2.7
+		l1.6,0l-0.4,2.3l-3.7,0.9l-1.7-1.8l-2.7,0.5l-2.7,3.5l0,0l-3.4-0.5l0.9-0.9l-1.5-1.5l-2.1,0.8l-1.6-0.5l0,0l0.3-3.8l1.5-0.3
+		l2.5-10.6l0.9-0.2l-0.6,0.7l1,2l0.8-0.6l1.1,1.5l-0.3-2.7l2.4-1.1l-1.8-1.8l-2.9-0.6l-0.1-1.7l1-0.4l1.7,1.8l0.3-0.5l-0.6-1.2
+		l0.9-1.6l-1,0.4l-0.9-2.3l1.7,0.9l1.3-0.7l1.8-3.1l0-1.3l-3.7,0.6l0.8-1l-0.4-1.9l2.1,0l2.6-3.1l-0.2-0.6l-2.5,2.5l-1.4-3.6
+		l1.2-0.3l-0.3-1.1l0.9-0.9l0.9,0.7l0.9-3.1l1.1-0.6l1.2-4.5l4.9-8.4l5.1-13.7l0.2-4.7l3.9-5.2l-0.6-1l1.2-2.9l-1.3-5.3l-1.9-1.1
+		l0.6-4L103.5,674.1L103.5,674.1z"/>
+	
+		<linearGradient id="TH-86_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="335.8978" x2="548.98" y2="335.8978" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-86" inkscape:connector-curvature="0" class="st70" d="M121.7,657.3l-0.2,1.2l1.4,0.9l7.5,3l4.4-1.2l4.2,1.4l4.1-2.5
+		l1.8,0.3l0,0l-0.4,3.4l1.9,2.7l-0.7,1.8l-0.8,0.8l-1.1-1.8l-0.9,1.1l-1.8,0l-1.9,7.4l-3.6,4.9l0.7,1.1l-0.7,0.7l-0.6-1.2l-1.9,0.7
+		l-2.7,4.7l-0.5,4.1l-2.4,0.5l0.3,1.8l1.7-0.4l-0.6,1.1l-1.8,0.3l-0.3,1.5l3.7,4.2l0,3.3l-0.8,0.6l-1.2-0.7l-1,1.3l-3.1-1.9
+		l-3.1,1.9l0.8,3.7l2.3,1.7l0.8-0.4l-0.2,1.5l1.2,1.6l1.7-0.4l-2.3,1.6l-1.3-0.3l-3.1,6.2l0.3,3.6l2,2.2l-0.4,2l-1.1-0.2l-0.6,1.3
+		l1,9.1l-1.9,2.6l1.4,7.9l0,0l-2.8,0.7l-2.6-0.7l-0.4,1.1l1.6,1.7l-1.4,0.8l-4.7-4l-0.6,0.5l-6.2-2.2l-2.2,0.3l-1.8,1.8l-5.2,1.2
+		l-0.2,4l-1.8,1.8l0,0l-1.1-1.8l-5-2.3l0.8-1.5l-0.9-0.5l-1.3-4.9l0.4-1.7l5.9-5.2l0.1-2l2.3-2.7l1.7-1.1l2.3,1l2-3.9l1.5,0l2.6-2.3
+		l-0.8-2.5l-3.9-0.1l1.9-2.1l0.4-4l1.3-0.4l-1.2-1.8l2.6-5.3l-0.6-1.6l2.9-4.3l-1-3l-1.9-0.3l-1.1-4l2.3-3.4l3-2.2l-1.4-2l1.6-2.4
+		l-0.4-0.8l-0.9,0.3l0.4-1.7l-1.5-0.8l0.1-1.6l-1.6-1.2l-0.8,0.6l1.3-4.5l-1.7-1.8l0,0l1.1-0.5l1.2-3.1l2.4,1l3.5-3l-0.8-4.6
+		l1.6-3.2l2.3,1.6l1.5-0.5l1.6-4L121.7,657.3L121.7,657.3z"/>
+	
+		<linearGradient id="TH-90_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="118.7472" x2="548.98" y2="118.7472" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-90" inkscape:connector-curvature="0" class="st71" d="M204.4,910.2l0,0.1l0,0l0.5,1.8l3.4,1.8l-1.1,0.5l0,0l-1.4,0.5
+		l-0.7,2l1.6,0.2l0.5,2.7l2.1,0.1l0.2,1l0.9-0.8l1.4,1.5l4.2-0.6l2.9-2.4l-0.9-3.5l13.2,17.2l3.6,1.7l1.3-0.7l4.1,3.7l5.7,3.2
+		l4.6,0.2l0,0l-1.3,1.2l2.1,0.8l-3,3.3l0.2,2.4l-0.9,1.2l2.5,0.6l0.2,3.1l3.3,2.9l0,0l-1.3,1l1.6,1.8l-2.8,2.8l-1.9,0.3l-1.2,2.8
+		l-1.6,1.1l-1.6-0.3l-1.1,2.3l-2.2,1l-0.7,2.6l0.8,5.2l-5.4,2.2l-0.4-1.2l0,0l0.3-3.2l-1.7-0.2l0.1-5l-3.1-2.2l-1.7,0.3l-0.8-3.3
+		l-2.1,2.5l-3.7,1.8l-6.2-3.5l-0.9,0.7l-2.4-0.7l-1.4-2.1l-2.2-0.4l-2.3,1.1l-4-1.7l-0.8-2.2l-2.6-2.1l0.7-4l-1.8-1.1l-0.2-2l-1.1,0
+		l-0.4,1.1l-2.5-0.2l-2.1-2.1l0,0l0.6-2.3l-1.6-3.2l2-4.3l-2.4-2.7l-4.2-0.8l-2.9-3.5l0.2-1.5l-1.4-1.5l1.1-1.4l-1-1.1l-0.5-3.4l0,0
+		l0.4-2l3.3-1.9l3,1.1l1.2-1.8l8.8-2.3l4.9-7.1l0,0l0,0.1l0,0L204.4,910.2L204.4,910.2L204.4,910.2L204.4,910.2z M188.7,872l5.9-1.8
+		l1.1-1.3l4.1,0.2l0.3-1.5l1.7,0.3l0,0l8.4,34.1l3.4,8l4.7,7.7l-2.2,0.1l-4.8-4.1l-2.4,0.3l0,0l-1.9-1.2l1.3-0.9l-0.1-1.8l-0.4-3.5
+		l-1.4-1.3l0.4-6.3l-1.3-6.1l-4.8-1l-2,4.9l-1.3-1l-0.5-2.5l1.7-2.6l0,0l1.5,0.4l0,0l0.7-3.1l-1-7.8l0,0l-1.7-3.4l-1,0.2l0,0
+		l-1.1,1.1l-3.3,0.3l0,0l-1.9-1.8l-3.1,0.3L188.7,872L188.7,872z"/>
+	
+		<linearGradient id="TH-91_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="95.2739" x2="548.98" y2="95.2739" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-91" inkscape:connector-curvature="0" class="st72" d="M130.2,959.2l3.3,1.7l-0.8,2.9l-2,0.1L130.2,959.2z
+		 M128.2,958.9l0.7,1.8l-2.5,1.2l-2.6-0.6l0.9-1.9L128.2,958.9z M156.1,949.7l1.6,2.3l-0.4,4l1.4,5.3l-0.4,1.3l-1.1-0.8l-0.2,1.9
+		l-1.1,0.6l-4.1-6.6l1.1-1l0.1-3l1.8-1.3l0.1-4L156.1,949.7L156.1,949.7z M163.2,922.3L163.2,922.3l1.4-0.1l5,3.9l2.6-1.9l4.4-0.1
+		l2.2-1l0,0l2,1.6l0.7-1.3l1.2,0.1l0,0l0.5,3.4l1,1.1l-1.1,1.4l1.4,1.5l-0.2,1.5l2.9,3.5l4.2,0.8l2.4,2.7l-2,4.3l1.6,3.2l-0.6,2.3
+		l0,0l-2.2,2.2l0.6,2.7l-1,2.1l1.2,3.1h-1.9l0.5,5.3l-2.6,6.3l-1.5-6.2l-1.1,0.1l0.8-3.8l-1.3-0.4l-1,2.8l-2.9-2l-2.3-4.3l-2.5,1.6
+		l-0.1-2.2l1.7-0.8l-1.5-3.3l-1.1,1.5l-0.8-2.2l-1.1-0.1l0.7-2.6l-0.7-0.8l-0.2,1.3l-1.7,0l-2.6-4.7l-0.4,1l-1.9-0.1l-1.8-4.1
+		l-1.7,0.4l-2.1-2l-1.7,0.4l-1.3-2.9l0.7-0.5l-0.4-2.7l1.6-0.7l-0.4-1l-1.2,0.7l-0.8-2.9l1-0.8l-1-1.7l1.8-2.5l0.4,0.7l2.4-4.3
+		L163.2,922.3L163.2,922.3z"/>
+	
+		<linearGradient id="TH-92_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="147.6583" x2="548.98" y2="147.6583" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-92" inkscape:connector-curvature="0" class="st73" d="M149.8,923l3.3,2.3l-3.4-0.8l-0.8-2.2L149.8,923L149.8,923z
+		 M138.4,912.7l3.5,0.8l-2.6,0.8l-2,2.5l-1.3-1.2l0.2-2.8l1.1-1L138.4,912.7L138.4,912.7z M138.3,866.2l1.6,0.2l0.3,5.3l3.1-1.9
+		l0.6,1.6l2.3,0.4l1.6-0.5l0.5-2.4l3.4-2.7l0.4-1.8l1.9-1.7l1.8-0.2l3.1,1.6l1.7-0.5l1.9,2.5L161,867l0.7,2.4l-0.5,3.5l0,0l2.3,4.5
+		l-0.3,1.3l1.1,0.6l0.3,4l2,1.4l-0.3,2l-1.9,0.3l1.6,1.5l-0.7,2.5l2.5,2.5l-1,2.3l2.1,1.8l-0.1,1.4l3.5,5.1l0.2,4l2.3,0.8l0.5,3.5
+		l-0.9,1.7l4.4,8.6l0,0l-2.2,1l-4.4,0.1l-2.6,1.9l-5-3.9l-1.4,0.1l0,0l-4.3-0.5l-2.4,1.3l-0.6-4.1l-3.5,2.6l-1.5-0.7l-4.3-7.4
+		l0.8-1.7l1.8-0.4l1.7-4.5l0.9,0.5l-1.1-1.9l-1.4,3.7l-2.2,1.6l-1.4-0.7l0.3-8.3l-2,3.6l0,5.8l-1,0.6l-5-1.6l-3.8-4.8l0.7-1.6
+		l-1.4-6.2l-1.1-0.9l-1,0.7l-0.8-1.2l1.4-0.2l0.4-1.5l-2.2-4l-0.1-1.9l-1,0.8l-0.6-0.8l0.4-2.1l0,0l3.4-3.3l-0.2-3l-1.2-1.2l1-2.4
+		l-1-0.1l0.4-1l-1.1-1.9l2.6-2.2l-0.9-0.7l0.6-1.3l4.3-2l0,0l0.9-0.4l0,0L138.3,866.2L138.3,866.2z"/>
+	
+		<linearGradient id="TH-93_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="144.3134" x2="548.98" y2="144.3134" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-93" inkscape:connector-curvature="0" class="st74" d="M204.8,903.5l0.5,0l0,0l0.3,4.7l2.1,1.7l-0.1,1.5l-1.5,0.8
+		l-0.9-0.5l-0.3-3.2l-2.1-1.6l2-3.4l0,0L204.8,903.5L204.8,903.5z M201.5,901.9l0.1-3.8l3.1-1.2l-2.1,1.8l1.3,2.6l-0.5,2.1l-1,0.5
+		l0.2,3l-1.7-0.2l-0.2-0.9l0.6-3.4l1.2-0.4L201.5,901.9L201.5,901.9L201.5,901.9L201.5,901.9z M161.2,873l3.1-0.1l1.6-2.3l5.5-0.2
+		l2.3,0.8l2.6-0.5l1.9,1.9l4.1,1.6l6.5-2.2l0,0l-1.1,4.7l3.1-0.3l1.9,1.8l0,0l-3.7,3.3l2,14.1l1.9,1.9l1.5-0.5l-0.1,2l2.1,5.3
+		l2.9,2.5l0,1l1.7-1l2,0.6l1.4,1.9l0,0l0.1,0.2l0,0l-4.9,7.1l-8.8,2.3l-1.2,1.8l-3-1.1l-3.3,1.9l-0.4,2l0,0l-1.2-0.1l-0.7,1.3
+		l-2-1.6l0,0l-4.4-8.6l0.9-1.7l-0.5-3.5l-2.3-0.8l-0.2-4l-3.5-5.1l0.1-1.4l-2.1-1.8l1-2.3l-2.5-2.5l0.7-2.5l-1.6-1.5l1.9-0.3l0.3-2
+		l-2-1.4l-0.3-4l-1.1-0.6l0.3-1.3L161.2,873z"/>
+	
+		<linearGradient id="TH-94_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="94.3192" x2="548.98" y2="94.3192" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-94" inkscape:connector-curvature="0" class="st75" d="M265.5,934l5.2,3.3l11.1,2.5l2.1,1.3l11.3,18.2l0,0l-3.7,0.2
+		l-1-3.4l-1.4,0.2l-0.3-1l-0.2,0.8l-1-0.6l-2.4,1l1,3.5l0,0l-1.9,1.1l-2-0.4l-2.1-3.3l-3.1,0.5l-0.5,1.4l-1.6-1.2l-5.8,2.8l-2.3-0.9
+		l-1-7.8l-5.1,5.9l-5.5-0.9l-1.7-1.3l0,0l-3.3-2.8l-0.2-3.1l-2.5-0.6l0.9-1.2l-0.2-2.4l3-3.3l-2.1-0.8l1.3-1.2l0,0l8.3-0.6l4.8-2.5
+		l2.1,1.7l1.4-0.6l1.6,0.8l1-1l-1.8-2.3l-1.3-0.3l-1.2-1.4l-2.9,0.9L265.5,934z"/>
+	
+		<linearGradient id="TH-95_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="53.8642" x2="548.98" y2="53.8642" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-95" inkscape:connector-curvature="0" class="st76" d="M253.6,955.8l1.7,1.3l5.5,0.9l5.1-5.9l1,7.8l2.3,0.9l5.8-2.8
+		l1.6,1.2l0.5-1.4l3.1-0.5l2.1,3.3l2,0.4l1.9-1.1l0,0l1.1,1.5l-5.1,5l1.1,1.5l-5.8-1.4l0.4,2.7l-3,0.2l-0.5,3.3l-2,2.4l1,6.6
+		l-2.2,2.1l1.1,2.8l3.2,2.5l0.8,3.2l1.9,1.1l-0.1,5.2l1.6,2.7l-0.5,3.2l0.7,0.6l0,0l-2,1.2l-5.2,0l-1.7,2.6l-3.6,1.8l-1.9-0.9
+		l-0.9,0.6l-1.7,3.5l0.5,3.2l-8.3,6.7l-1.4-4.2l-3.3-4.3l-2.3-0.4l-3-4l2-1.9l-0.6-1l1.3-4.2l4.1,0.1l2.8-4.5l-1.4-1.4l0.5-2.4
+		l-0.7-1.3l2-3.2l-4.9-2.7l1.8-2.4l2.7-1.1l-1.4-2.9l0.4-0.7l-1.2-0.8l-5,0.5l-2.8-2.4l-2.5,2.7l-2.4,0.3l-1.7-1.1L237,982l-1.7-3.2
+		l0.5-1.3l0,0l0.4,1.2l5.4-2.2l-0.8-5.2l0.7-2.6l2.2-1l1.1-2.4l1.6,0.3l1.6-1.1l1.2-2.8l1.9-0.3l2.8-2.8l-1.6-1.8L253.6,955.8z"/>
+	
+		<linearGradient id="TH-96_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="56.4635" x2="548.98" y2="56.4635" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-96" inkscape:connector-curvature="0" class="st77" d="M286.3,960.1l-1-3.5l2.4-1l1,0.6l0.2-0.8l0.3,1l1.4-0.2l1,3.4
+		l3.7-0.2l0,0l6.3,8.5l3.8,1.8l5.2,5.8l9,6.2l-0.6,3.3l1,3.5l-2.6,4.5l-4.2,2.7l-3,3.6l-1.6,4.7l1.5,3.1l-1.8,1.9l-2.2,0.4l-0.2,1.7
+		l-3.4,1.6l-0.5,3.3l-2.2-1.1l-2.2-2.9l-2.7,0.8l-1,1.9l-2.6-3.7l-0.1-3.8l-1.8-0.5l-3.6-3.7l-5.5,2.8l0,0l-0.7-0.6l0.5-3.2
+		l-1.6-2.7l0.1-5.2l-1.9-1.1l-0.8-3.2l-3.2-2.5l-1.1-2.8l2.2-2.1l-1-6.6l2-2.4l0.5-3.3l3-0.2l-0.4-2.7l5.8,1.4l-1.1-1.5l5.1-5
+		L286.3,960.1z"/>
+	
+		<linearGradient id="TH-LKSG_1_" gradientUnits="userSpaceOnUse" x1="-10.23" y1="146.366" x2="548.98" y2="146.366" gradientTransform="matrix(1 0 0 -1 10 1041.89)">
+		<stop  offset="0" style="stop-color:#ECEBEC"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path id="TH-LKSG" inkscape:connector-curvature="0" class="st78" d="M192.6,878.2l3.3-0.3l1.1-1.1l0,0l0.9-0.2l1.8,3.5l0,0l1,7.8
+		l-0.7,3.1l0,0l-1.5-0.4l0,0l-1.7,2.6l0.5,2.5l1.3,1l2-4.9l4.8,1l1.3,6.1l-0.4,6.3l1.4,1.3l0.4,3.5l0.1,1.8l-1.3,0.9l1.9,1.2l0,0
+		l-1.4,0.7l0,0l1.1-0.5l-3.4-1.8l-0.5-1.8l0,0l0-0.2l0,0l0-0.5l0,0l-0.1-0.3l0,0l-1.4-1.9l-2-0.6l-1.7,1l0-1l-2.9-2.5l-2.1-5.3
+		l0.1-2l-1.5,0.5l-1.9-1.9l-2-14.1L192.6,878.2L192.6,878.2z M201.6,898l-0.1,3.8l0.8,0.2l-1.2,0.4l-0.4,4.2l1.7,0.2l-0.2-3l1-0.5
+		l0.5-2.1l-1.3-2.6l2.1-1.8l-1.1,0.8L201.6,898L201.6,898z M204.7,903.5L204.7,903.5l-2,3.4l2.1,1.6l0.3,3.2l0.9,0.5l1.5-0.8
+		l0.1-1.5l-2.1-1.7l-0.3-4.7L204.7,903.5L204.7,903.5z"/>
+</g>
+<g id="W4A" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481">
+		<g id="g5483">
+			<path id="path5485" inkscape:connector-curvature="0" d="M249.5,0C151,0,71,80.1,71,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C292.8,367.8,428,271.1,428,178.5
+				C428,80.1,347.9,0,249.5,0z M249.5,313.9c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C389.4,251.1,326.6,313.9,249.5,313.9z"/>
+		</g>
+	</g>
+</g>
+<g id="Y1C_1_" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_20_">
+		<g id="g5483_20_">
+			<path id="path5485_20_" inkscape:connector-curvature="0" d="M351.7,4277.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C530.2,4357.6,450.1,4277.5,351.7,4277.5z M351.7,4591.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C491.6,4528.6,428.8,4591.4,351.7,4591.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Y16_1_" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_19_">
+		<g id="g5483_19_">
+			<path id="path5485_19_" inkscape:connector-curvature="0" d="M993.3,3839.2c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1171.8,3919.3,1091.8,3839.2,993.3,3839.2z M993.3,4153.1c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1133.3,4090.3,1070.5,4153.1,993.3,4153.1z"/>
+		</g>
+	</g>
+</g>
+<g id="W1C" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_16_">
+		<g id="g5483_16_">
+			<path id="path5485_16_" inkscape:connector-curvature="0" d="M1708,3927.4c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1886.5,4007.5,1806.4,3927.4,1708,3927.4z M1708,4241.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1847.9,4178.6,1785.1,4241.4,1708,4241.4z"/>
+		</g>
+	</g>
+</g>
+<g id="P7A" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_18_">
+		<g id="g5483_18_">
+			<path id="path5485_18_" inkscape:connector-curvature="0" d="M-107.1,3057.6c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C71.4,3137.7-8.7,3057.6-107.1,3057.6z M-107.1,3371.5c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C32.8,3308.7-30,3371.5-107.1,3371.5z"/>
+		</g>
+	</g>
+</g>
+<g id="P17" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_17_">
+		<g id="g5483_17_">
+			<path id="path5485_17_" inkscape:connector-curvature="0" d="M371.1,1344.3c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C549.6,1424.4,469.6,1344.3,371.1,1344.3z M371.1,1658.2c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C511.1,1595.4,448.3,1658.2,371.1,1658.2z"/>
+		</g>
+	</g>
+</g>
+<g id="P1" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_3_">
+		<g id="g5483_3_">
+			<path id="path5485_3_" inkscape:connector-curvature="0" d="M1684.3,1689.3c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1862.8,1769.4,1782.7,1689.3,1684.3,1689.3z M1684.3,2003.2c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1824.2,1940.4,1761.4,2003.2,1684.3,2003.2z"/>
+		</g>
+	</g>
+</g>
+<g id="N8A" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_11_">
+		<g id="g5483_11_">
+			<path id="path5485_11_" inkscape:connector-curvature="0" d="M116,1757.1c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C294.5,1837.2,214.4,1757.1,116,1757.1z M116,2071c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C256,2008.2,193.2,2071,116,2071z"/>
+		</g>
+	</g>
+</g>
+<g id="N7A" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_10_">
+		<g id="g5483_10_">
+			<path id="path5485_10_" inkscape:connector-curvature="0" d="M1555.5,2247.4c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1734,2327.5,1654,2247.4,1555.5,2247.4z M1555.5,2561.3c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1695.5,2498.5,1632.7,2561.3,1555.5,2561.3z"/>
+		</g>
+	</g>
+</g>
+<g id="N67" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_15_">
+		<g id="g5483_15_">
+			<path id="path5485_15_" inkscape:connector-curvature="0" d="M1329.1,1238c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1507.6,1318.1,1427.5,1238,1329.1,1238z M1329.1,1552c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1469.1,1489.1,1406.2,1552,1329.1,1552z"/>
+		</g>
+	</g>
+</g>
+<g id="N60" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_14_">
+		<g id="g5483_14_">
+			<path id="path5485_14_" inkscape:connector-curvature="0" d="M-116,106.4c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C-72.6,474.2,62.5,377.5,62.5,284.9
+				C62.5,186.5-17.6,106.4-116,106.4z M-116,420.3c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C24,357.5-38.8,420.3-116,420.3z"/>
+		</g>
+	</g>
+</g>
+<g id="N5A" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_13_">
+		<g id="g5483_13_">
+			<path id="path5485_13_" inkscape:connector-curvature="0" d="M793,3473.4c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C971.5,3553.5,891.4,3473.4,793,3473.4z M793,3787.3c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C932.9,3724.5,870.1,3787.3,793,3787.3z"/>
+		</g>
+	</g>
+</g>
+<g id="N1" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_12_">
+		<g id="g5483_12_">
+			<path id="path5485_12_" inkscape:connector-curvature="0" d="M1582.9,2808.2c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1761.4,2888.3,1681.3,2808.2,1582.9,2808.2z M1582.9,3122.1c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1722.9,3059.3,1660.1,3122.1,1582.9,3122.1z"/>
+		</g>
+	</g>
+</g>
+<g id="C2" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_5_">
+		<g id="g5483_5_">
+			<path id="path5485_5_" inkscape:connector-curvature="0" d="M480.3,2703.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C658.8,2783.6,578.7,2703.5,480.3,2703.5z M480.3,3017.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C620.3,2954.6,557.5,3017.4,480.3,3017.4z"/>
+		</g>
+	</g>
+</g>
+<g id="YOM008" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_4_">
+		<g id="g5483_4_">
+			<path id="path5485_4_" inkscape:connector-curvature="0" d="M873.7,0c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1052.2,80.1,972.1,0,873.7,0z M873.7,313.9c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C1013.6,251.1,950.8,313.9,873.7,313.9z"/>
+		</g>
+	</g>
+</g>
+<g id="YOM006" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_9_">
+		<g id="g5483_9_">
+			<path id="path5485_9_" inkscape:connector-curvature="0" d="M45.4-562.7c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C223.9-482.6,143.9-562.7,45.4-562.7z M45.4-248.8c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C185.4-311.6,122.6-248.8,45.4-248.8z"/>
+		</g>
+	</g>
+</g>
+<g id="YOM004" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_8_">
+		<g id="g5483_8_">
+			<path id="path5485_8_" inkscape:connector-curvature="0" d="M607.4-487.2c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C785.9-407.1,705.8-487.2,607.4-487.2z M607.4-173.3c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C747.4-236.1,684.5-173.3,607.4-173.3z"/>
+		</g>
+	</g>
+</g>
+<g id="WAN004" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_7_">
+		<g id="g5483_7_">
+			<path id="path5485_7_" inkscape:connector-curvature="0" d="M-412.5-86.4C-511-86.4-591-6.3-591,92.1
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C-369.1,281.4-234,184.7-234,92.1
+				C-234-6.3-314.1-86.4-412.5-86.4z M-412.5,227.5c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C-272.5,164.7-335.4,227.5-412.5,227.5z"/>
+		</g>
+	</g>
+</g>
+<g id="WAN001" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_6_">
+		<g id="g5483_6_">
+			<path id="path5485_6_" inkscape:connector-curvature="0" d="M859.5,621.9C761.1,621.9,681,702,681,800.4
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1038,702,958,621.9,859.5,621.9z M859.5,935.8c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C999.5,873,936.7,935.8,859.5,935.8z"/>
+		</g>
+	</g>
+</g>
+<g id="PIN003_1_" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_2_">
+		<g id="g5483_2_">
+			<path id="path5485_2_" inkscape:connector-curvature="0" d="M-340.6,564.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C-162.1,644.6-242.2,564.5-340.6,564.5z M-340.6,878.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C-200.7,815.6-263.5,878.4-340.6,878.4z"/>
+		</g>
+	</g>
+</g>
+<g id="NAN008_1_" transform="matrix(0.07721291,0,0,0.07721291,133.83231,136.36158)" style="fill:pink; visibility:hidden">
+	<g id="g5481_1_">
+		<g id="g5483_1_">
+			<path id="path5485_1_" inkscape:connector-curvature="0" d="M1240.2,1757.1c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1418.7,1837.2,1338.6,1757.1,1240.2,1757.1z M1240.2,2071c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140
+				c77.2,0,140,62.8,140,140C1380.2,2008.2,1317.3,2071,1240.2,2071z"/>
+		</g>
+	</g>
+</g>
+<g id="NAN007" transform="matrix(0.07721291,0,0,0.07721291,193.23835,221.85049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-4">
+		<g id="g5483-9">
+			<path id="path5485-4" inkscape:connector-curvature="0" d="M15.6,132.8c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C194.1,212.9,114,132.8,15.6,132.8z M15.6,446.7c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C155.5,383.9,92.7,446.7,15.6,446.7z"/>
+		</g>
+	</g>
+</g>
+<g id="NAN004" transform="matrix(0.07721291,0,0,0.07721291,134.48835,209.35049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-0">
+		<g id="g5483-3">
+			<path id="path5485-6" inkscape:connector-curvature="0" d="M71,130.3c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C249.5,210.4,169.4,130.3,71,130.3z M71,444.2c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C210.9,381.4,148.1,444.2,71,444.2z"/>
+		</g>
+	</g>
+</g>
+<g id="NAN003" transform="matrix(0.07721291,0,0,0.07721291,151.98835,265.60049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-45">
+		<g id="g5483-8">
+			<path id="path5485-8" inkscape:connector-curvature="0" d="M372.2,249.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C415.6,617.3,550.7,520.5,550.7,428
+				C550.7,329.6,470.7,249.5,372.2,249.5z M372.2,563.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C512.2,500.6,449.4,563.4,372.2,563.4z"/>
+		</g>
+	</g>
+</g>
+<g id="CPY015" transform="matrix(0.07721291,0,0,0.07721291,173.23835,321.85049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-2">
+		<g id="g5483-1">
+			<path id="path5485-49" inkscape:connector-curvature="0" d="M592.3,183c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C635.7,550.8,770.8,454,770.8,361.5
+				C770.8,263.1,690.7,183,592.3,183z M592.3,496.9c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C732.3,434.1,669.4,496.9,592.3,496.9z"/>
+		</g>
+	</g>
+</g>
+<g id="CPY014" transform="matrix(0.07721291,0,0,0.07721291,205.73835,363.10049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-24">
+		<g id="g5483-5">
+			<path id="path5485-2" inkscape:connector-curvature="0" d="M1754.3-31.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C1932.8,48.6,1852.7-31.5,1754.3-31.5z M1754.3,282.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C1894.2,219.6,1831.4,282.4,1754.3,282.4z"/>
+		</g>
+	</g>
+</g>
+<g id="CPY011" transform="matrix(0.07721291,0,0,0.07721291,179.48835,414.35049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-9">
+		<g id="g5483-83">
+			<path id="path5485-86" inkscape:connector-curvature="0" d="M-251-239.5c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C-207.6,128.3-72.5,31.6-72.5-61
+				C-72.5-159.4-152.5-239.5-251-239.5z M-251,74.4c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C-111,11.6-173.8,74.4-251,74.4z"/>
+		</g>
+	</g>
+</g>
+<g id="CPY006" transform="matrix(0.07721291,0,0,0.07721291,206.98835,438.10049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-6">
+		<g id="g5483-6">
+			<path id="path5485-23" inkscape:connector-curvature="0" d="M381.6-499c-98.4,0-178.5,80.1-178.5,178.5
+				C203.1-228,336.7-128,375.4-4.5c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C425-131.1,560.1-227.9,560.1-320.5
+				C560.1-418.9,480.1-499,381.6-499z M381.6-185c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C521.6-247.9,458.8-185,381.6-185z"/>
+		</g>
+	</g>
+</g>
+<g id="CPY001" transform="matrix(0.07721291,0,0,0.07721291,148.23835,311.85049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-62">
+		<g id="g5483-7">
+			<path id="path5485-5" inkscape:connector-curvature="0" d="M-124.1,57.7c-98.4,0-178.5,80.1-178.5,178.5
+				c0,92.4,133.6,192.5,172.2,315.9c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6C-80.7,425.6,54.4,328.8,54.5,236.2
+				C54.4,137.8-25.6,57.7-124.1,57.7z M-124.1,371.7c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C15.9,308.8-46.9,371.7-124.1,371.7z"/>
+		</g>
+	</g>
+</g>
+<g id="CHM001" transform="matrix(0.07721291,0,0,0.07721291,161.98835,179.35049)" style="fill:pink; visibility:hidden">
+	<g id="g5481-8">
+		<g id="g5483-2">
+			<path id="path5485-7" inkscape:connector-curvature="0" d="M41.3-19c-98.4,0-178.5,80.1-178.5,178.5
+				C-137.2,252-3.6,352,35.1,475.5c0.8,2.7,3.3,4.5,6.1,4.5c2.8,0,5.3-1.9,6-4.6c37.5-126.5,172.6-223.3,172.6-315.9
+				C219.8,61.1,139.8-19,41.3-19z M41.3,294.9c-77.2,0-140-62.8-140-140c0-77.2,62.8-140,140-140c77.2,0,140,62.8,140,140
+				C181.3,232.1,118.5,294.9,41.3,294.9z"/>
+		</g>
+	</g>
+</g>
+</svg>

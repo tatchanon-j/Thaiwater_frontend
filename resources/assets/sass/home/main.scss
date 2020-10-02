@@ -1,0 +1,438 @@
+@import "variables";
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: "Kanit";
+}
+img.logo {
+    // width: 100px;
+    height: 93px;
+}
+.no-padding{
+    padding: 0;
+}
+.main-header{
+    // border-bottom-width: 10px;
+    // border-bottom-style: solid;
+    // border-bottom-color: $color-gray;
+    box-shadow: 1px 1px 0px 1px #999;
+    .sidebar-toggle:before{
+        content: " ";
+    }
+    > .navbar{
+        /*padding: 10px 15px;*/
+    }
+    > .navbar{
+        margin-left: 0;
+    }
+}
+.content-wrapper,
+.right-side,
+.main-footer{
+    margin-left: 0;
+}
+.skin-blue-light{
+    .main-header{
+        .navbar{
+            background-color: $color-blue;
+
+            .sidebar-toggle,
+            .nav>li>a {
+                color: $color-white;
+            }
+            .navbar-toggle .icon-bar{
+                background-color: white;
+            }
+            .sidebar-toggle:hover,
+            .nav .open>a,
+            .nav .open>a:hover,
+            .nav .open>a:focus,
+            .nav >li>a:active,
+            .nav >li>a:focus,
+            .nav >li>a:hover,
+            .nav >.active>a{
+                background-color: $color-white;
+                color: $color-blue;
+                border-radius: 10px;
+            }
+            .nav >li.username>a:hover{
+                color: $color-white;
+                background: rgba(0,0,0,0.1);
+                border-radius: 0;
+            }
+        }
+
+    }
+    .main-header-lightblue{
+        .navbar{
+            background-color: $color-lightblue;
+
+            .sidebar-toggle,
+            .nav>li>a {
+                color: $color-white;
+            }
+            .navbar-toggle .icon-bar{
+                background-color: white;
+            }
+            .sidebar-toggle:hover,
+            .nav .open>a,
+            .nav .open>a:hover,
+            .nav .open>a:focus,
+            .nav >li>a:active,
+            .nav >li>a:focus,
+            .nav >li>a:hover,
+            .nav >.active>a{
+                background-color: $color-white;
+                color: $color-blue;
+                border-radius: 10px;
+            }
+            .nav >li.username>a:hover{
+                color: $color-white;
+                background: rgba(0,0,0,0.1);
+                border-radius: 0;
+            }
+        }
+
+    }
+    .main-footer{
+        background-color: $color-blue;
+        color: $color-white;
+    }
+    .box-header.with-border{
+        border-bottom-color: $color-blue;
+    }
+    .box-footer{
+        &.with-border {
+            border-top-color: $color-blue;
+        }
+        &.text-right{
+            button{ margin-left: 10px; }
+        }
+    }
+}
+.content-wrapper,
+.right-side {
+    background-color: $color-white;
+}
+.breadcrumb{
+    right: 10px;
+    font-size: 16px;
+    background-color: inherit;
+    > li > a { color: #3c8dbc; }
+    > li + li:before{
+        content: "|";
+    }
+}
+.content-header {
+    .breadcrumb{
+        @extend .breadcrumb;
+    }
+
+}
+.box{
+    border-top: inherit;
+    box-shadow: none;
+}
+.nav-stacked.nav-scrollspy{
+    display: none;
+    position: fixed;
+    // width: 16%;
+    text-align: right;
+    margin-left: -75px;
+    a{
+        line-height: 1px;
+        label{
+            cursor: pointer;
+        }
+    }
+}
+@media (min-width: 768px){
+    .nav-stacked.nav-scrollspy {
+        display: inherit;
+    }
+}
+.box .nav-stacked{
+    > li {
+        border-radius: 0;
+        border: 0 solid transparent;
+        border-right-width: 3px;
+        border-right-color: $color-blue;
+        color: #444;
+        > a{
+            border: none;
+        }
+    }
+    > li+li {
+        margin-top: 0;
+    }
+    li.active,
+    li.active:hover{
+        background: transparent;
+        color: #444;
+        border-color:$color-blue;
+        border-top-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 3px;
+        border-right: none;
+    }
+}
+.footer {
+    .breadcrumb{
+        text-align: center;
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+}
+.leaflet-thailland .user-marker{
+    cursor: default;
+}
+div.user-marker{
+    width: 32px;
+    height: 32px;
+    &.user-marker-rain{
+        background-image: imageUser($marker-rain-white-blue);
+         z-index: 1 !important;
+        &.user-marker-rain-red{ background-image: imageUser($marker-rain-red);  z-index: 8 !important}
+        &.user-marker-rain-tawny{ background-image: imageUser($marker-rain-tawny);  z-index: 7 !important}
+        &.user-marker-rain-orange{ background-image: imageUser($marker-rain-orange);  z-index: 6 !important}
+        &.user-marker-rain-gold{ background-image: imageUser($marker-rain-gold);  z-index: 5 !important}
+        &.user-marker-rain-green{ background-image: imageUser($marker-rain-green);  z-index: 4 !important}
+        &.user-marker-rain-celadon{ background-image: imageUser($marker-rain-celadon);  z-index: 3 !important}
+        &.user-marker-rain-blue{ background-image: imageUser($marker-rain-blue);  z-index: 2 !important}
+    }
+    &.user-marker-waterlevel{
+        background-image: imageUser($marker-waterlevel-white-blue);
+         z-index: 1 !important;
+        &.user-marker-waterlevel-red { background-image: imageUser($marker-waterlevel-red); z-index: 7 !important;}
+        &.user-marker-waterlevel-blue { background-image: imageUser($marker-waterlevel-blue);  z-index: 6 !important}
+        &.user-marker-waterlevel-green { background-image: imageUser($marker-waterlevel-green);  z-index: 5 !important}
+        &.user-marker-waterlevel-yellow { background-image: imageUser($marker-waterlevel-yellow);  z-index: 4 !important}
+        &.user-marker-waterlevel-gold { background-image: imageUser($marker-waterlevel-gold);  z-index: 3 !important}
+        &.user-marker-waterlevel-gray { background-image: imageUser($marker-waterlevel-gray);  z-index: 2 !important}
+    }
+    &.user-marker-cctv{
+        &.user-marker-cctv-img { background-image: imageUser($marker-waterlevel-img); z-index: 3 |important;}
+        &.user-marker-cctv-vdo { background-image: imageUser($marker-waterlevel-vdo); z-index: 2 |important}
+        &.user-marker-cctv-dam { background-image: imageUser($marker-waterlevel-dam); z-index: 1 |important}
+    }
+    &.user-marker-dam{
+        background-image: imageUser($marker-dam-white-blue);
+        z-index: 1 !important;
+        &.user-marker-dam-yellow{ background-image: imageUser($marker-dam-yellow); z-index: 2 !important;}
+        &.user-marker-dam-green{ background-image: imageUser($marker-dam-green); z-index: 3 !important;}
+        &.user-marker-dam-blue{ background-image: imageUser($marker-dam-blue); z-index: 4 !important;}
+        &.user-marker-dam-red{ background-image: imageUser($marker-dam-red); z-index: 5 !important;}
+        &.user-marker-dam-min{ background-image: imageUser($marker-dam-min); z-index: 6 !important;}
+    }
+    &.user-marker-waterquality{
+        background-image: imageUser($marker-waterquality-white-blue);
+        &.user-marker-waterquality-green { background-image: imageUser($marker-waterquality-white-green); z-index: 3 !important;}
+        &.user-marker-waterquality-red { background-image: imageUser($marker-waterquality-white-red); z-index: 4 !important;}
+        &.user-marker-waterquality-gray { background-image: imageUser($marker-waterquality-white-gray); z-index: 2 !important;}
+    }
+    &.user-marker-storm{
+        background-image: imageUser($storm-white-blue);
+    }
+    &.user-marker-clock{
+        background-image: imageUser($clock-white-blue);
+    }
+    &.user-marker-wave{
+        background-image: imageUser($marker-wave-white-blue);
+        &.user-marker-wave-red { background-image: imageUser($marker-wave-white-red); }
+    }
+    &.user-marker-warning{
+        background-image: imageUser($warning-white-blue);
+    }
+}
+div.user-icon{
+    width: 32px;
+    height: 32px;
+    &.user-icon-rain{
+        background-image: imageUser($rain-white-blue);
+    }
+    &.user-icon-waterlevel{
+        background-image: imageUser($waterlevel-white-blue);
+        &.user-icon-waterlevel-red { background-image: imageUser($waterlevel-red); }
+        &.user-icon-waterlevel-blue { background-image: imageUser($waterlevel-blue); }
+        &.user-icon-waterlevel-green { background-image: imageUser($waterlevel-green); }
+        &.user-icon-waterlevel-yellow { background-image: imageUser($waterlevel-yellow); }
+        &.user-icon-waterlevel-gold { background-image: imageUser($waterlevel-gold); }
+        &.user-icon-waterlevel-gray { background-image: imageUser($waterlevel-gray); }
+    }
+    &.user-icon-cctv{
+        &.user-icon-cctv-img { background-image: imageUser($cctv-img); }
+        &.user-icon-cctv-vdo { background-image: imageUser($cctv-vdo); }
+        &.user-icon-cctv-dam { background-image: imageUser($cctv-dam); }
+    }
+    &.user-icon-dam{
+        background-image: imageUser($dam-white-blue);
+        &.user-icon-dam-yellow{ background-image: imageUser($dam-yellow); }
+        &.user-icon-dam-green{ background-image: imageUser($dam-green); }
+        &.user-icon-dam-blue{ background-image: imageUser($dam-blue); }
+        &.user-icon-dam-red{ background-image: imageUser($dam-red); }
+        &.user-icon-dam-min{ background-image: imageUser($dam-min); }
+    }
+    &.user-icon-waterquality{
+        background-image: imageUser($waterquality-white-blue);
+        &.user-icon-waterquality-green{ background-image: imageUser($waterquality-white-green); }
+        &.user-icon-waterquality-red{ background-image: imageUser($waterquality-white-red); }
+    }
+    &.user-icon-storm{
+        background-image: imageUser($storm-white-blue);
+    }
+    &.user-icon-clock{
+        background-image: imageUser($clock-white-blue);
+    }
+    &.user-icon-wave{
+        background-image: imageUser($wave-white-blue);
+        &.user-icon-wave-red{ background-image: imageUser($wave-white-red); }
+    }
+    &.user-icon-warning{
+        background-image: imageUser($warning-white-blue);
+    }
+}
+label.user-icon{
+    margin: 0;
+    padding-right: 3px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    @extend div.user-icon;
+}
+table.normal-table{
+    width: 100%;
+    text-align: center;
+    th , td{
+        text-align: inherit;
+        padding: 0 2px;
+    }
+}
+table.normal-table + table.normal-table{
+    margin-top: 10px;
+}
+.table-lowpad{
+    >thead{ >tr { >th { vertical-align: middle; } } }
+    >thead,>tbody,>tfoot{
+        >tr{
+            >td{
+                padding: 4px 5px;
+            }
+        }
+    }
+}
+table{
+    th.right,
+    td.right{
+        text-align: right !important;
+        padding-right: 5px !important;
+    }
+}
+// .select2-results__option[aria-selected=true] {
+//     display: none;
+// }
+table{
+    &#waterlevel_table_scale,
+    &#dam_table_scale{
+        td{
+            padding: 0 5px;
+        }
+        td:nth-child(n+2) {
+            color: white;
+        }
+    }
+    &#box-rain-table{
+        td{
+            padding: 0 5px;
+            color: white;
+            text-align: center;
+        }
+    }
+}
+table{
+    th { text-align: center;}
+    &.rain-table{
+        td:nth-child(3){
+            text-align: center;
+        }
+        td:nth-child(4){
+            text-align: right;
+        }
+    }
+    &.waterlevel-table{
+        font-size: 1em;
+        // th {
+        //     &:nth-child(1){ min-width: 100px; }
+        //     &:nth-child(2){ min-width: 45px; }
+        //     &:nth-child(3){ min-width: 23px; }
+        //     &:nth-child(4){ min-width: 23px; }
+        //     &:nth-child(5){ min-width: 40px; max-width: 40px; }
+        //     &:nth-child(6){ min-width: 40px; max-width: 40px; }
+        // }
+        td {
+            &:nth-child(2) { text-align: center; }
+            &:nth-child(3),&:nth-child(4),&:nth-child(5),&:nth-child(6),
+            &:nth-child(7){
+                text-align: right;
+            }
+        }
+        tbody { th { background-color: #99ffff; } }
+    }
+    &.dam-table{
+        th{
+            &:nth-child(1){ min-width: 98px; }
+            &:nth-child(2),&:nth-child(4){ min-width: 96px; }
+            &:nth-child(3){ min-width: 103px; }
+            &:nth-child(5){ min-width: 85px; }
+        }
+        td {
+            &:nth-child(2),&:nth-child(3),&:nth-child(4),
+            &:nth-child(5){
+                text-align: right;
+            }
+        }
+    }
+    &.waterquality-table {
+        th {
+            &:nth-child(3){ min-width: 46px; }
+            &:nth-child(4){ min-width: 65px; }
+            &:nth-child(5),&:nth-child(6){ min-width: 49px; }
+            &:nth-child(7){ min-width: 62px; }
+            &:nth-child(8){ min-width: 77px; }
+            &:nth-child(10){ min-width: 60px; }
+            &:nth-child(12){ min-width: 45px; }
+        }
+        td {
+            &:nth-child(1n+4){ text-align: right; }
+        }
+    }
+}
+
+table.dataTable thead>tr>{
+    th,td{
+        &.sorting,&.sorting_asc,&.sorting_desc { padding: 10px 18px; }
+    }
+}
+table.waterlevel-table.dataTable thead>tr>{
+    th,td{
+        &.sorting,&.sorting_asc,&.sorting_desc { padding: 10px 0; }
+    }
+}
+.img-thumbnail + .img-thumbnail{
+    margin-left: 15px;
+}
+.bgClass {
+    background-color: #FFFFCC;
+}
+.fontClass {
+    color: #000;
+}
+#overDiv, map{
+    z-index: 10001 !important;
+}
+.radarimg{
+    text-align: center;
+    height: 162px;
+}

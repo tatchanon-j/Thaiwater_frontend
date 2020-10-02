@@ -1,0 +1,26 @@
+<?php
+return [
+    'page_name' => '登録',
+    'email' => 'メール',
+    'err_email' => '無効なEメール',
+    'full_name' => '名 - 姓',
+    'department' => '部門 (Department)',
+    'agency' => 'オフィス/センター (Agency)',
+    'ministry' => '省 (Ministry)',
+    'office' => '代理店',
+    'rank' => '位置',
+    'national_id' => 'IDカード',
+    'err_national_id' => 'IDカードは13桁です',
+    'mobile_phone' => '携帯電話',
+    'err_mobile_phone' => '電話番号がありません',
+    'registration_document' => 'ドキュメント',
+    'captcha' => 'セキュリティコード',
+    'status' => 'アクティブ状態',
+    'active' => '有効',
+    'inactive' => '無効にします',
+    'register' => '登録',
+    'unspecified' => '-- 不特定 --',
+
+    'success_message' => '新規ユーザー登録は完了です。',
+    'error_message' => '新規ユーザーの登録はありません。',
+];

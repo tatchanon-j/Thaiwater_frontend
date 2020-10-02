@@ -1,0 +1,21 @@
+<?php
+return [
+  'page_name' => 'Ignore stations with unusual data',
+  'filter_datatype' => 'Data type',
+  'btn_ignore' => 'Ignore',
+  'ignore_date_column' => 'Ignore date',
+  'user_ignore_column' => 'People ignore',
+  'old_station_id_column' => 'Old station id',
+  'station_name_column' => 'Station',
+  'province_column' => 'Province',
+  'agency_column' => 'Agency',
+  'data_date_column' => 'Datetime of data',
+  'data_value_column' => 'data value',
+  'date_column' => 'Date',
+  'station_id_column' => 'Station id',
+  'value_column' => 'Value',
+  'remark_column' => 'Status',
+  'label_datatype' => 'Data type',
+  'list_ignored' => 'List of stations ignored',
+  'list_noignore' => 'List of stations that are not ignored',
+];

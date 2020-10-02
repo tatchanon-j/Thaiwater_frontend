@@ -1,0 +1,163 @@
+.stage {
+	max-width:100%;
+	height: 450px;
+    /* background-image: url("../video/MVI_5702.jpg"); 
+	background-repeat: no-repeat;
+	background-position: center top;
+    background-size: cover; 
+    background-color: #37824d;*/
+	margin: auto;
+	z-index: 1; 
+	position: relative;
+	overflow: hidden;
+    font-family: $font-kanit;
+
+	> .obj-binary{
+		z-index: 2;
+		color: #fff;
+		opacity: 0.1;
+		display: inline-block;
+		position: absolute;
+		text-align: right;
+		right: 20px;
+        font-size: 1.3em;
+	    /* Standard syntax */
+
+	 	animation: binary 5s linear 0s infinite reverse;
+
+	    /* Chrome, Safari, Opera */
+	    -webkit-animation: binary 5s linear 0s infinite  ;  
+	}
+     > .content-info-banner {
+
+   padding-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+
+        z-index: 3;
+        color: #fff;
+        font-size: 4em;
+
+        > .title {
+          color: $theme-color-plus;
+          font-size: $font-size-h2;
+        }
+    }
+
+
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes binary {
+    0%   {color:#ccc; left:800px; top:0px;}
+   100% {color:#ccc; left:800; top:450px;}
+}
+
+/* Standard syntax   */
+@keyframes binary {
+	0%   {color:#ccc; left:800px; top:-350px;}
+    50%   {color:#ccc; left:800px; top:-170px;}
+    100% {color:#ccc; left:800px; top:0px;}
+}
+
+
+/* -water 
+
+<animation-name> || <animation-duration> || <animation-timing-function> || <animation-delay> || <animation-iteration-count> || <animation-direction>
+
+
+*/
+.know {
+    width: 450px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+
+    > .subject-light-green { color: #C3FB02; }
+    color: white;
+    font-size: 3em;
+    z-index:3;
+transition: width 2s, height 2s, transform 2s;
+}
+     .subject-water { 
+    -webkit-animation: water 3s  infinite; /* Chrome, Safari, Opera */
+    animation: water 5s linear 0s infinite alternate ;
+
+     }
+
+    .subject-weather { 
+    -webkit-animation: weather 3s infinite; /* Chrome, Safari, Opera */
+      animation: weather 5s linear 3s infinite alternate ;
+
+     }
+     .subject-disaster { 
+    -webkit-animation: disaster 8s infinite; /* Chrome, Safari, Opera */
+    animation: disaster 5s linear 6s infinite alternate ;
+
+     }
+
+     .subject-management-water{ 
+    -webkit-animation: management-water 8s infinite; /* Chrome, Safari, Opera */
+    animation: management-water 5s linear 9s infinite alternate ;
+     }
+
+
+/* Standard syntax */
+@keyframes water {
+     0%   {color:#ccc; left:0px; top:200px;opacity: 0;}
+      50%   {color:#ccc; left:0px; top:230px;}
+     100%   {color:#ccc; left:0px; top:250px;}
+   
+}
+
+/* Standard syntax */
+@keyframes weather {
+     0%   {color:#ccc; left:280px; top:300px;opacity: 0;}
+     100%   {color:#ccc; left:280px; top:320px;} 
+
+}
+
+
+/* Standard syntax */
+@keyframes disaster {
+     0%   {color:#ccc; left:580px; top:150px;opacity: 0;}
+     100%   {color:#ccc; left:580px; top:170px;}
+}
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes management-water {
+     0%   {color:#ccc; left:380px; top:200px;}
+     100%   {color:#ccc; left:380px; top:250px;}
+}
+
+/* Standard syntax */
+@keyframes management-water {
+     0%   {color:#ccc; left:280px; top:30px;opacity: 0;}
+     100%   {color:#ccc; left:280px; top:50px;}
+}
+
+/* banner vdo */
+.video {
+  height: 450px;
+}
+
+video { 
+        margin-top: 177px;
+         position: absolute;
+    left: 50%;
+    min-width: 100%;
+    min-height: 50px;
+    width: 100%;
+    height: 300;
+    z-index: -1;
+   /* opacity: 0.3; */
+    transform: translateX(-50%) translateY(-50%);
+ /* background: url('../video/MVI_5702.jpg') no-repeat;
+
+  background-size: cover; 
+  background-color: #37824d;*/
+  transition: 1s opacity;
+}

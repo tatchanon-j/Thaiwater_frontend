@@ -1,0 +1,219 @@
+@import "variables";
+
+.logo {
+    border-radius: 20px;
+}
+.info.date{
+    background-color: white;
+    border-radius: 3px;
+    text-align: center;
+}
+.leaflet-container{
+    font-size: 12px;
+    line-height: 1.5;
+    font-family: "Kanit" !important;
+}
+.leaflet-container{
+    cursor: default;
+}
+.leaflet-left {
+    width: 100%;
+}
+.leaflet-right{
+    font-size: 16px;
+    margin-right: 25px;
+}
+.control-left,
+.control-right{
+    width: 50%;
+}
+.control-left{
+    float: left;
+    .control-box{
+        float: right;
+    }
+}
+.control-right{
+    float: right;
+    .control-box{
+        float: left;
+    }
+}
+.control-box{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.control-head {
+    div.icon{
+        width: 32px;
+        height: 32px;
+        float: left;
+        margin-right: 5px;
+        background-repeat: no-repeat;
+    }
+    div.info{
+        width: 12px;
+        height: 12px;
+        margin-top: 12px;
+        float: left;
+        cursor: pointer;
+        background-repeat: no-repeat;
+        background-image: imageUser($info-white-blue);
+    }
+    div.control-head-text{
+        margin-left: 55px;
+        line-height: 32px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    div.control-head-text span{
+       color: $color-gray;
+       font-size: 13px;
+       margin-left: 5px;
+   }
+   div.control-head-text a{
+       color: inherit;
+       text-decoration: none;
+   }
+}
+.control-box-rain{
+    margin-right: 20%;
+    .control-head div.icon{
+        background-image: imageUser($rain-white-blue);
+    }
+}
+.control-box-waterlevel {
+    margin-right: 28%;
+    .control-head div.icon{
+        background-image: imageUser($waterlevel-white-blue);
+    }
+}
+.control-box-waterquality {
+    margin-right: 28%;
+    .control-head div.icon{
+        background-image: imageUser($waterquality-white-blue);
+    }
+}
+.control-box-dam{
+    margin-right: 34%;
+    .control-head div.icon{
+        background-image: imageUser($dam-white-blue);
+    }
+}
+.control-box-storm{
+    margin-left: 35%;
+}
+.control-box-storm .control-head div.icon{
+    background-image: imageUser($storm-white-blue);
+}
+.control-box-clock{
+    margin-left: 43%;
+    .control-head div.icon{
+        background-image: imageUser($clock-white-blue);
+    }
+}
+.control-box-wave{
+    margin-left: 46%;
+    .control-head div.icon{
+        background-image: imageUser($wave-white-blue);
+    }
+}
+.control-box-warning{
+    margin-left: 30%;
+    .control-head div.icon{
+        background-image: imageUser($warning-white-blue);
+    }
+}
+.control-body{
+    clear: both;
+    height: 55px;
+    overflow: hidden;
+    div{
+       position: relative;
+       top: 0;
+   }
+}
+.control-arrow{
+    text-align: center;
+    .fa-angle-down,
+    .fa-angle-up{
+        visibility: hidden;
+        cursor: pointer;
+        margin: 0 .2em;
+    }
+    .fa-angle-down:hover,
+    .fa-angle-up:hover{
+        transform: scale(2,2);
+    }
+    &.hasDown .fa-angle-down{
+        visibility: visible;
+    }
+    &.hasUp .fa-angle-up{
+        visibility: visible;
+    }
+}
+.label {
+    display: inline;
+    padding: .1em .6em .1em;
+    margin: 0 .5px;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: $color-white;
+    text-align: center;
+    white-space: inherit;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-title{
+    font-size: 100%;
+    color: #000;
+}
+.label-red {
+    background-color: $color-red;
+}
+.label-yellow {
+    background-color: $color-yellow;
+}
+.label-blue {
+    background-color: $color-blue;
+}
+.label-orange {
+    background-color: $color-orange;
+}
+.label-green {
+    background-color: $color-green;
+}
+.label-gray {
+    background-color: $color-gray;
+}
+.label-silver {
+    background-color: $color-graylight;
+}
+.label-white {
+    background-color: $color-white;
+}
+.text-red {
+    color: $color-red;
+}
+.text-yellow {
+    color: $color-yellow ;
+}
+.text-blue {
+    color: $color-blue;
+}
+.text-orange {
+    color: $color-orange;
+}
+.text-green {
+    color: $color-green;
+}
+.text-gray {
+    color: $color-gray;
+}
+.text-silver {
+    color: $color-graylight;
+}
+.text-white {
+    color: $color-white;
+}

@@ -1,0 +1,401 @@
+/*!
+ * www.haii.or.th [thaiwater30+ 2016]
+ * Copyright 2011-2016 HAII
+ * v.1.0.1
+ * by phithakkhet@haii.or.th
+ */
+
+
+// Import Bootstrap Compass integration
+// Import custom Bootstrap variables
+
+// Import Bootstrap for Sass
+
+
+@import '_bootstrap'; // global variables.
+@import '_banner-ani';
+
+@import url(https://fonts.googleapis.com/css?family=Kanit&subset=thai,latin);
+@import url(css/fontawesome/css/font-awesome.min.css);
+@import url(css/info-animation.css);
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+
+/* bg-images */
+.warroom-bg::before {
+    background: rgba(0, 0, 0, 0) url("../images/bg.jpg") repeat scroll center center;
+    bottom: 0;
+    content: "";
+    display: block;
+    left: 0;
+
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+/*
+
+@media screen and (max-width: 500px) { 
+
+ .stage {
+ background: url('video/MVI_5690.jpg')  no-repeat center center fixed;
+ }
+ .name-haii {
+ padding-top: 30px;
+ width: 220px;
+ }
+}
+@media screen and (max-device-width: 800px) {
+  html { background: url('video/MVI_5690.jpg') #000 no-repeat center center fixed; }
+  #bgvid { display: none; }
+   .name-haii {
+     padding-top: 4px;
+     width: 610px;
+     }
+} */
+
+
+
+/********
+* typrograpy 
+*********/
+h1, h2, h3, h4, h5{
+	font-family: $font-kanit;
+	color: $theme-color;
+}
+.navbar-default {
+	font-family: $font-kanit;
+	  box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.4);
+}
+ 
+ /* list */
+ul {
+	@include list-unstyled;
+}
+
+/* mixin */
+@mixin witget($btn-font-color,  $width, $theme-color, $btn-bg) {
+	color: $btn-font-color;
+	  	border: {
+	  	width: $width;
+	    color: $theme-color;
+	    style: solid;
+	  }
+    
+    background-color: #136F91;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;    
+}
+
+.block-storm {
+	@include witget(#fff, 1px, $theme-color, #136F91);
+	margin-bottom: 3px;
+ 	border-radius:5px;
+	&:hover,
+	&:focus{
+		color: #fff;
+		border-radius: 5px;
+		border: $theme-color-plus;
+		background-color: $theme-color-plus;
+		margin-bottom: 3px;
+	} 
+}
+
+
+
+
+@mixin btn($btn-font-color,  $width, $theme-color, $btn-bg) {
+	color: $btn-font-color;
+	  	border: {
+	  	width: $width;
+	    color: $theme-color;
+	    style: solid;
+	  }
+    
+    background-color: $btn-bg;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+}
+
+
+.btn-outline { 
+	@include btn(#fff, 1px, $theme-color, $theme-color);
+	margin-bottom: 3px;
+ 	border-radius: 30px;
+	&:hover,
+	&:focus{
+		color: #fff;
+		border-radius: 30px;
+		border: $theme-color-plus;
+		background-color: $theme-color-plus;
+		margin-bottom: 3px;
+	}                           
+}
+
+
+@mixin tag($color, $width, $border-color, $bg-color){
+    color: $color;
+    font: {
+        width: bold;
+        family: $font-family-base; 
+        size: $font-size-base;
+    }
+    border: {
+        color: $border-color;
+        width: $width;
+        style: solid;
+    }  
+    background: $bg-color;
+    padding: 5px 10px;
+
+}
+
+.sidebar {
+	@include tag(#999, 0px, #fff, #f5f5f5);
+}
+.contact-tel {
+	@include tag(#fff, 0px, #fff, #fff);
+}
+
+.tag-date { 
+	padding: 0px;
+	color: #ccc;
+	font : {
+		size : ceil(($font-size-base * 0.85))  ;
+	}
+
+}
+.content-info-detail {
+	color: #9d9d9d;
+}
+
+> p {
+	.powered {
+		padding: 0px;
+	}
+}
+
+.space {
+	margin-top:35px;
+}
+.social { 
+
+	background-image: url("../haii-fifteen-blue/images/banner-ani/bg-social.jpg"); 
+	background-repeat: no-repeat;
+	background-position: center top;
+    background-size: cover;
+    padding: 5px 0px;
+	> a {
+			color: #3F9FB4;
+		}
+}
+
+
+
+.notifications {
+	background-image: url("../haii-fifteen-blue/images/bg-notification.png");
+		background-repeat: no-repeat;
+	background-position: center top;
+    background-size: cover;
+
+	border-bottom:1px solid #4db973;
+	font-family: $font-kanit;
+	padding: 10px;
+	color: #fff;
+	> h1, h2, h3 {
+		color: #fff;
+	}
+	> a {
+		color: #fff;
+		
+		&:hover,
+		&:focus{
+		color: lighten($theme-color, 30%);
+
+		} 
+	} 
+
+	> .news-list-time {
+		font: {
+        family: $font-family-base; 
+        size: ($font-size-base  - 1);
+    	}
+    	color: lighten($theme-color, 10%);
+	}
+	.fancy-slideshow-shortcode-bac{
+		color:$theme-color;
+	}
+}
+.content-info {
+	padding: 10px;
+		&:hover,
+		&:focus{
+			padding: 10px;
+
+		}
+	
+}
+.ccom {
+	@include tag(#2e92aa, 0px, #fff, #fff);
+	color: $theme-color;
+	> a {
+		&:hover,
+		&:focus{
+			@include tag(#2e92aa, 1px, #2e92aa, #fff);
+		}
+	}
+}
+
+.hoverable:not(:hover) + .show-on-hover {
+    display: none;
+    margin-top: -10px;
+}
+
+.link-banner {
+	background-color: #f5f5f5;
+	padding: 20px;
+
+	> a > img {
+		&:hover,
+		&:focus{
+			color: #fff;
+			background-color: $theme-color;
+		}
+	}
+
+}
+/*  link-banner-animation */
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+
+/*  breadcrumbs  */
+.breadcrumbs {
+	padding-top: 10px;
+}
+ 
+
+/* / link-banner-animation */
+
+.footer{
+	font-size: $font-size-small;
+	background-color: $theme-color;
+	padding-top: 30px;
+	color: #f5f5f5;
+
+
+	> h1, h2, h3, h4, h5, h6 {
+		color: #f5f5f5;
+		opacity: 0.7;
+	}
+	.fa-inverse {
+		color: $theme-color;	
+	}
+	 a {
+		color: #f5f5f5;
+		
+		&:hover,
+		&:focus{
+			color: $theme-color-plus;
+		}
+	}
+}
+
+.powered { 
+	
+	@include tag(#aaa, 0px, #fff, #fff);
+	font-size: $font-size-small;
+	text-align: right;
+	> a {
+		color: #aaa;
+		font-size: $font-size-h6;
+		font-style: italic;
+	}
+}
+
+
+.bs-docs-sidebar {
+	@include tag(#999, 0px, #fff, #fff);
+	font-family: $font-kanit;
+		> a {
+		color: #999!important;
+	}
+}
+/*
+.current-menu-item  {
+	@include tag($theme-color, 0px, #fff, #fff);
+	color: $theme-color;
+	font-weight: bold;
+	font-family: $font-kanit;
+} */
+
+ 
+
+ .widget-time {
+    background-image: url("../haii-fifteen-blue/images/banner-ani/bg-time.png");
+    background-repeat: no-repeat;
+    bottom: 0;
+    color: #fff;
+    display: inline-block;
+    height: 250px;
+    left: 0;
+    position: absolute;
+    text-align: left;
+    width: 250px;
+    z-index: 3;
+}
+.widget-time > .widget-time-content {
+    bottom: 0;
+    left: 0;
+    padding: 20px 0 10px 20px;
+    position: absolute;
+}
+.widget-time > .widget-time-content > .widget-time-hour {
+    font-size: 3em;
+}
+.widget-time > .widget-time-content > .widget-time-date {
+    font-size: 1.5em;
+    margin-left: 53px;
+    margin-top: -18px;
+}
+
+
+
+.mg-image img {
+    max-width: 100%;
+    transition: all 1s ease 0s;
+}
+.mg-image:hover img {
+    transform: scale(1.25);
+}
+.mg-image {
+    height: 171px;
+    overflow: hidden;
+    width: 265px;
+}
+
+
+
+
+.menu > li {
+	margin:10px;
+	font-family: "Kanit";
+	font-weight: bold;
+}
+
+ul .children {
+	margin-left: 20px;
+}
+.children > li{
+	margin: 15px 20px 15px 20px;
+	font-weight: initial;
+}

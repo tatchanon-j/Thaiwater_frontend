@@ -1,0 +1,33 @@
+//
+// Breadcrumbs
+// --------------------------------------------------
+
+
+.breadcrumb {
+  padding: $breadcrumb-padding-vertical $breadcrumb-padding-horizontal;
+  margin-bottom: 0px;
+  list-style: none;
+  background-color: $breadcrumb-bg;
+  border-radius: 0px;
+  box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.4);
+  font-size: $breadcrumb-font-size;
+  > li {
+    display: inline-block;
+    color: $breadcrumb-color;
+    > a {
+      color: $breadcrumb-color;
+    }
+    > .active {
+      color: $breadcrumb-active-color;
+    }
+    + li:before {
+      // [converter] Workaround for https://github.com/sass/libsass/issues/1115
+      $nbsp: "\00a0";
+      content: "#{$breadcrumb-separator}#{$nbsp}"; // Unicode space added since inline-block means non-collapsing white-space
+      padding: 0 5px;
+      color: $breadcrumb-color;
+    }
+  }
+
+
+}

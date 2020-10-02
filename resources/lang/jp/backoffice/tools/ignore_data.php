@@ -1,0 +1,21 @@
+<?php
+return [
+  'page_name' => 'Ignore もっと珍しい駅',
+  'filter_datatype' => 'データの種類',
+  'btn_ignore' => 'Ignore',
+  'ignore_date_column' => '日付 Ignore',
+  'user_ignore_column' => '人 Ignore',
+  'old_station_id_column' => '駅コード',
+  'station_name_column' => '駅',
+  'province_column' => '州',
+  'agency_column' => '代理店',
+  'data_date_column' => '日付 - 時間データ',
+  'data_value_column' => 'data value',
+  'date_column' => '日付',
+  'station_id_column' => '局コード',
+  'value_column' => 'コスト',
+  'remark_column' => 'ステータス',
+  'label_datatype' => 'データの種類',
+  'list_ignored' => 'ステーションリスト Ignore',
+  'list_noignore' => 'チャンネルリストではありません Ignore',
+];

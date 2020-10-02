@@ -1,0 +1,26 @@
+// color
+$color-blue: #00a7e1;
+$color-gray: #939598;
+$color-graylight: #e6e7e8;
+$color-white: #ffffff;
+$color-red: #ef403d;
+$color-green: #50B748;
+$color-yellow: #ffcc4e;
+$color-orange: #f36f31;
+
+// icon
+$info-white-blue: 'info/info_white_blue_12.png';
+$rain-white-blue: 'rain/rain_white_blue_32.png';
+$waterlevel-white-blue: 'waterlevel/waterlevel_white_blue_32.png';
+$waterquality-white-blue: 'waterquality/waterquality_white_blue_32.png';
+$dam-white-blue: 'dam/dam_white_blue_32.png';
+$storm-white-blue: 'storm/storm_white_blue_32.png';
+$clock-white-blue: 'clock/clock_white_blue_32.png';
+$wave-white-blue: 'wave/wave_white_blue_32.png';
+$warning-white-blue: 'warning/warning_white_blue_32.png';
+
+// image user path
+$images-user-base-path: '../../../../../images/thailand' !default;
+@function imageUser($file) {
+  @return url($images-user-base-path + '/' + $file);
+}

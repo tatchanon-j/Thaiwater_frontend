@@ -1,0 +1,46 @@
+<?php
+return [
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+    'deleted' => 'Deleted',
+
+    'page_name' => 'Management system',
+    'col_ordinal' => 'Order',
+    'col_name' => 'Name',
+    'col_desc' => 'Detail',
+    'col_active' => 'Status',
+    'add_group' => 'Add menu',
+    'edit_group' => 'Edit menu',
+    'delete_group' => 'delete menu',
+    'undelete_group' => 'Recovey menu',
+    'delete_prompt' => 'Confrim delete "%s"',
+    'undelete_prompt' => 'Confirm recovery "%s"',
+
+    'fld_name' => 'Menu',
+    'fld_desc' => 'Detail',
+    'fld_status' => 'Usage status',
+    'fld_realm' => 'Realm',
+    'fld_services' => 'API Services',
+
+    'err_no_name' => 'Please enter menu name',
+    'err_no_description' => 'Please enter menu detail',
+    'ERR_422' => 'Unable to save data. \nPlease check if the menu name is the same as the existing one',
+
+    'filter_status' => 'Show menu with status',
+    'filter_status_all' => '(All status )',
+    'filter_status_none' => '(Hide all)',
+    'filter_status_all_selected' => '(Display all)',
+    'filter_status_none_selected' => '(Hide all)',
+    'select_all' => 'Select all',
+    'all_selected' => 'Selected all',
+    'none_selected' => 'unselected',
+
+    'success_add' => 'Add menu "%s" success',
+    'success_edit' => 'Edit menu  "%s" success',
+    'success_delete' => 'Delete success',
+    'success_undelete' => 'Recovery success',
+    'msg_save_suc' => 'Save success',
+    'btn_confirm' =>  'Confirm',
+    'btn_cancel' => 'Cancel',
+    'btn_close' => 'Close',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+  'page_name' => 'Ignore สถานีที่มีข้อมูลผิดปกติ',
+  'filter_datatype' => 'ชนิดข้อมูล',
+  'btn_ignore' => 'Ignore',
+  'ignore_date_column' => 'วันที่ Ignore',
+  'user_ignore_column' => 'ผู้ Ignore',
+  'old_station_id_column' => 'รหัสสถานีเดิม',
+  'station_name_column' => 'สถานี',
+  'province_column' => 'จังหวัด',
+  'agency_column' => 'หน่วยงาน',
+  'data_date_column' => 'วัน-เวลาของข้อมูล',
+  'data_value_column' => 'ค่าข้อมูล',
+  'date_column' => 'วันที่',
+  'station_id_column' => 'รหัสสถานี',
+  'value_column' => 'ค่า',
+  'remark_column' => 'สถานะ',
+  'label_datatype' => 'ชนิดข้อมูล',
+  'list_ignored' => 'รายการสถานีที่ถูก Ignore',
+  'list_noignore' => 'รายการสถานีที่ไม่ถูก Ignore',
+  'btn_display_hitory' => 'ดูประวัติ',
+];
